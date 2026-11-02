@@ -1,0 +1,16 @@
+## Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+## Editores
+.idea/
+.vscode/
+*.swp
+
+## Sistema
+.DS_Store
+Thumbs.db
