@@ -1,6 +1,6 @@
 {
- "corrida": "2026-11-03T18:16:50Z",
- "total": 99,
+ "corrida": "2026-11-04T18:30:38Z",
+ "total": 100,
  "ofertas": [
   {
    "id": "getonboard:desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -141,7 +141,7 @@
    "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote",
    "ubicacion": "Remote (remote_local)",
    "salario": "",
-   "publicado": "2026-10-07",
+   "publicado": "2026-11-03",
    "descripcion": "5+ years of experience as a full-stack engineer and/or front-end engineer. Hands-on experience with React and back-end development, including Java services and APIs. Experience with Azure DevOps. Comfort working under deadlines and adapting as project requirements evolve. Strong verbal and written communication with team members and clients. Collaborative mindset—willing to voice opinions and suggest improvements respectfully. We value engineers who can own problems end to end: from proposing the right approach, to reviewing code, to helping ensure stable production releases. If you enjoy working across front-end and back-end responsibilities and you bring clear, respectful communication, we’d love to meet you. Build modern, dynamic front-end experiences using React. Develop back-end services and APIs to integrate cleanly across the stack. Design solutions, propose approaches, and troubleshoot issues on the front end. Participate in code reviews and support releases to production. Collaborate with team members and stakeholders to align implementation with evolving project requirements. .NET experience (helpful because we may work across Java & .NET services). Contrato a largo plazo. 100% remoto. Vacaciones y PTOs. Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple. Plataforma de cursos en línea. Budget para compra de libros. Budget para compra de materiales de trabajo. At Improving, we also emphasize a culture of teamwork, excellence, and fun, with open communication, personal growth, and shared rewards.",
    "tags": [
     "data"
@@ -359,27 +359,27 @@
    "estado": ""
   },
   {
-   "id": "getonboard:senior-full-stack-engineer-we-built-it-remote",
+   "id": "getonboard:fullstack-developer-react-node-js-improving-remote",
    "fuente": "GetOnBoard",
-   "titulo": "Senior Full-Stack Engineer",
-   "empresa": "We Built It",
-   "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-we-built-it-remote",
-   "ubicacion": "Remote (fully_remote)",
-   "salario": "4,000 - 5,000",
+   "titulo": "Full-Stack Developer: React & Node.js",
+   "empresa": "Improving",
+   "url": "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
    "publicado": "2026-11-03",
-   "descripcion": "Engineering Core: Solid background as a Senior Full Stack Engineer building and maintaining scalable enterprise software. Frontend Knowledge: Strong proficiency in modern JavaScript frameworks (React preferred). Working familiarity with inspecting and translating designs from Figma. Backend & CMS Knowledge: Strong backend capabilities (Node.js, Java, Spring Boot, or similar) and database experience. Teamwork & Growth: Comfortable taking direction from technical leadership while independently driving assigned tasks to completion. Process & Tools: Practical experience in an Agile/Scrum environment and familiarity with tools like Jira, monday.com, and MS Teams. Qualifications 4+ years of full-stack software development experience. Proven track record of shipping production-ready web applications in a collaborative environment. Bachelor’s degree in Computer Science, Software Engineering, or equivalent practical experience. Hands-on Development: Own end-to-end full-stack feature delivery, building responsive frontend components (React/TypeScript) and integrated backend services (Adobe CMS, Node.js/Java, REST APIs). Collaboration with Leadership: Work closely under the Full Stack Lead to implement architectural decisions, execute sprint deliverables, and refine engineering workflows. Design & Workflow Integration: Translate Figma mockups and design specs into high-quality code, collaborating with the product team without needing advanced visual design skills. Agile Execution: Actively participate in daily standups, sprint planning, and backlog refinements using Jira, monday.com, and Microsoft Teams. Quality & Code Standards: Participate in peer code reviews, write automated tests, and ensure code aligns with security and WCAG accessibility guidelines. Exposure to Adobe CMS / AEM or another enterprise CMS is a plus, but not required if you have strong general web/CMS knowledge.",
+   "descripcion": "5+ años de experiencia en desarrollo web fullstack. Experiencia sólida y demostrable en React (componentes funcionales, hooks, state management con Redux, Context API, etc.). Conocimiento y experiencia en Node.js y frameworks como Express, Nest.js o similares. Experiencia en desarrollo de APIs REST y comprensión de arquitectura backend. Familiaridad con bases de datos (SQL y NoSQL) como PostgreSQL, MongoDB, etc. Experiencia práctica con IA y/o machine learning en aplicaciones web (integración de APIs de IA, LLMs, etc.). Conocimiento de herramientas de versionamiento (Git) y flujos de trabajo colaborativos. Dominio de testing (unit tests, integration tests) y prácticas de CI/CD. Inglés Intermedio-Avanzado o avanzado (requisito indispensable) - necesario para comunicación con equipos globales Capacidad de trabajar en equipos multidisciplinarios y comunicarse efectivamente. Proactividad, responsabilidad y compromiso con la calidad del código. Buscamos un Desarrollador Fullstack con sólida experiencia en React, Node.js y familiaridad con tecnologías de IA. Serás responsable de desarrollar aplicaciones web modernas, escalables y de alto rendimiento, contribuyendo tanto en el frontend como en el backend de un sistema de RRHH. Si te apasiona la tecnología y deseas trabajar en proyectos innovadores con IA, esta es tu oportunidad. Contrato a largo plazo. 100% Remoto. Vacaciones y PTOs Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple. Plataforma de cursos en linea Budget para compra de libros. Budget para compra de materiales de trabajo mucho mas..",
    "tags": [
     "data"
    ],
-   "puntaje": 44,
+   "puntaje": 40,
    "motivos": [
     "+3 React",
-    "+2 TypeScript",
     "+3 Fullstack",
     "+1 Node",
+    "+1 SQL",
     "+2 Remoto"
    ],
-   "idioma": "en",
+   "idioma": "es",
    "estado": ""
   },
   {
@@ -390,7 +390,7 @@
    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-xintec-santiago",
    "ubicacion": "Chile (hybrid)",
    "salario": "",
-   "publicado": "2026-10-08",
+   "publicado": "2026-11-03",
    "descripcion": "Buscamos un/a Desarrollador/a Full Stack con experiencia comprobable en Node.js, React, Next.js y NestJS. Necesitamos a alguien que pueda desarrollar tanto backend como frontend de nuestras plataformas, trabajando de forma colaborativa con equipos de producto, diseño y DevOps para entregar soluciones escalables y de calidad. Requerimos: Experiencia sólida con Node.js. Dominio de React y Next.js. Experiencia con NestJS. Conocimiento de TypeScript. Familiaridad con APIs REST y/o GraphQL. Experiencia en GCP Valoramos además la capacidad de trabajar en equipo, comunicar avances y desafíos de forma clara, y mantener estándares de calidad (código testeable y documentado) a lo largo de todo el ciclo de desarrollo. Desarrollar y mantener APIs y servicios backend con Node.js y NestJS. Construir interfaces de usuario con React y Next.js. Colaborar en el diseño de arquitecturas y modelado de datos. Integrar servicios con sistemas existentes y APIs de terceros. Escribir código limpio, testeable y documentado. Participar en revisiones de código y ceremonias ágiles. Sumarían como puntos extra: Experiencia en GO Prácticas sólidas de testing y documentación. Te ofrecemos: Aguinaldo (bonificación) de fiestas patrias y navidad. Seguro de salud complementario, vida y catastrófico. Caja de compensación Los Andes. Posibilidad de capacitación vinculada a las necesidades de la empresa. Bono de colación (almuerzo). Bono de vacaciones Modalidad híbrida: 2 días por semana en Santiago Centro . Tipo de contrato: indefinido .",
    "tags": [
     "data"
@@ -427,6 +427,54 @@
     "+3 Fullstack",
     "+1 SQL",
     "-2 Híbrido"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:fullstack-developer-java-angular-improving-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Full-Stack Developer: Java + Angular",
+   "empresa": "Improving",
+   "url": "https://www.getonbrd.com/jobs/fullstack-developer-java-angular-improving-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
+   "publicado": "2026-11-03",
+   "descripcion": "Backend - Frameworks Java: SpringBoot (versión 3/4) Spring Framework (versión 6/7) Gradle (versión 8/9) Frontend: Angular (versiones recientes) TypeScript HTML5 y CSS3 RxJS Angular Material Bases de Datos: MongoDB, PostgreSQL, Snowflake (conocimiento básico) Herramientas: GitHub, Jira, Confluence, Claude Nube: AWS, Azure (conocimiento básico) Experiencia: 5+ años en desarrollo fullstack 3+ años con Java/Spring Framework 2+ años con Angular Experiencia en aplicaciones end-to-end completas Conocimiento de diseño web responsivo y UX Idiomas: Inglés intermedio-avanzado o avanzado (indispensable) Desarrollo Backend: Desarrollar y mantener aplicaciones backend usando Java y Spring Framework Diseñar e implementar APIs RESTful y arquitectura de microservicios Trabajar con múltiples tecnologías de bases de datos para optimizar la gestión de datos Desarrollo Frontend: Construir interfaces de usuario responsivas e interactivas usando Angular Implementar arquitectura basada en componentes siguiendo las mejores prácticas de Angular Gestionar estado y manejar operaciones asincrónicas con RxJS General: Colaborar entre equipos de frontend, backend y DevOps para entregar soluciones completas Escribir código limpio, mantenible y testeable siguiendo mejores prácticas Participar en revisiones de código y contribuir a la mejora continua Troubleshooting y resolución de problemas en producción Documentar código, APIs y arquitectura del sistema Contrato a largo plazo. 100% Remoto. Vacaciones y PTOs Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple. Plataforma de cursos en linea Budget para compra de libros. Budget para compra de materiales de trabajo mucho mas..",
+   "tags": [
+    "data"
+   ],
+   "puntaje": 36,
+   "motivos": [
+    "+2 TypeScript",
+    "+3 Fullstack",
+    "+1 SQL",
+    "+1 Azure",
+    "+2 Remoto"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:desarrollador-fullstack-java-angular-improving-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador Full-Stack: Java & Angular",
+   "empresa": "Improving",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
+   "publicado": "2026-11-03",
+   "descripcion": "Backend - Frameworks Java: SpringBoot (versión 3/4) Spring Framework (versión 6/7) Gradle (versión 8/9) Frontend: Angular (versiones recientes) TypeScript HTML5 y CSS3 RxJS Angular Material Bases de Datos: MongoDB, PostgreSQL, Snowflake (conocimiento básico) Herramientas: GitHub, Jira, Confluence, Claude Nube: AWS, Azure (conocimiento básico) Experiencia: 5+ años en desarrollo fullstack 3+ años con Java/Spring Framework 2+ años con Angular Experiencia en aplicaciones end-to-end completas Conocimiento de diseño web responsivo y UX Idiomas: Inglés intermedio-avanzado o avanzado (indispensable) Desarrollo Backend: Desarrollar y mantener aplicaciones backend usando Java y Spring Framework Diseñar e implementar APIs RESTful y arquitectura de microservicios Trabajar con múltiples tecnologías de bases de datos para optimizar la gestión de datos Desarrollo Frontend: Construir interfaces de usuario responsivas e interactivas usando Angular Implementar arquitectura basada en componentes siguiendo las mejores prácticas de Angular Gestionar estado y manejar operaciones asincrónicas con RxJS General: Colaborar entre equipos de frontend, backend y DevOps para entregar soluciones completas Escribir código limpio, mantenible y testeable siguiendo mejores prácticas Participar en revisiones de código y contribuir a la mejora continua Troubleshooting y resolución de problemas en producción Documentar código, APIs y arquitectura del sistema Contrato a largo plazo. 100% Remoto. Vacaciones y PTOs Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple. Plataforma de cursos en linea Budget para compra de libros. Budget para compra de materiales de trabajo mucho mas..",
+   "tags": [
+    "data"
+   ],
+   "puntaje": 36,
+   "motivos": [
+    "+2 TypeScript",
+    "+3 Fullstack",
+    "+1 SQL",
+    "+1 Azure",
+    "+2 Remoto"
    ],
    "idioma": "es",
    "estado": ""
@@ -578,7 +626,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-10-15",
-   "descripcion": "QuÃ© es Deazy Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. BÃ¡sicamente son un intermediario entre el cliente final y nosotros. CÃ³mo funciona el modelo Deazy factura al cliente final a su propia tarifa (en este caso estÃ¡n hablando de EUR 47/h, aunque todavÃ­a hay que confirmar si ese es el rate al cliente o lo que pagan al proveedor). Nosotros le facturamos a Deazy a un rate mÃ¡s bajo, y la diferencia es su margen. Por eso la tarifa introductoria que les estamos ofreciendo es USD 45/h - USD 40/h â pensada para que Deazy tenga margen cÃ³modo y nos priorice y abrir la cuenta Si la relaciÃ³n funciona, Deazy nos puede asignar proyectos de forma recurrente sin que nosotros tengamos que salir a conseguirlos. Es un canal de ventas indirecto, ellos traen el cliente, nosotros entregamos. El volumen potencial es importante si nos posicionamos bien con ellos. Deazy nos conoce principalmente como agencia Flutter. El trabajo ahora es mostrarles que tambiÃ©n somos fuertes en React Native, React, Node.js , Python y AI Please mention the word **JOYOUSLY** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "QuÃ© es Deazy Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. BÃ¡sicamente son un intermediario entre el cliente final y nosotros. CÃ³mo funciona el modelo Deazy factura al cliente final a su propia tarifa (en este caso estÃ¡n hablando de EUR 47/h, aunque todavÃ­a hay que confirmar si ese es el rate al cliente o lo que pagan al proveedor). Nosotros le facturamos a Deazy a un rate mÃ¡s bajo, y la diferencia es su margen. Por eso la tarifa introductoria que les estamos ofreciendo es USD 45/h - USD 40/h â pensada para que Deazy tenga margen cÃ³modo y nos priorice y abrir la cuenta Si la relaciÃ³n funciona, Deazy nos puede asignar proyectos de forma recurrente sin que nosotros tengamos que salir a conseguirlos. Es un canal de ventas indirecto, ellos traen el cliente, nosotros entregamos. El volumen potencial es importante si nos posicionamos bien con ellos. Deazy nos conoce principalmente como agencia Flutter. El trabajo ahora es mostrarles que tambiÃ©n somos fuertes en React Native, React, Node.js , Python y AI Please mention the word **JOYOUSLY** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "react native",
     "react",
@@ -625,14 +673,14 @@
    "estado": ""
   },
   {
-   "id": "getonboard:desarrollador-full-stack-web-foco-backend-witi-santiago",
+   "id": "getonboard:desarrollador-full-stack-web-foco-back-end-witi-santiago",
    "fuente": "GetOnBoard",
    "titulo": "Desarrollador Full-Stack (Web/Foco Back-end)",
    "empresa": "WiTi",
-   "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-backend-witi-santiago",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-back-end-witi-santiago",
    "ubicacion": "Chile (hybrid)",
    "salario": "",
-   "publicado": "2026-10-19",
+   "publicado": "2026-11-04",
    "descripcion": "Titulado o egresado de Ingeniería en Ejecución Informática, Técnico en Programación Computacional o carrera afín. Dominio sólido en diseño y construcción de arquitecturas de servidor con Node.js (Express / NestJS) o Python (Django / FastAPI). Manejo avanzado de bases de datos relacionales (PostgreSQL, MySQL) y/o no relacionales (MongoDB): modelado, consultas y optimización. Experiencia en diseño, desarrollo y documentación de servicios RESTful. Experiencia en desarrollo frontend con React.js, Angular o Vue.js junto con HTML5, CSS3/SASS y JavaScript/TypeScript. Conocimiento y manejo de GitHub Actions para flujos de CI/CD. Manejo avanzado de Git. Experiencia trabajando bajo metodologías ágiles (Scrum / Kanban). Diseñar, construir y mantener lógica de negocio robusta en el backend, asegurando disponibilidad, rendimiento y escalabilidad de los servicios. Desarrollar e integrar características web completas de extremo a extremo, desde componentes de interfaz de usuario hasta modelos de datos complejos. Construir código limpio y modular, optimizando consultas a bases de datos para garantizar la velocidad de carga de las aplicaciones. Colaborar estrechamente con ingenieros DevOps, QA y otros desarrolladores para asegurar despliegues exitosos. Participar activamente en revisiones de código con foco en seguridad y rendimiento del lado del servidor. Diseñar y documentar APIs RESTful que soporten el crecimiento y la evolución de los productos digitales. Participar en ceremonias ágiles y contribuir a la mejora continua de los procesos de desarrollo del equipo. Conocimiento en GraphQL. Experiencia en proyectos de retail, ecommerce o plataformas digitales de alto tráfico. Experiencia con arquitecturas de microservicios. Conocimientos en buenas prácticas de seguridad en aplicaciones web. En WiTi promovemos un ambiente colaborativo donde la cultura del aprendizaje es parte fundamental. Entre nuestros beneficios están: Plan de carrera personalizado para el desarrollo profesional. Certificaciones para continuar creciendo en tu carrera. Cursos de idiomas, apoyando el desarrollo personal y profesional.",
    "tags": [
     "data"
@@ -668,6 +716,31 @@
     "+3 Fullstack",
     "+1 Node",
     "+1 SQL",
+    "-2 Híbrido"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:desarrollador-a-full-stack-agilesoft-spa-santiago-b072",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador/a Full-Stack",
+   "empresa": "Agilesoft SpA",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-agilesoft-spa-santiago-b072",
+   "ubicacion": "Chile (hybrid)",
+   "salario": "",
+   "publicado": "2026-11-03",
+   "descripcion": "Título profesional de Ingeniería en Informática, Ingeniería en Computación, Ingeniería en Sistemas o carrera afín. Experiencia profesional como desarrollador/a full-stack Experiencia sólida en Java con Spring Boot (APIs REST, microservicios). Experiencia en Node.js para el desarrollo de servicios backend. Experiencia en React para el desarrollo de aplicaciones frontend (componentes, manejo de estado, consumo de APIs REST). Experiencia o conocimientos prácticos en Kubernetes para desplegar y operar aplicaciones. Conocimientos de herramientas y prácticas de CI/CD (por ejemplo GitLab CI, GitHub Actions, Jenkins o Azure DevOps). Experiencia con Git y flujos de trabajo de control de versiones. Conocimientos de administración básica de sistemas Linux. Conocimientos de bases de datos relacionales y/o NoSQL. Familiaridad con plataformas cloud (AWS, Azure o GCP). Capacidad de análisis para investigar problemas, resolverlos y proponer mejoras. Comunicación efectiva, trabajo en equipo, autonomía y criterio para priorizar. Diseñar, desarrollar y mantener servicios y APIs backend con Java (Spring Boot) y Node.js. Desarrollar y mantener componentes frontend integrados con los servicios backend. Contenerizar aplicaciones con Docker y desplegarlas y operarlas en clústeres Kubernetes. Desarrollar y mantener interfaces y componentes frontend con React , integrados con los servicios backend. Implementar y mantener pipelines de integración y despliegue continuo (CI/CD) para entregas ágiles, confiables y repetibles. Apoyar la gestión de infraestructura como código (IaC), por ejemplo con Terraform, y la automatización de configuraciones y despliegues. Colaborar en el diseño y la evolución de la arquitectura de las soluciones, aplicando buenas prácticas de escalabilidad, disponibilidad y seguridad. Monitorear el comportamiento de las aplicaciones en los distintos ambientes, analizar incidentes, identificar causas raíz y proponer mejoras. Escribir código limpio, mantenible y testeado, y participar en revisiones de código. Trabajar con los equipos de desarrollo, infraestructura y soporte para facilitar la integración y la operación de las aplicaciones. Promover buenas prácticas DevOps: automatización, calidad, seguridad y mejora continua. Computadora de trabajo. Modalidad: híbrida, con 1 día presencial a la semana en Santiago de Chile y el resto remoto. Tipo de contrato: plazo fijo por 3 meses. Posibilidad de extensión según desempeño, continuidad y necesidades del proyecto. Integración a una nueva célula de trabajo, colaborando directamente con uno de nuestros clientes estratégicos. Seguro complementario de Salud y Dental. (CHILE)",
+   "tags": [
+    "data"
+   ],
+   "puntaje": 28,
+   "motivos": [
+    "+3 React",
+    "+3 Fullstack",
+    "+1 Node",
+    "+1 Azure",
+    "+1 Contenedores",
     "-2 Híbrido"
    ],
    "idioma": "es",
@@ -785,7 +858,7 @@
    "ubicacion": "Remoto",
    "salario": "USD 80.000 - 100.000/año",
    "publicado": "2026-10-25",
-   "descripcion": "Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation. Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon as possible Own the outcome Once we agree on a general goal, you independently work out what to build and how to deliver it. You investigate the problem, define the scope, make technical decisions and carry the work through implementation, testing, deployment and follow-up. What you will do Turn general product goals into clear requirements, a practical scope and technical decisions. Build product features, DATEV integrations and automations across frontend and backend. Own testing, deployment and ongoing improvement, including resolving problems in production. Find answers, resolve blockers and keep the founders informed. Raise decisions that need discussion early. Examples of goals Make connecting a DATEV environment easier and reduce manual setup. Give customers access to a new DATEV data area through our API and MCP server. Turn a recurring manual workflow into a reliable automation that users can review. What you bring Strong production TypeScript experience across frontend and backend. Experience independently shipping and maintaining software from a general goal, without detailed specifications, predefined tickets or day-to-day task management. Practical experience with APIs, databases, authentication and reliable error handling for integrations and automations. Testing, deployment and production debugging skills, and the ability to verify AI-generated code and results. Clear written and spoken English for day-to-day collaboration. C#/.NET, DATEV integration experience and German are helpful. How we work You work directly with the founders and the team. We provide business context and agree on goals and priorities. You take ownership of reaching them, communicate progress and use your judgment about when to proceed and when a decision needs discussion. Compensation Gross annual salary: â¬72,000â90,000, depending on experience. Full-time contractors are also welcome. Please mention the word **DESIROUS** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation. Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon as possible Own the outcome Once we agree on a general goal, you independently work out what to build and how to deliver it. You investigate the problem, define the scope, make technical decisions and carry the work through implementation, testing, deployment and follow-up. What you will do Turn general product goals into clear requirements, a practical scope and technical decisions. Build product features, DATEV integrations and automations across frontend and backend. Own testing, deployment and ongoing improvement, including resolving problems in production. Find answers, resolve blockers and keep the founders informed. Raise decisions that need discussion early. Examples of goals Make connecting a DATEV environment easier and reduce manual setup. Give customers access to a new DATEV data area through our API and MCP server. Turn a recurring manual workflow into a reliable automation that users can review. What you bring Strong production TypeScript experience across frontend and backend. Experience independently shipping and maintaining software from a general goal, without detailed specifications, predefined tickets or day-to-day task management. Practical experience with APIs, databases, authentication and reliable error handling for integrations and automations. Testing, deployment and production debugging skills, and the ability to verify AI-generated code and results. Clear written and spoken English for day-to-day collaboration. C#/.NET, DATEV integration experience and German are helpful. How we work You work directly with the founders and the team. We provide business context and agree on goals and priorities. You take ownership of reaching them, communicate progress and use your judgment about when to proceed and when a decision needs discussion. Compensation Gross annual salary: â¬72,000â90,000, depending on experience. Full-time contractors are also welcome. Please mention the word **DESIROUS** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "dev",
     "senior",
@@ -812,7 +885,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-08-22",
-   "descripcion": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarrollar servicios y APIs REST utilizando principalmente Python y Go. Construir y mantener interfaces web modernas con Angular . Participar en el diseÃ±o de arquitecturas y definiciÃ³n de soluciones tÃ©cnicas. Integrar servicios, APIs y diferentes componentes de la plataforma. Desarrollar cÃ³digo limpio, mantenible, escalable y de alta calidad. Participar en revisiones de cÃ³digo, testing y resoluciÃ³n de incidencias. Colaborar con equipos de Producto, QA, DevOps y otros perfiles tÃ©cnicos. Contribuir a la mejora continua de procesos y buenas prÃ¡cticas de desarrollo. Trabajar con servicios cloud y ambientes desplegados sobre Google Cloud Platform (GCP) . Participar eventualmente en iniciativas de desarrollo mobile utilizando Flutter . ð» Requisitos 5+ aÃ±os de experiencia en desarrollo de software. Experiencia sÃ³lida como Full Stack Developer . Dominio avanzado de Python , especialmente para desarrollo backend. Experiencia sÃ³lida con Angular para desarrollo frontend. Experiencia profesional con Go (Golang) en desarrollo de servicios y aplicaciones. Experiencia construyendo APIs REST, microservicios e integraciones . Conocimientos de bases de datos SQL y/o NoSQL. Experiencia trabajando con Git y metodologÃ­as Ã¡giles. Conocimientos de GCP y servicios cloud . Nociones o experiencia previa con Flutter . Capacidad de anÃ¡lisis y resoluciÃ³n de problemas complejos. Buenas habilidades de comunicaciÃ³n y trabajo colaborativo. ð Condiciones de la posiciÃ³n Modalidad: 100% remoto. UbicaciÃ³n: LATAM. ContrataciÃ³n: Contractor. Pago: En USD. Idioma: ðªð¸ 100% en espaÃ±ol . No se requiere inglÃ©s para esta posiciÃ³n. Si eres un/a desarrollador/a Full Stack con experiencia en Python, Angular y Go y estÃ¡s buscando un nuevo reto profesional trabajando de forma remota desde LATAM, Â¡queremos conocerte! ð Please mention the word **ILLUMINATE** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarrollar servicios y APIs REST utilizando principalmente Python y Go. Construir y mantener interfaces web modernas con Angular . Participar en el diseÃ±o de arquitecturas y definiciÃ³n de soluciones tÃ©cnicas. Integrar servicios, APIs y diferentes componentes de la plataforma. Desarrollar cÃ³digo limpio, mantenible, escalable y de alta calidad. Participar en revisiones de cÃ³digo, testing y resoluciÃ³n de incidencias. Colaborar con equipos de Producto, QA, DevOps y otros perfiles tÃ©cnicos. Contribuir a la mejora continua de procesos y buenas prÃ¡cticas de desarrollo. Trabajar con servicios cloud y ambientes desplegados sobre Google Cloud Platform (GCP) . Participar eventualmente en iniciativas de desarrollo mobile utilizando Flutter . ð» Requisitos 5+ aÃ±os de experiencia en desarrollo de software. Experiencia sÃ³lida como Full Stack Developer . Dominio avanzado de Python , especialmente para desarrollo backend. Experiencia sÃ³lida con Angular para desarrollo frontend. Experiencia profesional con Go (Golang) en desarrollo de servicios y aplicaciones. Experiencia construyendo APIs REST, microservicios e integraciones . Conocimientos de bases de datos SQL y/o NoSQL. Experiencia trabajando con Git y metodologÃ­as Ã¡giles. Conocimientos de GCP y servicios cloud . Nociones o experiencia previa con Flutter . Capacidad de anÃ¡lisis y resoluciÃ³n de problemas complejos. Buenas habilidades de comunicaciÃ³n y trabajo colaborativo. ð Condiciones de la posiciÃ³n Modalidad: 100% remoto. UbicaciÃ³n: LATAM. ContrataciÃ³n: Contractor. Pago: En USD. Idioma: ðªð¸ 100% en espaÃ±ol . No se requiere inglÃ©s para esta posiciÃ³n. Si eres un/a desarrollador/a Full Stack con experiencia en Python, Angular y Go y estÃ¡s buscando un nuevo reto profesional trabajando de forma remota desde LATAM, Â¡queremos conocerte! ð Please mention the word **ILLUMINATE** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "full stack",
     "front end",
@@ -1087,35 +1160,24 @@
    "estado": ""
   },
   {
-   "id": "remoteok:1137562",
-   "fuente": "RemoteOK",
-   "titulo": "Senior Frontend Engineer",
-   "empresa": "B2spin",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-   "ubicacion": "Remoto",
-   "salario": "",
-   "publicado": "2026-10-23",
-   "descripcion": "About B2Spin We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the industry, but to revolutionize it. AI-Driven Engineering Culture We are actively building an AI-driven engineering organization with a clear and deliberate stance: artificial intelligence is a core part of how we build and deliver software â not an experiment, not a trend, and not an optional add-on. AI is embedded into our engineering workflows, from system design and prototyping to refactoring, testing, and code review. We expect engineers to be fully comfortable working in AI-driven environments and to treat AI as a primary productivity multiplier. Strong engineering judgment, architectural ownership, and accountability remain essentialâAI amplifies our engineers, it doesnât replace responsibility for technical decisions. What you will be doing: â¢ Write well-designed, testable, and scalable code that performs flawlessly in production; â¢ Take part in the full development cycle from sprint planning to release cycles; â¢ Ensure smooth development and cooperation between dev teams and product owners; â¢ Build customer-facing consumer web and mobile applications for global audiences; â¢ Implement third-party integrations including external APIs and analytics; â¢ Optimize for SEO performance and PageSpeed improvements. What we are looking for: â¢ Strong commercial experience in React, TypeScript and Next.js; â¢ Motivation to grow into cross-platform development (web and mobile). â¢ End-to-end thinking across frontend, backend, and infrastructure. Willingness to contribute beyond frontend scope when needed. â¢ Solid expertise with HTML/CSS, including responsive and cross-browser development; â¢ Experience with third-party integrations (external APIs, analytics); â¢ Proven track record with SEO optimizations and PageSpeed improvements; â¢ Strong UI/UX experience with Figma; â¢ Good English skills in speaking and writing (B2+). Why you will love it: High Pace, High Growth, Real Impact â Youâll thrive in our culture of rapid development, continuous learning, and meaningful outcomes. Work remotely with full flexibility, enjoy generous leave policies, and be part of company events that build genuine connections. Every line of code you write directly impacts millions of users worldwide, and youâll see your contributions shape the future of social gaming while advancing your career in a supportive, ego-free environment. Benefits: Generous Leave Policy: Take advantage of paid time off, encompassing both vacation and sick leave, to ensure you can recharge and recover when needed. Take your time on bank holidays as well. Continuously Development: Get an opportunity to join a fast-growing business where the skyâs the limit. Company Events: Engage in our vibrant company culture through a variety of informal events designed to foster camaraderie and teamwork. Full Remote Work: Enjoy the flexibility of working remotely from wherever you feel most productive. Please mention the word **REVIVES** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "id": "getonboard:desarrollador-a-full-stack-frontend-datos-bc-tecnologia-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador/a Full-Stack – Front-end & Datos",
+   "empresa": "BC Tecnología",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-frontend-datos-bc-tecnologia-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "2,000 - 2,400",
+   "publicado": "2026-11-04",
+   "descripcion": "Título de Ingeniería Civil o Ingeniería de Ejecución, en sus diversas especialidades. Al menos 2 años de experiencia en desarrollo de software. Nivel avanzado en HTML (últimas versiones), CSS compatible con múltiples navegadores, JavaScript, AJAX y diseño adaptativo. Experiencia con frameworks JavaScript MVC como AngularJS o Backbone. Conocimientos de desarrollo web y móvil. Conocimientos en Power BI, Datalake y procesos ETL. Crear y modificar piezas de software por cambios y para la automatización de procesos. Programar código funcional, mantenible y de calidad en frontend y backend, en equipos ágiles junto al Product Owner y el líder técnico. Levantar y analizar requerimientos funcionales y técnicos, y proponer mejoras en procesos, sistemas y tecnologías. Desarrollar soluciones que hagan un uso eficiente de los recursos computacionales (memoria, disco y procesador). Realizar y mantener pruebas unitarias en cada sprint, y participar en la certificación de pruebas integrales. Validar las piezas de software creadas o modificadas en los distintos ambientes del banco. Experiencia en el sector bancario o financiero. Experiencia trabajando con metodologías ágiles (Scrum). Trabajo 100% remoto. Ser parte de proyectos tecnológicos en una de las instituciones más relevantes del sector financiero. Trabajar en equipos ágiles con estándares de calidad y arquitectura definidos. Desarrollar tu carrera combinando desarrollo de software y datos. Modalidad: 100% remoto. Duración: proyecto con duración inicial de 4 meses, con posibilidad de extensión. “Esta oferta laboral se rige bajo la Ley N.º 21.015, que incentiva la inclusión de personas con discapacidad al mundo laboral. Si requieres apoyo o alguna adaptación para realizar tu postulación, contáctanos al correo indicado en esta publicación”.",
    "tags": [
-    "front end",
-    "design",
-    "react",
-    "embedded",
-    "sys admin",
-    "game dev",
-    "technical",
-    "dev",
-    "testing",
-    "marketing",
-    "web dev",
-    "javascript"
+    "data"
    ],
    "puntaje": 20,
    "motivos": [
-    "+3 React",
+    "+3 Fullstack",
     "+2 Remoto"
    ],
-   "idioma": "en",
+   "idioma": "es",
    "estado": ""
   },
   {
@@ -1150,7 +1212,7 @@
    "ubicacion": "Ireland",
    "salario": "",
    "publicado": "2026-09-20",
-   "descripcion": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations Our objective is to organise anyone's life. Â Role As a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets. You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work. Â What You'll Own Build major web experiences across Chat, Notes, Calendar, Docs, and Sheets. Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets. Build reusable frontend architecture and components that work consistently across ActAI applications. Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows. Own frontend performance, responsiveness, reliability and accessibility across browsers and devices. Work closely with product and design to take ideas from prototype to production quickly. Â What We're Looking For Strong experience building complex, production web applications using React, TypeScript and modern frontend technologies. Deep understanding of frontend architecture, state management, browser APIs, and performance. Experience building highly interactive products such as chat, collaboration, productivity, document editing, calendars, or workspaces. Experience with real-time systems, WebSockets, streaming APIs, or collaborative interfaces. Strong product and UI judgment with attention to interaction details. Able to independently own features from technical design through production. Â Outcomes Users can communicate, write, organise and collaborate seamlessly across Chat, Notes, Calendar, Docs and Sheets. Complex interactions such as group messaging, editing, scheduling and collaboration feel fast and reliable. AI capabilities are integrated naturally into product workflows rather than added as separate chatbot experiences. Frontend architecture remains fast, maintainable and reusable as ActAI expands into new applications and workflows. Â Tech Stack TypeScript React.js / Next.js HTML / CSS WebSockets / streaming APIs Node.js REST / GraphQL APIs Â How We Work The best products today in the world were built by small, world-class teams. We are a high talent density and hands-on team. We make decisions collectively and move at rapid speed, striking a balance between shipping high-quality work and learning. Joining our team requires the ability to bring structure, exercise judgment and execute independently. Our goal is to put in the hands of our users a truly magical product. Â Interview Process If there appears to be a fit, we'll reach out to schedule 3, but no more than 4 interviews. Applications are evaluated by our technical team members. Interviews will be conducted via virtual meetings and/or onsite. We value transparency and efficiency, so expect a prompt decision. If you've demonstrated the exceptional skills and mindset we're looking for, we'll extend an offer to join us and help bring practical AI benefits to billions of users globally. Please mention the word **STAINLESS** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations Our objective is to organise anyone's life. Â Role As a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets. You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work. Â What You'll Own Build major web experiences across Chat, Notes, Calendar, Docs, and Sheets. Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets. Build reusable frontend architecture and components that work consistently across ActAI applications. Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows. Own frontend performance, responsiveness, reliability and accessibility across browsers and devices. Work closely with product and design to take ideas from prototype to production quickly. Â What We're Looking For Strong experience building complex, production web applications using React, TypeScript and modern frontend technologies. Deep understanding of frontend architecture, state management, browser APIs, and performance. Experience building highly interactive products such as chat, collaboration, productivity, document editing, calendars, or workspaces. Experience with real-time systems, WebSockets, streaming APIs, or collaborative interfaces. Strong product and UI judgment with attention to interaction details. Able to independently own features from technical design through production. Â Outcomes Users can communicate, write, organise and collaborate seamlessly across Chat, Notes, Calendar, Docs and Sheets. Complex interactions such as group messaging, editing, scheduling and collaboration feel fast and reliable. AI capabilities are integrated naturally into product workflows rather than added as separate chatbot experiences. Frontend architecture remains fast, maintainable and reusable as ActAI expands into new applications and workflows. Â Tech Stack TypeScript React.js / Next.js HTML / CSS WebSockets / streaming APIs Node.js REST / GraphQL APIs Â How We Work The best products today in the world were built by small, world-class teams. We are a high talent density and hands-on team. We make decisions collectively and move at rapid speed, striking a balance between shipping high-quality work and learning. Joining our team requires the ability to bring structure, exercise judgment and execute independently. Our goal is to put in the hands of our users a truly magical product. Â Interview Process If there appears to be a fit, we'll reach out to schedule 3, but no more than 4 interviews. Applications are evaluated by our technical team members. Interviews will be conducted via virtual meetings and/or onsite. We value transparency and efficiency, so expect a prompt decision. If you've demonstrated the exceptional skills and mindset we're looking for, we'll extend an offer to join us and help bring practical AI benefits to billions of users globally. Please mention the word **STAINLESS** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "front end",
     "design",
@@ -1358,7 +1420,7 @@
    "url": "https://www.getonbrd.com/jobs/dev-fullstack-ror-react-integraciones-rankmi-santiago",
    "ubicacion": "Chile (hybrid)",
    "salario": "",
-   "publicado": "2026-11-03",
+   "publicado": "2026-11-04",
    "descripcion": "Título universitario en Ciencias de la Computación, Ingeniería de Software o un campo relacionado, o experiencia equivalente. Mínimo de 3 años de experiencia en desarrollo de software. Experiencia en Ruby on Rails (Backend) y React (Frontend) . Experiencia trabajando con estándares API RESTful. Claridad y soltura para dialogar con clientes y stakeholders, combinadas con autonomía para priorizar tareas en entornos dinámicos. Conocimiento de bases de datos relacionales y no relacionales. Experiencia en trabajar con equipos de desarrollo y en proyectos de software. Experiencia con herramientas y prácticas de desarrollo ágil (YouTrack, Git, Docker, CI/CD, etc.). Integraciones: Diseñar e implementar APIs RESTful robustas y seguras (utilizando JWT, API Keys, Webhooks), transformando datos a través de middlewares según el formato requerido por el cliente o partner. Consultoría Técnica: Te sentarás con clientes para realizar levantamiento de requerimientos, entender su arquitectura, proponer soluciones y destrabar bloqueos técnicos. Entrega de Funcionalidades: Completar las tareas y funcionalidades asignadas dentro del plazo y con alta calidad. Asegurar que el código sea eficiente, mantenible y escalable. Calidad del Código: Mantener altos estándares de calidad en el código, siguiendo las mejores prácticas de desarrollo. Contribuir a la reducción de errores y problemas mediante revisión de código y pruebas rigurosas. Mejoramiento Continuo: Demostrar una mejora continua en habilidades técnicas y conocimiento del producto. Participar en la implementación de mejoras en procesos. Satisfacción del Cliente: Contribuir al desarrollo de soluciones que cumplan o superen las expectativas del cliente. Responder de manera eficaz a los problemas y solicitudes del cliente. Sabemos que el alto desempeño requiere de un gran balance. Por eso, diseñamos una propuesta de valor que cuida de ti y de los tuyos: 🤸 Work-Life Balance : Modelo de trabajo híbrido, flexibilidad horaria (aquí confiamos en tu responsabilidad), días de vacaciones adicionales para desconectarte y día libre por mudanza. 💖 We Care : Medio día libre en tu cumpleaños, en el de tus hij@s o cónyuge. Postnatal adicional para papás. Bono por matrimonio/unión civil, nacimiento y programa de referidos. Además, sabemos que tus mascotas también son familia, por eso te damos un día libre en caso de su partida. ✨ Rankmi Vibes : Olvídate de los trajes corporativos, tenemos un dress code relajado, ambiente multicultural y trabajamos con metodologías ágiles en equipos multidisciplinarios. Si eres un eterno aprendiz, te mueve el dinamismo y quieres desafiar el statu quo del HR Tech, ¡queremos conocerte! 🚀",
    "tags": [
     "data"
@@ -1437,7 +1499,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-10-30",
-   "descripcion": "As a Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practices. What you'll be doing: Lead the technical delivery of complex, high-impact migration and modernization engagements, including AWS Migration Acceleration Program (MAP) assessments and mobilization. Lead technical discovery and design multi-service, cloud-native AWS architectures that turn business goals into scalable blueprints. Technically lead teams of 1â4 engineers, and manage the technical roadmap of 2â3 engagements in parallel. Own technical design decisions within project scope. Resolve technical disagreements and handle scope conversations with clients professionally. Represent Client in customers sessions, including executive-level conversations and joint sessions with AWS stakeholders. Spend around 25% of your time on pre-sales: discovery, solution design and co-selling with AWS account teams in North America. Resolve high-risk technical blockers and escalations, including critical production incidents. Adapt to changing delivery expectations and keep engagements on track under uncertainty. Build architectural guardrails, reusable frameworks and components that raise quality across the practice. Coach engineers and share knowledge through internal sessions, workshops, whitepapers and technical evangelism. Be the go-to expert in one or more domains, such as MSSQL Server, PostgreSQL, EKS, VMware, data, security or networking. Help shape our technical offerings and accelerators in line with market and AWS trends. What you bring: 8+ years in infrastructure or cloud engineering, including 5+ years designing and delivering on AWS. A proven track record of leading at least two large-scale cloud migrations end to end. Hands-on database migration experience with MSSQL Server, Oracle or PostgreSQL. AWS Certified Solutions Architect â Professional. In-depth knowledge of core AWS services, including: Compute and containers: EC2, Lambda, ECS, EKS Storage and databases: S3, RDS, EFS, EBS Networking and integration: VPC, API Gateway, CloudFront, SNS, SQS Security: IAM, Security Hub, GuardDuty, KMS, AWS Private CA Operations and migration: CloudWatch, AWS Application Migration Service Strong Infrastructure as Code skills. Terraform is preferred; CloudFormation, AWS CDK or Ansible are also welcome. Hands-on experience building and running CI/CD pipelines with GitHub Actions, GitLab, Bitbucket or similar. Experience running containerized workloads with Docker and Kubernetes or EKS. Strong networking knowledge: TCP/IP, DNS, load balancers, firewalls and VPN, plus AWS networking services such as VPC, Route 53, ELB and CloudFront. Strong security knowledge: IAM, least privilege, access control, endpoint security and data encryption. Excellent problem-solving and communication skills. You are confident with executives and engineering teams alike. Comfort working in a distributed team, with a few hours of daily overlap with Central European Time. A bachelor's degree in Computer Science, IT or a related field, or equivalent experience. Nice to have: Hands-on experience with AWS MAP phases: Assess, Mobilize, and Migrate & Modernize. Migrations from VMware, on-premises data centers, Azure or GCP. Experience with AI-assisted migration and modernization tooling, such as AWS Transform. AWS Specialty certifications, such as Security or Advanced Networking. Final Details Remote Contractor USD Full Time ( US time zone with a few hours of overlap with CET ) Start date : ASAP Please mention the word **WONDER** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid sp",
+   "descripcion": "As a Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practices. What you'll be doing: Lead the technical delivery of complex, high-impact migration and modernization engagements, including AWS Migration Acceleration Program (MAP) assessments and mobilization. Lead technical discovery and design multi-service, cloud-native AWS architectures that turn business goals into scalable blueprints. Technically lead teams of 1â4 engineers, and manage the technical roadmap of 2â3 engagements in parallel. Own technical design decisions within project scope. Resolve technical disagreements and handle scope conversations with clients professionally. Represent Client in customers sessions, including executive-level conversations and joint sessions with AWS stakeholders. Spend around 25% of your time on pre-sales: discovery, solution design and co-selling with AWS account teams in North America. Resolve high-risk technical blockers and escalations, including critical production incidents. Adapt to changing delivery expectations and keep engagements on track under uncertainty. Build architectural guardrails, reusable frameworks and components that raise quality across the practice. Coach engineers and share knowledge through internal sessions, workshops, whitepapers and technical evangelism. Be the go-to expert in one or more domains, such as MSSQL Server, PostgreSQL, EKS, VMware, data, security or networking. Help shape our technical offerings and accelerators in line with market and AWS trends. What you bring: 8+ years in infrastructure or cloud engineering, including 5+ years designing and delivering on AWS. A proven track record of leading at least two large-scale cloud migrations end to end. Hands-on database migration experience with MSSQL Server, Oracle or PostgreSQL. AWS Certified Solutions Architect â Professional. In-depth knowledge of core AWS services, including: Compute and containers: EC2, Lambda, ECS, EKS Storage and databases: S3, RDS, EFS, EBS Networking and integration: VPC, API Gateway, CloudFront, SNS, SQS Security: IAM, Security Hub, GuardDuty, KMS, AWS Private CA Operations and migration: CloudWatch, AWS Application Migration Service Strong Infrastructure as Code skills. Terraform is preferred; CloudFormation, AWS CDK or Ansible are also welcome. Hands-on experience building and running CI/CD pipelines with GitHub Actions, GitLab, Bitbucket or similar. Experience running containerized workloads with Docker and Kubernetes or EKS. Strong networking knowledge: TCP/IP, DNS, load balancers, firewalls and VPN, plus AWS networking services such as VPC, Route 53, ELB and CloudFront. Strong security knowledge: IAM, least privilege, access control, endpoint security and data encryption. Excellent problem-solving and communication skills. You are confident with executives and engineering teams alike. Comfort working in a distributed team, with a few hours of daily overlap with Central European Time. A bachelor's degree in Computer Science, IT or a related field, or equivalent experience. Nice to have: Hands-on experience with AWS MAP phases: Assess, Mobilize, and Migrate & Modernize. Migrations from VMware, on-premises data centers, Azure or GCP. Experience with AI-assisted migration and modernization tooling, such as AWS Transform. AWS Specialty certifications, such as Security or Advanced Networking. Final Details Remote Contractor USD Full Time ( US time zone with a few hours of overlap with CET ) Start date : ASAP Please mention the word **WONDER** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam appli",
    "tags": [
     "architecture",
     "design",
@@ -1464,7 +1526,7 @@
   {
    "id": "getonboard:desarrollador-a-backend-java-spring-boot-factor-it-remote",
    "fuente": "GetOnBoard",
-   "titulo": "Desarrollador/a Back-end Java Spring Boot",
+   "titulo": "Back-end Senior Java – Sagas y GCP",
    "empresa": "Factor IT",
    "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-java-spring-boot-factor-it-remote",
    "ubicacion": "Remote (remote_local)",
@@ -1529,29 +1591,6 @@
    "estado": ""
   },
   {
-   "id": "remoteok:1137400",
-   "fuente": "RemoteOK",
-   "titulo": "Golang Kubernetes Engineer",
-   "empresa": "Arango",
-   "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-   "ubicacion": "Remoto",
-   "salario": "",
-   "publicado": "2026-09-16",
-   "descripcion": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-   "tags": [
-    "golang",
-    "golang",
-    "engineer"
-   ],
-   "puntaje": 12,
-   "motivos": [
-    "+1 Contenedores",
-    "+2 Remoto"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
    "id": "getonboard:developer-java-bice-vida-santiago",
    "fuente": "GetOnBoard",
    "titulo": "Developer Java",
@@ -1570,27 +1609,6 @@
     "+1 SQL",
     "+1 Contenedores",
     "-2 Híbrido"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
-   "id": "getonboard:operational-automation-engineer-comunidadfeliz-remote",
-   "fuente": "GetOnBoard",
-   "titulo": "Operational Automation Engineer",
-   "empresa": "ComunidadFeliz",
-   "url": "https://www.getonbrd.com/jobs/operational-automation-engineer-comunidadfeliz-remote",
-   "ubicacion": "Remote (remote_local)",
-   "salario": "1,100 - 1,500",
-   "publicado": "2026-10-07",
-   "descripcion": "Formación académica: Titulado/a de Ingeniería Civil (Industrial, Computación o carreras afines) con 0 a 2 años de experiencia . Interés y pasión por la Inteligencia Artificial (Excluyente): Motivación sobresaliente por explorar, aprender e implementar herramientas y modelos de IA en el trabajo diario. Manejo de Datos y SQL: Conocimiento y comprensión sólida de bases de datos, consultas SQL y herramientas como Google BigQuery. Criterio de Automatización y Procesos: Nociones fuertes sobre modelamiento de procesos y la capacidad analítica para identificar qué es automatizable y evaluar su retorno de valor. Perfil Builder y Autónomo: Alta capacidad para priorizar por impacto, resolver problemas ambiguos de forma proactiva y alinear equipos sin necesidad de autoridad directa. Identificación de Problemas y Modelamiento: Detectarás cuellos de botella en áreas clave (como Ventas o Customer Care), rediseñando flujos operativos e implementando automatizaciones e integraciones escalables. Gestión de Proyectos Transversales: Coordinarás iniciativas complejas y liderarás de inicio a fin procesos de auditoría y obtención de certificaciones clave a nivel compañía. Implementación de IA y Datos: Integrarás activamente herramientas de Inteligencia Artificial en las rutinas operativas de los equipos, explotando bases de datos para medir KPIs y tomar decisiones fundamentadas. Adopción y Sostenibilidad: Garantizarás mediante un liderazgo por influencia que las soluciones construidas perduren en el tiempo y sean adoptadas en el día a día, superando la etapa de un simple MVP. Experiencia previa con LLMs: Uso práctico de modelos como Gemini, Claude u OpenAI aplicados a proyectos o productividad. Nociones de Ciberseguridad y Compliance: Conocimientos básicos en manejo seguro de datos y marcos de cumplimiento normativo/auditoría. Experiencia en startups/scaleups: Proyectos previos, pasantías o experiencias en entornos dinámicos de rápido crecimiento. Trabajo Remoto 🏠 : Tenemos una cultura remota que prioriza los valores y herramientas remotas. Excelente Cultura 🎉 : Mensualmente fomentamos la cultura mediante 2 eventos digitales a nivel empresa y 1 evento a nivel de equipo. Día Libre el Día de tu Cumpleaños 🎂 . Viernes Corto 🕔 : ¡Los días viernes se sale a las 17:00 hrs! 15 Días de Vacaciones al Año 🌴 . Desarrollo de Carrera 📈 : Planes de carrera y cursos formativos. Días de Salud 💊 : Te pagaremos el 100% de los 3 primeros días de una licencia médica que no cubre tu previsión (en cualquier país) cada año. Provisión de Días de Salud para +3 Días 🏥 . Permisos por Matrimonio, Nacimientos, Lactancia, Adopción 👰🤱 . Bono de Festividades 🎁 : Entregamos bono en diciembre.",
-   "tags": [
-    "data"
-   ],
-   "puntaje": 12,
-   "motivos": [
-    "+1 SQL",
-    "+2 Remoto"
    ],
    "idioma": "es",
    "estado": ""
@@ -1663,6 +1681,27 @@
    "estado": ""
   },
   {
+   "id": "getonboard:ai-backend-engineer-improving-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "AI Back-end Engineer",
+   "empresa": "Improving",
+   "url": "https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "3,800 - 5,000",
+   "publicado": "2026-11-03",
+   "descripcion": "• Reliable, maintainable automation workflows in production • AI chatbot capable of triggering real system actions via tools/APIs • Reduced manual operational effort • Clean documentation and well-structured integrations Required Skills: • 2–4 years of experience in automation, systems integration, or process improvement • Hands-on experience with Microsoft Power Platform and/or Azure Logic Apps • Experience working with REST APIs and JSON • Exposure to LLM-based systems (Azure AI Factory, OpenAI, or similar) • Experience implementing function calling or tool-based AI integrations • Strong troubleshooting and debugging skills • Ability to work independently and take ownership of deliverables Workflow & Process Automation • Build and maintain automation workflows using tools like Microsoft Power Platform/Azure Logic Apps • Improve and refactor existing workflows for reliability and maintainability • Troubleshoot automation issues in production environments • Ensure proper error handling and logging within automated processes Conversational AI & Tool Integration • Implement conversational AI systems using Azure OpenAI or similar LLM platforms • Configure and implement function calling / tool invocation to enable AI-driven actions • Integrate chatbot workflows with internal systems via REST APIs • Define structured outputs and JSON schemas to support reliable AI-to-system communication • Assist in building and maintaining MCP (Model Context Protocol) servers or similar middleware to extend AI capabilities Integrations & Data Handling • Connect systems using REST APIs, webhooks, and JSON-based payloads • Transform and validate data across CRM, marketing, and internal systems • Support reporting and monitoring of automated processes • Experience with MCP or similar AI tool-extension frameworks • Light backend development experience (Node.js, C#, or similar) • SQL knowledge • Power BI or Microsoft Fabric exposure Contrato a largo plazo. 100% Remoto. Vacaciones y PTOs Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple. Plataforma de cursos en linea Budget para compra de libros. Budget para compra de materiales de trabajo mucho mas..",
+   "tags": [
+    "data"
+   ],
+   "puntaje": 12,
+   "motivos": [
+    "+1 Azure",
+    "+2 Remoto"
+   ],
+   "idioma": "en",
+   "estado": ""
+  },
+  {
    "id": "getonboard:go-engineer-microservices-improving-remote",
    "fuente": "GetOnBoard",
    "titulo": "Senior Go Engineer",
@@ -1670,7 +1709,7 @@
    "url": "https://www.getonbrd.com/jobs/go-engineer-microservices-improving-remote",
    "ubicacion": "Remote (remote_local)",
    "salario": "",
-   "publicado": "2026-10-27",
+   "publicado": "2026-11-03",
    "descripcion": "Bachelor’s Degree in Computer Science or related field (preferred) 5-7+ years of professional software engineering experience 3+ years of experience building and operating production backend services in Go Strong experience designing and implementing microservice architectures Experience building RESTful APIs and/or event-driven services Deep understanding of distributed systems concepts (service discovery, load balancing, circuit breaking, retries, idempotency) Experience with synchronous and asynchronous communication patterns (HTTP/gRPC, messaging systems) Experience working with relational and/or NoSQL databases in a service-oriented architecture Deep experience with cloud platforms (AWS, Azure, or GCP), including managed services, IAM, and infrastructure-as-code Strong debugging, performance tuning, and production support experience Strong problem-solving skills and architectural judgment Excellent communication skills and collaborative mindset Strong sense of ownership and accountability Demonstrated ability to mentor engineers and elevate team technical capability. ADVANCED ENGLISH IS A MUST , you won't be considered if your are not fluent thank you! Lead the design and development of scalable, resilient microservices using Go, setting patterns and standards for the broader engineering team Define and maintain clear API contracts (REST and/or event-driven interfaces) between services Architect distributed systems with a focus on reliability, scalability, and fault tolerance Implement inter-service communication patterns (synchronous and asynchronous) Design and manage service-level database schemas and data ownership models Build and maintain responsive front-end components that consume backend services Implement observability practices including logging, monitoring, tracing, and alerting Lead code reviews, mentor engineers across experience levels, and champion engineering best practices organization-wide Partner cross-functionally with DevOps, QA, product, and design teams; serve as a technical liaison and contribute to roadmap and architecture decisions Document service architecture, APIs, and operational procedures Experience with event streaming platforms (Kafka, Pub/Sub, NATS) Experience with API gateways and service meshes Experience implementing authentication and authorization (OAuth2, JWT, SSO) Familiarity with domain-driven design (DDD) principles Experience working in Agile/Scrum development environments Contrato a largo plazo. 100% Remoto. Vacaciones y PTOs Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple. Plataforma de cursos en linea Budget para compra de libros. Budget para compra de materiales de trabajo mucho mas..",
    "tags": [
     "data"
@@ -1737,7 +1776,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-09-12",
-   "descripcion": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio... Please mention the word **SEAMLESS** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio... Please mention the word **SEAMLESS** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "golang",
     "dev",
@@ -1750,30 +1789,6 @@
     "+2 Remoto"
    ],
    "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "getonboard:ingeniero-a-de-software-senior-staff-muy-simple-santiago",
-   "fuente": "GetOnBoard",
-   "titulo": "Ingeniero/a de Software Senior/Staff",
-   "empresa": "Muy Simple",
-   "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-software-senior-staff-muy-simple-santiago",
-   "ubicacion": "Chile (hybrid)",
-   "salario": "CLP 1,800 - 2,300",
-   "publicado": "2026-10-27",
-   "descripcion": "Buscamos un/a profesional con 8+ años desarrollando software en producción y experiencia en sistemas de alta criticidad . Esperamos que puedas demostrar criterio técnico, orientación a calidad y capacidad de ejecutar cambios con seguridad. Requisitos técnicos PHP/Laravel en profundidad, incluyendo Laravel Octane (Swoole/FrankenPHP): ciclo de vida de workers, estado compartido, colas y jobs . TypeScript/Node con solvencia (p. ej. NestJS ). Angular avanzado (v21): arquitectura modular, signals , standalone components , RxJS , rendimiento y testing. Dominio de patrones y arquitectura escalable: Clean/Hexagonal , CQRS , event-driven , colas/procesamiento asíncrono, cache distribuido e idempotencia . Experiencia en backend y frontend con enfoque feature-based, manejo de estado, lazy loading y optimización de change detection. Modelado y optimización en MySQL/PostgreSQL : índices, planes de ejecución y migraciones en sistemas vivos con datos reales. Experiencia con AWS en producción: RDS, S3, IAM, CloudWatch, contenedores (ECS/EKS o equivalente), redes básicas y costos. Docker y CI/CD con pipelines reales (GitHub Actions, GitLab CI o similar). Integración de APIs de terceros con webhooks, firmas HMAC , reintentos e idempotencia (pagos, facturación u otros flujos equivalentes). Experiencia migrando/refactorizando y apagando sistemas heredados sin cortar la operación. Qué valoramos de la forma de trabajar Responsabilidad : cuidamos consistencia, seguridad y continuidad del servicio. Proactividad para detectar riesgos, proponer mejoras y elevar estándares de calidad. Comunicación clara con el equipo para alinear decisiones técnicas y trade-offs. Orientación a datos : usamos métricas/observabilidad para validar desempeño y confiabilidad. Autonomía para ejecutar refactors y migraciones con método, incluyendo plan de rollback. Como parte del equipo, vamos a: Diseñar, implementar y mantener servicios backend y aplicaciones frontend en producción, con alta exigencia de confiabilidad y rendimiento. Profundizar y evolucionar soluciones en PHP/Laravel (incluyendo Laravel Octane con Swoole/FrankenPHP): ciclo de vida de workers, manejo de estado, colas y jobs . Construir y optimizar APIs y componentes con TypeScript/Node (por ejemplo NestJS ), aplicando patrones de arquitectura escalable. Desarrollar con Angular (v21), utilizando arquitectura modular, signals , standalone components , RxJS , y optimizaciones de rendimiento y testing . Aplicar Clean/Hexagonal Architecture , CQRS , enfoque event-driven , colas y procesamiento asíncrono, incluyendo cache distribuido e idempotencia . Gestionar integración de terceros: webhooks, validaciones/firmas HMAC , reintentos y consistencia transaccional (pagos, facturación o flujos similares). Modelar y optimizar datos en MySQL/PostgreSQL : índices, planes de ejecución y migraciones con datos reales en sistemas vivos. Operar infraestructura en AWS (RDS, S3, IAM, CloudWatch y orquestación con ECS/EKS o equivalente), cuidando redes básicas y costos. Desarrollar y sostener pipelines de CI/CD con GitHub Actions, GitLab CI u otras herramientas, con calidad real en ejecución. Instalar y evolucionar estrategias de pruebas (unit, integración, E2E con Playwright/Cypress ) en equipos que no las tenían. Liderar migraciones, refactors y el apagado progresivo de sistemas heredados, garantizando continuidad operativa. Experiencia liderando prácticas de ingeniería (calidad, seguridad, observabilidad y automatización) más allá del desarrollo: desde el diseño hasta la operación. Profundidad adicional en mensajería/colas (estrategias de reintento, dead-letter, orden, consistencia) y en diseño de flujos idempotentes. Historial de optimización de performance en frontend (con señales/RxJS, estrategias de rendering y reducción de re-render) y en backend (profiling, tuning de queries e índices). Experiencia en despliegues con contenedores y en gestión de costos/eficiencia operacional en AWS. Capacidad de enseñar e impulsar testing ",
-   "tags": [
-    "data"
-   ],
-   "puntaje": 12,
-   "motivos": [
-    "+2 TypeScript",
-    "+1 Node",
-    "+1 SQL",
-    "+1 Contenedores",
-    "-2 Híbrido"
-   ],
-   "idioma": "es",
    "estado": ""
   },
   {
@@ -1883,27 +1898,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:backend-software-engineer-zaelot-remote-fbc2",
-   "fuente": "GetOnBoard",
-   "titulo": "Back-end Software Engineer",
-   "empresa": "Zaelot",
-   "url": "https://www.getonbrd.com/jobs/backend-software-engineer-zaelot-remote-fbc2",
-   "ubicacion": "Remote (fully_remote)",
-   "salario": "4,000 - 6,500",
-   "publicado": "2026-10-07",
-   "descripcion": "For us, Senior isn’t a matter of years or of how many technologies you know. It’s how you work: You understand the problem before you solve it. You ask what the business or user actually needs, and sometimes the right answer is not to build anything. You choose the simplest solution that works. To you, complexity is a cost. You make trade-offs explicit and explain your reasoning. You own outcomes, not tasks. You surface risks early, say when a plan is no longer realistic, and see things through after release. You build things others can maintain. Your code is clear, tested and easy to evolve without you in the room. You think about what can go wrong. Failing dependencies, bad data, security and performance are part of the design, not an afterthought. You act like a consultant. You adapt how you communicate to engineers, product and clients, and you bring recommendations, not only problems. You make your team better. You give thoughtful reviews, share what you know and help others grow, without becoming a bottleneck. You keep learning. You get productive in unfamiliar systems and know when to ask for help. You use AI responsibly. It makes you faster, but you understand and validate everything before it ships. 4+ years building backends with Python and Django (Django REST Framework a big plus) Solid experience with PostgreSQL in production, including schema changes on live systems Hands-on experience with background processing (Celery, RabbitMQ, Redis or similar) You’ve built and maintained integrations with third-party APIs and know what happens when they fail You care about testing, code quality and constructive code reviews You’ve supported your own work in production: monitoring, debugging and incidents don’t scare you You’re comfortable in a large codebase shared with many engineers C1 English: you’ll work daily with a US-based team, in meetings and in writing Build product features end to end on the backend, from the API to the database Connect the platform with hotel suppliers, booking systems, payment providers and AI services, and keep those connections reliable when the other side isn’t Design and run the background jobs that keep bookings, payments and data in sync Evolve the database of a live product without interrupting the people who rely on it Write short technical proposals before big changes, and review your teammates’ work Take your turn on call, help resolve production issues, and leave things better than you found them Experience in the travel industry (hotels, airlines, cruises, booking systems) Experience with payments or financial flows (Stripe, invoicing, payouts) You’ve shipped AI-powered features to real users Familiarity with Docker, Kubernetes or AWS",
-   "tags": [
-    "data"
-   ],
-   "puntaje": 12,
-   "motivos": [
-    "+1 SQL",
-    "+2 Remoto"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
    "id": "getonboard:especialista-desarrollador-frontend-3it-remote",
    "fuente": "GetOnBoard",
    "titulo": "Especialista Desarrollador Front-end",
@@ -1954,7 +1948,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-08-30",
-   "descripcion": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f... Please mention the word **CHARMINGLY** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f... Please mention the word **CHARMINGLY** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "golang",
     "video",
@@ -2017,7 +2011,7 @@
    "ubicacion": "Remoto",
    "salario": "USD 10.000 - 120.000/año",
    "publicado": "2026-11-02",
-   "descripcion": "The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth.Â Youâll be working in a team that drives the company's AI development to developÂ algorithms for a variety of different use cases. This includes e.g. working withÂ equirectangular, phone, or satellite images to detect doors, windows, or other objects insideÂ of buildings or finding facets on the roof. Youâll be challenged by solving complex 3DÂ geometry problems and working closely with our labeling team to ensure the best possibleÂ data quality. Responsibilities and Duties: Â·Â Research, train and deploy state-of-the-art machine learning models for objectÂ detection and 3D perception on equirectangular images Â·Â Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: Â·Â Bachelorâs Degree in Computer Science or equivalent experience Â·Â Excellent math skills Â·Â Experience with 3D computer vision algorithms Â·Â Preferably 5+ years of experience developing and training machine learning models Â·Â StrongÂ Experience with Deep ML frameworks (PyTorch) Â·Â Strong Experience in Python Â·Â Self-motivated and energetic team player with a strong work ethic and cooperativeÂ attitude Â·Â Excellent communication and organizational skills Plus: Â·Â Familiarity with building big data systems Â·Â Training very large models using multiple GPUs in the cloud Â·Â Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth.Â Youâll be working in a team that drives the company's AI development to developÂ algorithms for a variety of different use cases. This includes e.g. working withÂ equirectangular, phone, or satellite images to detect doors, windows, or other objects insideÂ of buildings or finding facets on the roof. Youâll be challenged by solving complex 3DÂ geometry problems and working closely with our labeling team to ensure the best possibleÂ data quality. Responsibilities and Duties: Â·Â Research, train and deploy state-of-the-art machine learning models for objectÂ detection and 3D perception on equirectangular images Â·Â Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: Â·Â Bachelorâs Degree in Computer Science or equivalent experience Â·Â Excellent math skills Â·Â Experience with 3D computer vision algorithms Â·Â Preferably 5+ years of experience developing and training machine learning models Â·Â StrongÂ Experience with Deep ML frameworks (PyTorch) Â·Â Strong Experience in Python Â·Â Self-motivated and energetic team player with a strong work ethic and cooperativeÂ attitude Â·Â Excellent communication and organizational skills Plus: Â·Â Familiarity with building big data systems Â·Â Training very large models using multiple GPUs in the cloud Â·Â Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "dev",
     "ai",
@@ -2087,7 +2081,7 @@
    "ubicacion": "Remote",
    "salario": "",
    "publicado": "2026-09-15",
-   "descripcion": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running. Our mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place youâd like to spend the next chapter of your career, weâd love to hear from you. Position Summary ExtraHopâs Solutions Architecture team is very different from many other post-sales services practicesâwe focus on outcomes and customer success rather than racking up billable hours. As a member of our Solutions Architecture team, youâll play a critical role in the success of our customers, products and position in the marketplace. Our Architects tackle the most difficult business and technology problems across a vast array of industries and technologies. As a Solutions Architect at ExtraHop, you will never be bored again. Key Responsibilities - Advanced GUI development - Advanced Trigger Script development - Intermediate external REST API script development - Intermediate understanding of networking - Intermediate understanding of application design - Analyze customer network topologies and application stacks; develop strategies to acquire high-value data from the wire. - Profile industry-specific applications across a broad range of verticals; create technical assets and written collateral to support product improvement and marketing efforts. - Conduct root cause analysis of high-profile technology problems and advise customers on their resolution. - Develop custom tools using Python and JavaScript-based APIs to extend the functionality of the E Please mention the word **ILLUMINATE** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running. Our mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place youâd like to spend the next chapter of your career, weâd love to hear from you. Position Summary ExtraHopâs Solutions Architecture team is very different from many other post-sales services practicesâwe focus on outcomes and customer success rather than racking up billable hours. As a member of our Solutions Architecture team, youâll play a critical role in the success of our customers, products and position in the marketplace. Our Architects tackle the most difficult business and technology problems across a vast array of industries and technologies. As a Solutions Architect at ExtraHop, you will never be bored again. Key Responsibilities - Advanced GUI development - Advanced Trigger Script development - Intermediate external REST API script development - Intermediate understanding of networking - Intermediate understanding of application design - Analyze customer network topologies and application stacks; develop strategies to acquire high-value data from the wire. - Profile industry-specific applications across a broad range of verticals; create technical assets and written collateral to support product improvement and marketing efforts. - Conduct root cause analysis of high-profile technology problems and advise customers on their resolution. - Develop custom tools using Python and JavaScript-based APIs to extend the functionality of the E Please mention the word **ILLUMINATE** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "architecture",
     "design",
@@ -2158,7 +2152,7 @@
    "ubicacion": "Remote",
    "salario": "",
    "publicado": "2026-08-20",
-   "descripcion": "Harbor is seeking an Implementation Engineer to join our Enterprise Solutions practice. The Implementation Engineer ensures client satisfaction through successful installation of Intapp solutions that will improve the clientâs business efficiency and functionality. The Engineer applies advanced knowledge and experience to ensure client satisfaction by participating in complex projects and takes an active role, modeling best practices as an expert in the field. This is a remote position that can be located anywhere in the US or Canada. Responsibilities: - Assesses client needs and installs and implements industry-standard legal/accounting/consulting systems, integrations, and enterprise solutions - Provides leadership to all members of the team - Has advanced expertise with deployment methodologies - Acts as the escalation point for complex situations and creates effective solutions - Highly proficient with products and features - Acts as go-to for go-live off-hours help for internal resources or general technical hurdles - Performs upgrades to production systems as needed Please mention the word **AFFIRMATIVE** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Harbor is seeking an Implementation Engineer to join our Enterprise Solutions practice. The Implementation Engineer ensures client satisfaction through successful installation of Intapp solutions that will improve the clientâs business efficiency and functionality. The Engineer applies advanced knowledge and experience to ensure client satisfaction by participating in complex projects and takes an active role, modeling best practices as an expert in the field. This is a remote position that can be located anywhere in the US or Canada. Responsibilities: - Assesses client needs and installs and implements industry-standard legal/accounting/consulting systems, integrations, and enterprise solutions - Provides leadership to all members of the team - Has advanced expertise with deployment methodologies - Acts as the escalation point for complex situations and creates effective solutions - Highly proficient with products and features - Acts as go-to for go-live off-hours help for internal resources or general technical hurdles - Performs upgrades to production systems as needed Please mention the word **AFFIRMATIVE** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "consulting",
     "technical",
@@ -2213,7 +2207,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-10-10",
-   "descripcion": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team. Role Type: Full-time Engagement: Full-time (Offshore, EST Business Hours) Job Summary Join a cutting-edge AI company that is redefining the future of network infrastructure. This team provides the worldâs first AI-driven autonomous multi-agentic Network Operations Center (NOC) platform, helping global enterprises automate complex cloud environments and eliminate downtime. As a Junior SDR, you will be the engine of our growth, reaching out to high-level IT leaders to introduce a revolutionary technology that solves their most critical operational challenges. This is a high-volume, high-impact role for a hunter who thrives on the phones and wants to be at the forefront of the AI revolution. Key Responsibilities Execute high-volume outreach consisting of 120+ cold calls per day. Conduct strategic follow-ups via email (25+ daily) and LinkedIn (20+ daily) to prospects engaged via phone. Navigate complex enterprise organizations to connect with senior IT and infrastructure decision-makers. Manage and qualify leads to consistently schedule 20+ high-quality meetings per month for the sales team. Maintain rigorous documentation of all activity within the CRM. Master the value proposition of autonomous AI networking to handle objections and engage in meaningful business conversations. Experience: Minimum of 1 year in cold calling and SDR-specific activities. Industry Knowledge: Proven experience selling IT, SaaS, or technology-related products. Communication: Native or bilingual fluency in English with the ability to hold professional, confident conversations with C-suite and senior personnel. Skills: Expert-level cold calling and cold emailing capabilities. Technical: Proficiency in Microsoft Office suite. Availability: Ability to work a strict 9:00 AM â 5:00 PM EST schedule from an offshore location. ð Fully remote work environment ð Career growth opportunities in a fast-scaling AI sector ð Long-term stability within a pioneering tech firm ð¤ Hands-on experience with industry-leading AI technology Please mention the word **ENDORSING** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team. Role Type: Full-time Engagement: Full-time (Offshore, EST Business Hours) Job Summary Join a cutting-edge AI company that is redefining the future of network infrastructure. This team provides the worldâs first AI-driven autonomous multi-agentic Network Operations Center (NOC) platform, helping global enterprises automate complex cloud environments and eliminate downtime. As a Junior SDR, you will be the engine of our growth, reaching out to high-level IT leaders to introduce a revolutionary technology that solves their most critical operational challenges. This is a high-volume, high-impact role for a hunter who thrives on the phones and wants to be at the forefront of the AI revolution. Key Responsibilities Execute high-volume outreach consisting of 120+ cold calls per day. Conduct strategic follow-ups via email (25+ daily) and LinkedIn (20+ daily) to prospects engaged via phone. Navigate complex enterprise organizations to connect with senior IT and infrastructure decision-makers. Manage and qualify leads to consistently schedule 20+ high-quality meetings per month for the sales team. Maintain rigorous documentation of all activity within the CRM. Master the value proposition of autonomous AI networking to handle objections and engage in meaningful business conversations. Experience: Minimum of 1 year in cold calling and SDR-specific activities. Industry Knowledge: Proven experience selling IT, SaaS, or technology-related products. Communication: Native or bilingual fluency in English with the ability to hold professional, confident conversations with C-suite and senior personnel. Skills: Expert-level cold calling and cold emailing capabilities. Technical: Proficiency in Microsoft Office suite. Availability: Ability to work a strict 9:00 AM â 5:00 PM EST schedule from an offshore location. ð Fully remote work environment ð Career growth opportunities in a fast-scaling AI sector ð Long-term stability within a pioneering tech firm ð¤ Hands-on experience with industry-leading AI technology Please mention the word **ENDORSING** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "saas",
     "technical",
@@ -2243,7 +2237,7 @@
    "url": "https://www.getonbrd.com/jobs/senior-frontend-software-engineer-improving-remote",
    "ubicacion": "Remote (remote_local)",
    "salario": "3,000 - 3,700",
-   "publicado": "2026-10-21",
+   "publicado": "2026-11-03",
    "descripcion": "Strong professional Vue.js experience and proficiency with JavaScript, HTML, and CSS. Experience maintaining and modernizing mature, data-intensive single-page applications. Hands-on experience developing or integrating interactive 3D visualization in browser-based applications. Experience with 3D viewers, scene viewers, CAD/model visualization, digital twins, WebGL-based technologies, or comparable platforms. Experience upgrading dependencies and resolving compatibility issues in established JavaScript applications. Strong API integration, asynchronous behavior, state-management, debugging, performance, and enterprise authentication experience. Assess and remediate outdated frontend packages, dependencies, and technical debt. Develop interactive 2D and 3D asset visualization and complex industrial inspection workflows. Integrate with backend APIs, real-time services, authentication, and spatial/visualization tooling. Improve frontend performance, state management, rendering, maintainability, and reusable component patterns. Maintain production functionality while incrementally modernizing architecture and dependencies. Help define the longer-term migration path from Vue 2 to a current Vue platform. Collaborate with backend engineers, QA, product stakeholders, and domain specialists. Develop and maintain functionality within a large production vue.js application Experience with Vue 2 and Vue 3, including major-version modernization. Experience with Vuetify, Vuex, Vue Router, Leaflet, SignalR/WebSockets, and Auth0 or comparable technologies. Experience with industrial, engineering, inspection, asset-integrity, maintenance, or digital-twin applications.",
    "tags": [
     "data"
@@ -2301,6 +2295,26 @@
    "estado": ""
   },
   {
+   "id": "getonboard:ai-engineering-lead-niuro-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "AI Engineering Lead",
+   "empresa": "Niuro",
+   "url": "https://www.getonbrd.com/jobs/ai-engineering-lead-niuro-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "5,500 - 6,000",
+   "publicado": "2026-11-03",
+   "descripcion": "8+ years of software engineering experience, including 3+ years leading concurrent development workstreams or teams C1 English level or higher Expertise with AI Coding Assistants, AI Agent Frameworks, and Software Engineering Strong Git, Shell Scripting, and Command Line skills Professional experience with macOS and Desktop Automation Experience with Test Automation, AI Output Evaluation, Incident Diagnosis, Workflow Automation, Release Verification, and automation Demonstrated Technical Leadership, including the ability to organize parallel workstreams and maintain clear ownership Ability to demonstrate relevant work through repositories, projects, or a live walkthrough Hands-on experience with C++, MCP, MCP Servers, Authentication, Authorization, GCC, Clang, Build Systems, Debugging Tools, Concurrent Processes, Source Code Review, Technical Documentation, Claude. Translate business priorities into measurable outcomes, precise task briefs, scope boundaries, and success criteria. Coordinate parallel AI engineering workstreams, shared code, technical decisions, dependencies, and ownership. Design, build, secure, and troubleshoot MCP servers and tools, including authentication, permissions, and access boundaries. Configure AI coding tools, terminal sessions, and desktop automation on macOS while maintaining visible progress and recoverable handoffs. Monitor concurrent AI development processes, recover interruptions, and prevent duplicate ownership or lost evidence. Review source changes and tests directly, evaluate AI-generated output, require appropriate review, and oversee safe integration and release verification. Assess capacity across machines, review paths, and model accounts. Scale activity based on measured demand, established limits, and operational cost. Investigate recurring failures and remove root causes so workflows remain reliable, simple, and maintainable.",
+   "tags": [
+    "data"
+   ],
+   "puntaje": 8,
+   "motivos": [
+    "+2 Remoto"
+   ],
+   "idioma": "en",
+   "estado": ""
+  },
+  {
    "id": "remoteok:1137427",
    "fuente": "RemoteOK",
    "titulo": "Software Engineer",
@@ -2309,7 +2323,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-09-23",
-   "descripcion": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi... Please mention the word **STELLARLY** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi... Please mention the word **STELLARLY** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "golang",
     "dev",
@@ -2332,7 +2346,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-10-18",
-   "descripcion": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "golang",
     "finance",
@@ -2358,7 +2372,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-10-05",
-   "descripcion": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "golang",
     "infosec",
@@ -2381,7 +2395,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-08-25",
-   "descripcion": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human invo... Please mention the word **EMPATHY** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human invo... Please mention the word **EMPATHY** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "golang",
     "senior",
@@ -2429,7 +2443,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-10-18",
-   "descripcion": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special... Please mention the word **EVALUATIVE** and tag RNDAuMTI0LjEwMi44Mw== when applying to show you read the job post completely (#RNDAuMTI0LjEwMi44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special... Please mention the word **EVALUATIVE** and tag RMjAuODAuMTA5Ljgx when applying to show you read the job post completely (#RMjAuODAuMTA5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "golang",
     "dev",
