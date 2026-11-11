@@ -85,7 +85,7 @@ function pintar() {
     const tags = (o.tags || []).slice(0, 8).map(t => `<span class="chip">${escapar(t)}</span>`).join('');
     const motivos = (o.motivos || []).slice(0, 6).map(m => `<span class="chip">${escapar(m)}</span>`).join('');
     const salario = o.salario ? `<span>💵 ${escapar(o.salario)}</span>` : '';
-    const estado = o.estado ? `<span class="estado">${escapar(o.estado.replace('_', ' '))}</span>` : '';
+    const estado = o.estado ? `<span class="estado">${escapar(o.estado.replace(/_/g, ' '))}</span>` : '';
     return `<article class="oferta">
       <div class="fila">
         <div>

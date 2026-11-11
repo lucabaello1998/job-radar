@@ -13,6 +13,7 @@ from .puntuar import UMBRAL_PUBLICABLE, es_rol_tech, puntuar
 
 RAIZ = Path(__file__).resolve().parent.parent
 DOCS = RAIZ / "docs"
+PREVIA = RAIZ / "docs-preview"
 
 # Palabras que delatan el idioma del aviso: alcanza para elegir la plantilla de mensaje.
 INGLES = re.compile(r"\b(the|and|with|you|we|our|is|are|will|team|experience)\b", re.IGNORECASE)
@@ -48,6 +49,8 @@ def procesar(ofertas: list[Oferta], registradas: dict[str, dict]) -> list[dict]:
     for oferta in ofertas:
         if not oferta.titulo or not oferta.url or not es_rol_tech(oferta):
             continue
+        if not oferta.url.startswith(("http://", "https://")):
+            continue  # una URL que no es http(s) termina como link roto o peor: javascript:
         puntuar(oferta)
         if oferta.puntaje < UMBRAL_PUBLICABLE:
             continue
@@ -64,14 +67,24 @@ def procesar(ofertas: list[Oferta], registradas: dict[str, dict]) -> list[dict]:
     return salida
 
 
+def destino(offline: bool, docs: Path | None) -> Path:
+    """Una corrida offline no pisa el tablero publicado: escribe en docs-preview/."""
+    if docs is not None:
+        return docs
+    return PREVIA if offline else DOCS
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="jobradar", description="Radar de ofertas para fullstack SSR")
     parser.add_argument("--offline", action="store_true", help="usar fixtures, sin red")
     parser.add_argument("--guardar-fixtures", action="store_true", help="guardar las respuestas crudas")
     parser.add_argument("--solo", help="correr una sola fuente")
-    parser.add_argument("--docs", type=Path, default=DOCS, help="carpeta de salida")
+    parser.add_argument(
+        "--docs", type=Path, default=None, help="carpeta de salida (default: docs/, u offline: docs-preview/)"
+    )
     parser.add_argument("--minimo", type=int, default=UMBRAL_PUBLICABLE, help="puntaje mínimo")
     args = parser.parse_args(argv)
+    salida = destino(args.offline, args.docs)
 
     ofertas, ok, errores = recolectar(args.offline, args.guardar_fixtures, args.solo)
     print(f"recolectadas: {len(ofertas)} · fuentes ok: {ok} · caídas: {errores}")
@@ -84,9 +97,9 @@ def main(argv: list[str] | None = None) -> int:
         print("sin ofertas publicables: no se toca el tablero")
         return 1
 
-    destino_html = args.docs / "index.html"
+    destino_html = salida / "index.html"
     tablero.escribir(publicables, estado.resumen(), [f.split(" ")[0] for f in ok], errores, destino_html)
-    datos = args.docs / "data" / "ofertas.json"
+    datos = salida / "data" / "ofertas.json"
     datos.parent.mkdir(parents=True, exist_ok=True)
     datos.write_text(
         json.dumps(
