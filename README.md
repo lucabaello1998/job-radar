@@ -6,6 +6,8 @@ explica cada punto y escribe el borrador del mensaje. Apretar enviar lo hago yo.
 Corre todos los días en GitHub Actions y publica el tablero en
 **[lucabaello1998.github.io/job-radar](https://lucabaello1998.github.io/job-radar/)**.
 
+![Tablero de job-radar](docs/captura.png)
+
 ## Empezá acá
 
 | Quiero… | Ir a |
