@@ -44,7 +44,7 @@ def recolectar(
     return acumuladas, buenas, errores
 
 
-def procesar(ofertas: list[Oferta], registradas: dict[str, dict]) -> list[dict]:
+def procesar(ofertas: list[Oferta], registradas: dict[str, dict], minimo: int = UMBRAL_PUBLICABLE) -> list[dict]:
     vistas: dict[str, Oferta] = {}
     for oferta in ofertas:
         if not oferta.titulo or not oferta.url or not es_rol_tech(oferta):
@@ -52,14 +52,15 @@ def procesar(ofertas: list[Oferta], registradas: dict[str, dict]) -> list[dict]:
         if not oferta.url.startswith(("http://", "https://")):
             continue  # una URL que no es http(s) termina como link roto o peor: javascript:
         puntuar(oferta)
-        if oferta.puntaje < UMBRAL_PUBLICABLE:
+        if oferta.puntaje < minimo:
             continue
         previa = vistas.get(oferta.clave)
         if previa is None or oferta.puntaje > previa.puntaje:
             vistas[oferta.clave] = oferta
 
     salida = []
-    for oferta in sorted(vistas.values(), key=lambda o: (-o.puntaje, o.empresa)):
+    # `empresa` puede venir vacía o nula de la API: ordenar por None revienta el sort.
+    for oferta in sorted(vistas.values(), key=lambda o: (-o.puntaje, (o.empresa or "").lower())):
         fila = oferta.a_dict()
         fila["idioma"] = idioma(oferta)
         fila["estado"] = registradas.get(oferta.id, {}).get("estado", "")
@@ -67,52 +68,89 @@ def procesar(ofertas: list[Oferta], registradas: dict[str, dict]) -> list[dict]:
     return salida
 
 
-def destino(offline: bool, docs: Path | None) -> Path:
-    """Una corrida offline no pisa el tablero publicado: escribe en docs-preview/."""
+def destino(offline: bool, docs: Path | None, solo: bool = False) -> Path:
+    """Una corrida parcial no pisa el tablero publicado.
+
+    Pasa con `--offline` (fixtures) y con `--solo` (una fuente): el tablero que
+    sale de ahí le faltarían las otras fuentes, así que va a `docs-preview/`.
+    """
     if docs is not None:
         return docs
-    return PREVIA if offline else DOCS
+    return PREVIA if (offline or solo) else DOCS
+
+
+def _escribir_atomico(ruta: Path, texto: str) -> None:
+    """Escribe a un temporal y reemplaza.
+
+    Si el proceso muere entre el HTML y el JSON, o el archivo está abierto en otro
+    lado, el tablero publicado no queda a medias.
+    """
+    ruta.parent.mkdir(parents=True, exist_ok=True)
+    temporal = ruta.with_suffix(ruta.suffix + ".tmp")
+    temporal.write_text(texto, encoding="utf-8")
+    temporal.replace(ruta)
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="jobradar", description="Radar de ofertas para fullstack SSR")
     parser.add_argument("--offline", action="store_true", help="usar fixtures, sin red")
-    parser.add_argument("--guardar-fixtures", action="store_true", help="guardar las respuestas crudas")
-    parser.add_argument("--solo", help="correr una sola fuente")
+    parser.add_argument("--guardar-fixtures", action="store_true", help="guardar las respuestas crudas (solo con red)")
+    parser.add_argument("--solo", help="correr una sola fuente (escribe en docs-preview/)")
     parser.add_argument(
-        "--docs", type=Path, default=None, help="carpeta de salida (default: docs/, u offline: docs-preview/)"
+        "--docs", type=Path, default=None, help="carpeta de salida (default: docs/, o docs-preview/ si es parcial)"
     )
-    parser.add_argument("--minimo", type=int, default=UMBRAL_PUBLICABLE, help="puntaje mínimo")
+    parser.add_argument(
+        "--minimo",
+        type=int,
+        default=UMBRAL_PUBLICABLE,
+        help=f"puntaje mínimo para publicar (default {UMBRAL_PUBLICABLE}; 0 publica todo lo que sea tech)",
+    )
+    parser.add_argument(
+        "--privado",
+        action="store_true",
+        help="no publicar el estado de cada postulación (el registro se sigue usando para el resumen)",
+    )
     args = parser.parse_args(argv)
-    salida = destino(args.offline, args.docs)
+    if args.minimo < 0:
+        parser.error("--minimo no puede ser negativo")
+    salida = destino(args.offline, args.docs, solo=bool(args.solo))
 
     ofertas, ok, errores = recolectar(args.offline, args.guardar_fixtures, args.solo)
     print(f"recolectadas: {len(ofertas)} · fuentes ok: {ok} · caídas: {errores}")
 
-    publicables = procesar(ofertas, estado.por_id())
-    if args.minimo != UMBRAL_PUBLICABLE:
-        publicables = [o for o in publicables if o["puntaje"] >= args.minimo]
+    publicables = procesar(ofertas, estado.por_id(), args.minimo)
+    if args.privado:
+        for fila in publicables:
+            fila["estado"] = ""
 
     if not publicables:
-        print("sin ofertas publicables: no se toca el tablero")
-        return 1
+        # Dos casos distintos: la corrida no trajo nada (todas las fuentes caídas:
+        # eso sí es un error) o trajo ofertas pero ninguna pasa el corte (normal
+        # un domingo: no se toca el tablero y no se marca el CI en rojo).
+        if not ofertas:
+            print("error: ninguna fuente devolvió ofertas; no se toca el tablero")
+            return 1
+        print(f"sin ofertas que pasen el corte ({args.minimo}): no se toca el tablero")
+        return 0
 
     destino_html = salida / "index.html"
-    tablero.escribir(publicables, estado.resumen(), [f.split(" ")[0] for f in ok], errores, destino_html)
+    html = tablero.render(publicables, estado.resumen(), [f.split(" ")[0] for f in ok], errores)
     datos = salida / "data" / "ofertas.json"
-    datos.parent.mkdir(parents=True, exist_ok=True)
-    datos.write_text(
+    # Primero el JSON (fuente de datos) y después el HTML: si algo falla, el
+    # tablero viejo sigue apuntando a los datos viejos.
+    _escribir_atomico(
+        datos,
         json.dumps(
             {"corrida": ahora(), "total": len(publicables), "ofertas": publicables}, ensure_ascii=False, indent=1
         ),
-        encoding="utf-8",
     )
+    _escribir_atomico(destino_html, html)
 
     print(f"\n{'':<3}{'pts':>4}  {'empresa':<24}{'puesto':<46}{'fuente':<11}salario")
     print("-" * 108)
     for oferta in publicables[:12]:
         print(
-            f"{oferta['puntaje']:>4}  {oferta['empresa'][:23]:<24}{oferta['titulo'][:45]:<46}"
+            f"{oferta['puntaje']:>4}  {(oferta['empresa'] or '')[:23]:<24}{oferta['titulo'][:45]:<46}"
             f"{oferta['fuente'][:10]:<11}{oferta['salario'][:28]}"
         )
     print(f"\nescrito: {destino_html}")

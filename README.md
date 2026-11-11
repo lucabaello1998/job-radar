@@ -46,18 +46,27 @@ No es una caja negra. Cada tarjeta muestra los motivos:
 | Señal | Puntos |
 |---|---|
 | `.NET` / `C#` / `ASP.NET` | +4 |
-| `React` o `Next.js` | +3 |
+| `React` | +3 |
+| `Next.js` | +3 |
 | `fullstack` | +3 |
 | `TypeScript` | +2 |
 | remoto / worldwide / anywhere | +2 |
 | Argentina / LatAm / South America | +2 |
 | paga en USD | +2 |
-| híbrido / presencial | -2 / -3 |
-| "US only", permiso de trabajo en EE.UU., clearance | -5 |
-| pide 10+ años, principal, staff | -3 |
+| SSR, Node, SQL, Azure, contenedores | +1 cada uno |
+| "US only" / "US-only" / permiso de trabajo en EE.UU. / clearance | -5 |
+| restricción de residencia ("must be located in") | -4 |
+| híbrido / presencial | -2 / -3 (no aplican si el aviso dice "fully remote, not hybrid") |
+| pide 10+ años, principal, staff engineer | -3 |
 | pasantía, sin pago | -5 / -8 |
+| stack fuera de foco (Salesforce, SAP ABAP, COBOL…) | -3 |
 
-Con menos de 6 puntos no se publica. El tope es 100 y el tablero marca "encaje alto" desde 60.
+Dos detalles que no se ven en la tabla:
+
+- **El puntaje publicado es la suma × 4**, con tope 100 (así el tablero puede mostrar "encaje alto" desde 60 en vez de desde 15).
+- **React y Next.js suman por separado**: "React + Next.js" da +6 aunque la tabla los tenga en filas distintas.
+- Con menos de **6 puntos** (1,5 crudos) no se publica: es un piso bajo a propósito, porque descartar de más una oferta buena cuesta más que mirar una de más.
+- Si el título dice `Sales` o `Support`, no entra aunque diga "engineer": no es un puesto de desarrollo.
 
 ## Instalación
 
@@ -76,18 +85,25 @@ pip install pytest ruff         # sólo para correr los tests y el lint
 ```bash
 python -m jobradar.construir                # corrida completa (sale a la red)
 python -m jobradar.construir --offline      # contra los fixtures, sin red (escribe docs-preview/)
-python -m jobradar.construir --solo remoteok
+python -m jobradar.construir --solo remoteok        # una sola fuente (también va a docs-preview/)
 python -m jobradar.construir --docs /tmp/x  # a otra carpeta
 python -m jobradar.construir --minimo 40    # subir el corte de publicación
-python -m pytest                            # 22 tests
+python -m jobradar.construir --minimo 0     # publicar todo lo que sea un rol tech
+python -m jobradar.construir --privado      # sin el estado de cada postulación
+python -m pytest                            # 48 tests
 ruff check jobradar tests && ruff format --check jobradar tests
 ```
 
-Una corrida `--offline` **no pisa el tablero publicado**: escribe en `docs-preview/`, que está
-ignorado por git. Sirve para ver cómo queda un cambio de reglas sin tocar lo que está online.
+Una corrida **parcial** (`--offline` o `--solo`) **no pisa el tablero publicado**: escribe en
+`docs-preview/`, que está ignorado por git. Sirve para ver cómo queda un cambio de reglas sin tocar
+lo que está online. `--docs <carpeta>` gana siempre: si lo pasás, escribe ahí.
+
+`--minimo` es un puntaje (0 a 100), no una cantidad de ofertas: el default es 6 y **puede bajar o
+subir** el corte. `--minimo 0` publica todo lo que pase el filtro de rol.
 
 Los fixtures de `fixtures/` son respuestas reales de las tres APIs. `--guardar-fixtures` las
-actualiza: sirve cuando un portal cambia el formato y querés ver el JSON crudo.
+actualiza **solo en una corrida con red** (con `--offline` no hay nada que guardar): sirve cuando un
+portal cambia el formato y querés ver el JSON crudo.
 
 ## Cómo leer el tablero
 
@@ -132,8 +148,10 @@ Estados: `por_postular`, `aplicada`, `respondida`, `entrevista`, `tecnica`, `ofe
 Cada línea es un evento, así que el histórico queda completo y el tablero muestra el último estado.
 
 `postulaciones.jsonl` **se commitea**: el radar corre en la nube y sólo puede pintar estados si el
-archivo está en el repo. Es un archivo de texto, no tiene datos sensibles más allá de dónde te
-postulaste.
+archivo está en el repo. Es texto plano, pero **el repo es público**: cualquiera puede ver a qué te
+postulaste y en qué quedó, y el campo `nota` es libre (no escribas ahí nada que no publicarías). Si
+preferís que el tablero no muestre el estado de cada oferta, corré el radar con `--privado`: el
+registro se sigue usando para el resumen del encabezado, pero no se publica por oferta.
 
 ## Estructura
 
@@ -147,7 +165,7 @@ jobradar/
   estado.py     CLI del registro de postulaciones
 fixtures/       respuestas crudas de las APIs para correr offline
 docs/           lo que publica Pages: index.html y data/ofertas.json
-tests/          pytest de reglas, deduplicación, fechas y estados
+tests/          pytest de reglas, puntaje, fuentes, fechas, estados y tablero
 ```
 
 ## Límites
@@ -162,7 +180,7 @@ tests/          pytest de reglas, deduplicación, fechas y estados
 
 | Síntoma | Qué mirar |
 |---|---|
-| "sin ofertas publicables" | es normal en finde o feriado: las APIs publican menos. Probá `--minimo 0` para ver todo |
+| "sin ofertas publicables" | es normal en finde o feriado: las APIs publican menos. El tablero no se toca y la corrida **no** queda en rojo; para ver todo, `--minimo 0` |
 | Una fuente caída todos los días | `python -m jobradar.construir --solo <fuente>` y mirá el error; si la API cambió, actualizá el parser de `fuentes.py` |
 | El tablero no se actualiza en Pages | Actions → última corrida → paso "Publicar si hubo cambios"; y que Pages apunte a `docs/` |
 | Los tests fallan después de cambiar reglas | `pytest -q` muestra el punto exacto; los fixtures no cambian, así que la diferencia es tu cambio |

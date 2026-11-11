@@ -30,18 +30,45 @@ SENALES: list[tuple[str, int, str]] = [
 
 # (patrón, puntos, motivo): motivos negativos que restan
 PENALIDADES: list[tuple[str, int, str]] = [
-    (r"\b(us|u\.s\.|usa) only\b", -5, "Solo EE.UU."),
+    (r"\b(us|u\.s\.a?\.?|usa)(?:[-\s]?only| or canada only)\b", -5, "Solo EE.UU."),
     (r"must be (located|based) in", -4, "Restricción de residencia"),
     (r"(authorized|eligible) to work in the (us|united states)", -5, "Permiso de trabajo en EE.UU."),
     (r"\bsecurity clearance\b", -5, "Requiere clearance"),
     (r"\b(on[- ]?site|presencial)\b", -3, "Presencial"),
     (r"\bhybrid\b", -2, "Híbrido"),
-    (r"\b(1[0-9]|[2-9][0-9])\+? years\b", -3, "Pide 10+ años"),
+    # Solo si de verdad pide una década, con "experience" al lado: "5-10 years"
+    # (rango) y "serving clients for 20 years" (historia de la empresa) no son
+    # requisitos del puesto.
+    (
+        r"(?<![\d\-–])\b(?:1[0-9]|[2-9][0-9])\+?\s*years?\b(?:\s+of)?"
+        r"(?:\s+(?:professional|relevant|hands-on|proven|software|development|engineering|industry)){0,2}"
+        r"\s*experience\b",
+        -3,
+        "Pide 10+ años",
+    ),
     (r"\b(principal|staff engineer|head of engineering)\b", -3, "Seniority muy alto"),
     (r"\b(intern|internship|trainee|pasantía)\b", -5, "Pasantía"),
     (r"\b(unpaid|equity only|sin remuneración)\b", -8, "Sin pago"),
     (r"\b(salesforce|servicenow|sap abap|cobol)\b", -3, "Stack fuera de foco"),
 ]
+
+# Si el aviso aclara que NO es híbrido ni presencial, esas dos penalidades no
+# aplican: "fully remote, not hybrid, no on-site" es una oferta remota, no una
+# oferta presencial.
+REMOTO_EXPLICITO = re.compile(
+    r"(fully|100\s*%|completamente|totalmente)\s+remote"
+    r"|not\s+hybrid|no\s+hybrid|sin\s+h[ií]brid"
+    r"|not\s+on[-\s]?site|no\s+on[-\s]?site|sin\s+presencialidad",
+    re.IGNORECASE,
+)
+
+# Si el título menciona esto, no es un puesto de desarrollo aunque diga "engineer":
+# "Sales Engineer" y "Customer Support Engineer" son ventas y soporte.
+NO_TECH = re.compile(
+    r"\b(sales|account executive|account manager|support|customer success|customer service|"
+    r"recruiter|talent|sourcer|designer|ux|ui|data entry|qa analyst)\b",
+    re.IGNORECASE,
+)
 
 # Si el título no menciona nada de esto, probablemente no es un rol de desarrollo
 TECH = re.compile(
@@ -58,12 +85,15 @@ def _texto(oferta: Oferta) -> str:
 
 
 def es_rol_tech(oferta: Oferta) -> bool:
+    if NO_TECH.search(oferta.titulo):
+        return False
     return bool(TECH.search(oferta.titulo))
 
 
 def puntuar(oferta: Oferta) -> Oferta:
     """Asigna `puntaje` (0-100) y la lista de motivos que lo explican."""
     texto = _texto(oferta)
+    remoto_declarado = bool(REMOTO_EXPLICITO.search(texto))
     total = 0
     motivos: list[str] = []
 
@@ -73,6 +103,8 @@ def puntuar(oferta: Oferta) -> Oferta:
             motivos.append(f"+{puntos} {motivo}")
 
     for patron, puntos, motivo in PENALIDADES:
+        if remoto_declarado and motivo in ("Híbrido", "Presencial"):
+            continue
         if re.search(patron, texto):
             total += puntos
             motivos.append(f"{puntos} {motivo}")

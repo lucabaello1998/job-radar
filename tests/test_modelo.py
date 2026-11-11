@@ -15,6 +15,13 @@ def test_limpiar_html_recorta():
     assert len(limpiar_html("<p>" + "x" * 500 + "</p>", limite=100)) == 100
 
 
+def test_limpiar_html_no_desescapa_dos_veces():
+    # `&amp;lt;` es el texto "&lt;", no el carácter "<": si se desescapa dos
+    # veces, el tablero muestra algo que la empresa no escribió.
+    assert limpiar_html("<p>&amp;lt;script&amp;gt;</p>") == "&lt;script&gt;"
+    assert limpiar_html("<p>Tom &amp; Jerry</p>") == "Tom & Jerry"
+
+
 def test_slug_estable_y_seguro():
     assert slug("Acme Corp — Senior .NET Developer") == "acme-corp-senior-net-developer"
     assert slug("!!!") == "oferta"

@@ -45,6 +45,38 @@ def test_es_rol_tech_distingue_roles_de_desarrollo():
     assert es_rol_tech(_oferta(titulo="Senior Fullstack Engineer")) is True
 
 
+def test_los_puestos_de_venta_y_soporte_no_son_de_desarrollo():
+    # "Engineer" solo no alcanza: el README prometía descartarlos.
+    for titulo in ("Sales Engineer", "Customer Support Engineer", "Solutions Support Specialist"):
+        assert es_rol_tech(_oferta(titulo=titulo)) is False, titulo
+
+
+def test_pide_la_decada_solo_cuando_lo_pide():
+    con_requisito = puntuar(_oferta(descripcion="React .NET remote. 10+ years of experience required."))
+    con_rango = puntuar(_oferta(descripcion="React .NET remote. Requires 5-10 years of experience."))
+    historia = puntuar(_oferta(descripcion="React .NET remote. We have served clients for 20 years."))
+
+    assert any("10+ años" in m for m in con_requisito.motivos)
+    assert not any("10+ años" in m for m in con_rango.motivos)
+    assert not any("10+ años" in m for m in historia.motivos)
+
+
+def test_una_oferta_remota_explicita_no_se_penaliza_por_hibrida():
+    remota = puntuar(_oferta(descripcion="React .NET. Fully remote, not hybrid, no on-site work."))
+    hibrida = puntuar(_oferta(descripcion="React .NET. Hybrid, three days on-site."))
+
+    assert not any("Híbrido" in m or "Presencial" in m for m in remota.motivos)
+    assert remota.puntaje > hibrida.puntaje
+
+
+def test_reconoce_us_only_con_guion():
+    con_guion = puntuar(_oferta(descripcion="React .NET. US-only candidates."))
+    sin_restriccion = puntuar(_oferta(descripcion="React .NET."))
+
+    assert any("Solo EE.UU." in m for m in con_guion.motivos)
+    assert con_guion.puntaje < sin_restriccion.puntaje
+
+
 def test_puntaje_nunca_sale_de_rango():
     oferta = puntuar(_oferta(descripcion="React Next.js TypeScript .NET USD remote " * 40 + "unpaid equity only"))
     assert 0 <= oferta.puntaje <= 100

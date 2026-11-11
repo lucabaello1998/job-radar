@@ -28,7 +28,9 @@ jobs:
 
       - name: Tests
         run: |
-          pip install pytest ruff
+          # Versiones fijas: un ruff nuevo puede cambiar el formato y romper el CI
+          # sin que se haya tocado una línea.
+          pip install "pytest==9.2.0" "ruff==0.17.3"
           ruff check jobradar tests
           ruff format --check jobradar tests
           python -m pytest -q
@@ -46,4 +48,10 @@ jobs:
             exit 0
           fi
           git commit -m "radar: corrida $(date -u +%Y-%m-%d)"
-          git push
+          # Otro push entre el checkout y este paso hace fallar el push: se
+          # rebasa una vez y se reintenta, en vez de dejar el día sin publicar.
+          for intento in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash
+          done
+          exit 1

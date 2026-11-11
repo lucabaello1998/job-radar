@@ -9,17 +9,19 @@ from datetime import UTC, datetime
 
 ETIQUETAS = re.compile(r"<[^>]+>")
 ESPACIOS = re.compile(r"\s+")
-ENTIDADES = {"&amp;": "&", "&nbsp;": " ", "&#39;": "'", "&quot;": '"', "&lt;": "<", "&gt;": ">"}
 
 
 def limpiar_html(texto: str | None, limite: int = 4000) -> str:
-    """Convierte HTML a texto plano legible, sin entidades ni etiquetas."""
+    """Convierte HTML a texto plano legible, sin entidades ni etiquetas.
+
+    `html.unescape` ya resuelve todas las entidades conocidas (y las numéricas).
+    Hacerle un segundo reemplazo a mano, además, convertía `&amp;lt;` en `<`: el
+    texto publicado no era el que escribió la empresa.
+    """
     if not texto:
         return ""
     sin_etiquetas = ETIQUETAS.sub(" ", texto)
     sin_entidades = html.unescape(sin_etiquetas)
-    for crudo, limpio in ENTIDADES.items():
-        sin_entidades = sin_entidades.replace(crudo, limpio)
     return ESPACIOS.sub(" ", sin_entidades).strip()[:limite]
 
 

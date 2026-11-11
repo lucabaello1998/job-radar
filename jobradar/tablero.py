@@ -104,7 +104,7 @@ function pintar() {
       </div>
       <div class="acciones">
         <a class="btn principal" href="${escapar(o.url)}" target="_blank" rel="noopener">Ver oferta ↗</a>
-        <button class="btn" data-i="${o.id}">Copiar mensaje</button>
+        <button class="btn" data-i="${escapar(o.id)}">Copiar mensaje</button>
       </div>
     </article>`;
   }).join('') || '<p style="color:#93a6ba">Nada con ese filtro.</p>';
@@ -205,6 +205,10 @@ def render(ofertas: list[dict], resumen: dict[str, int], fuentes_ok: list[str], 
 def escribir(
     ofertas: list[dict], resumen: dict[str, int], fuentes_ok: list[str], fuentes_error: list[str], destino: Path
 ) -> Path:
+    """Escribe el tablero de una sola vez (no deja un HTML a medio escribir)."""
     destino.parent.mkdir(parents=True, exist_ok=True)
-    destino.write_text(render(ofertas, resumen, fuentes_ok, fuentes_error), encoding="utf-8")
+    contenido = render(ofertas, resumen, fuentes_ok, fuentes_error)
+    temporal = destino.with_suffix(destino.suffix + ".tmp")
+    temporal.write_text(contenido, encoding="utf-8")
+    temporal.replace(destino)
     return destino
