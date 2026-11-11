@@ -1,5 +1,7 @@
 # job-radar
 
+[![Release](https://img.shields.io/github/v/release/lucabaello1998/job-radar?label=release)](https://github.com/lucabaello1998/job-radar/releases/latest)
+
 **Un radar diario de ofertas remotas, rankeadas contra mi perfil real.** No postula solo: rankea,
 explica cada punto y escribe el borrador del mensaje. Apretar enviar lo hago yo.
 
