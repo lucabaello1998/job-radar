@@ -161,6 +161,7 @@ def render(ofertas: list[dict], resumen: dict[str, int], fuentes_ok: list[str], 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Job radar · ofertas rankeadas para fullstack SSR</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%228%22 fill=%22%23d4af37%22/%3E%3Ctext x=%2216%22 y=%2223%22 font-size=%2218%22 font-family=%22system-ui%22 font-weight=%22900%22 text-anchor=%22middle%22 fill=%22%231a1405%22%3ER%3C/text%3E%3C/svg%3E">
 <meta name="description" content="Ofertas remotas de desarrollo rankeadas contra un perfil fullstack SSR (React/Next.js + .NET). Se actualiza solo todos los días.">
 <style>{CSS}</style>
 </head>
