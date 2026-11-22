@@ -1,6 +1,6 @@
 {
- "corrida": "2026-11-21T17:54:28Z",
- "total": 82,
+ "corrida": "2026-11-22T18:19:46Z",
+ "total": 79,
  "ofertas": [
   {
    "id": "getonboard:desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -319,42 +319,6 @@
     "+3 Next.js",
     "+3 React",
     "+3 Fullstack",
-    "+1 Contenedores",
-    "+2 Remoto"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "remoteok:1137805",
-   "fuente": "RemoteOK",
-   "titulo": "SEO Full Stack Engineer",
-   "empresa": "Treatwell",
-   "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-   "ubicacion": "Remoto",
-   "salario": "",
-   "publicado": "2026-11-18",
-   "descripcion": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End. You'll work on Treatwellâs Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alongside three product engineering teams in the Marketplace area, contributing across the full breadth of what makes Treatwell's marketplace tick. As a full-stack engineer, you're the person who can move fluidly between teams accelerating growth and marketing efforts wherever the need is greatest. You bring the mindset of someone who cares about how people find Treatwell, what experience they land on, and whether the product helps them make a confident booking. You are comfortable partnering with marketing and growth stakeholders, while staying grounded in engineering quality and product outcomes. â¡ï¸ Our product is built on: Backend: Java, Spring Boot, RabbitMQ, PostgreSQL, MS-SQL Frontend: React, TypeScript, Cypress, Jest Infrastructure: Kubernetes, GitLab CI/CD, AWS, Datadog Mindset: DevOps, DDD, event-driven architecture ð¡ About Treatwell Hi, weâre Treatwell. Nice to meet you. Weâre a team of 800 passionate and brilliantly talented people across Europe. Weâre the industryâs smartest salon management software, all connected to Europeâs leading bookings platform, working with over 95,000 salon partners across 14 countries, processing over 14 million bookings every month. Andâ¦.breathe. But weâre not done yet. Weâre on an exciting journey to digitally revolutionise the hair and beauty community. If this excites you, we might just have the role for you. ð§ You will be responsible for: Growth and marketing engineering - build and evolve the technical foundations that support customer acquisition, activation, and retention across Treatwell's markets Discoverability - improve how search engines and users understand Treatwell's marketplace, without turning the role into a pure SEO implementation function Experimentation and measurement - instrument your work, support testing frameworks, and help teams validate ideas with data before scaling them Product surfaces - ship user-facing improvements to landing pages, discovery journeys, and conversion flows, owning the work from problem framing through production Platform quality - own your services end-to-end, from architecture through deployment, with a DevOps mindset baked in Cross-functional clarity - translate growth and marketing opportunities into clear engineering work, challenge scope when needed, and keep quality standards high ð About you: You have proven experience owning production-grade web applications end-to-end, and understand that the best technical decisions come from deeply understanding the problem - not just the code (mid/senior level) You own features end-to-end - from database schema to UI, without needing a handoff You think in systems and trade-offs, not just tickets - you spot the upstream cause, not just the downstream symptom You have a product mindset - you think about the person using what you build, ask why before how, and push back when something doesn't make sense You're data-driven and hypothesis-led - you instrument your work, measure impact, and use evidence to make decisions You can partner with non-engineering stakeholders, turning ambiguous growth or marketing needs into sensible technical options You will act as the key technical partner for marketing stakeholders, evaluating the feasibility of their requests, managing expectations, and finding the right trade-off between business speed and technical quality (TBC). You are able to make",
-   "tags": [
-    "full stack",
-    "react",
-    "rabbitmq",
-    "front end",
-    "technical",
-    "customer support",
-    "dev",
-    "testing",
-    "marketing",
-    "design",
-    "web dev",
-    "exec"
-   ],
-   "puntaje": 48,
-   "motivos": [
-    "+3 React",
-    "+2 TypeScript",
-    "+3 Fullstack",
-    "+1 SQL",
     "+1 Contenedores",
     "+2 Remoto"
    ],
@@ -904,34 +868,6 @@
    "estado": ""
   },
   {
-   "id": "remoteok:1137808",
-   "fuente": "RemoteOK",
-   "titulo": "Software Engineer AI Coding Tasks",
-   "empresa": "Askable",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-   "ubicacion": "Remoto",
-   "salario": "USD 10.000 - 10.000/año",
-   "publicado": "2026-11-19",
-   "descripcion": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Complete a short screener interview and upload your resume. Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate. Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks. Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them. Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it. Review. A reviewer checks your task and you revise it. Most tasks take more than one round. Next task. Once your task is accepted, start another. Requirements 2+ years of professional software engineering Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code) Strong in at least one of Python, TypeScript, Go, Rust, Java or C++ Solid with Docker, Linux, Git and automated testing Regular use of an AI coding tool Experience writing tests, rubrics or evaluation criteria, ideally for AI models You can explain a change clearly and concisely, in your own words At least 10 hours a week, starting now A secure personal or work computer (no public or shared machines) Nice to have Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure Experience building agent tasks or RL environments Terms Between US$400 - US$1,000 for each task that passes our quality review, paid directly to you Once your proposal is qualified, you sign Askable's contract and accept its terms The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us Don't publish the work anywhere: no public pull request or public fork Apply at https://www.askable.com/experts/roles/senior-software-engineer Please mention the word **FANS** and tag RMjAuMTcxLjE5Ni4yNg== when applying to show you read the job post completely (#RMjAuMTcxLjE5Ni4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-   "tags": [
-    "dev",
-    "golang",
-    "python",
-    "javascript",
-    "typescript",
-    "java",
-    "c plus plus"
-   ],
-   "puntaje": 24,
-   "motivos": [
-    "+2 TypeScript",
-    "+2 Remoto",
-    "+2 Paga en USD"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
    "id": "getonboard:desarrollador-a-full-stack-angular-net-azure-peru-bc-tecnologia-lima-3961",
    "fuente": "GetOnBoard",
    "titulo": "Desarrollador/a Full-Stack – Angular / .NET / Azure (Perú)",
@@ -1200,27 +1136,6 @@
    "motivos": [
     "+4 .NET / C#",
     "+1 Contenedores"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "remoteok:1137844",
-   "fuente": "RemoteOK",
-   "titulo": "Staff Software Engineer (Interfaces)",
-   "empresa": "Netlify",
-   "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
-   "ubicacion": "Worldwide",
-   "salario": "",
-   "publicado": "2026-11-19",
-   "descripcion": "About the Team As a Staff Software Engineer at Netlify, you'll join a collaborative team that values continuous learning, mutual support, and shared growth. Together, we create tools that help developers build faster, more intuitively, and with greater impact. Our Experience team owns the core product experience at Netlify, which is every way a human or an agent interacts with the platform, from our React-based web application to CLI, MCP, SDK, and API. If users interact with it directly, it's likely ours. We're reimagining how developers experience web development by thoughtfully integrating AI into our workflows - not as a novelty, but as a practical tool that enhances how we build the web. With our team, you'll help set technical direction for our product area, mentor a highly senior team of engineers, and shape user experiences that serve millions of developers. You'll work closely with Product, Design, and engineering leadership, and partner with teams across the organization to build, iterate, and scale meaningful solutions. You'll have the autonomy to guide what we build and how, and the influence to bring others along with you, all while staying hands-on in the codebase. We're looking for thoughtful engineers who enjoy owning problems end to end, collaborating across disciplines, and solving complex technical challenges for products that millions of developers rely on every day. AI is a foundational part of how we build, so we value engineers who are excited to thoughtfully incorporate AI-assisted workflows while continuing to apply strong engineering fundamentals. We believe the best engineering happens when talented people are trusted to solve difficult problems together, share what they're learning, and create space for different perspectives to shape better solutions.Â With our team, you'll have real ownership from day one - not a tiny slice of a massive codebase. Engineers here are trusted to make decisions, shape technical direction, and move quickly while collaborating closely with Product and Design. What You'll Do Use your deep expertise in full-stack development (TypeScript, JavaScript, Go, and React) to ship reliable, scalable, performant code across our product suite, and set the patterns that others on the team and across the org follow.Â Own the technical direction for our product area, including the web app, CLI, MCP, SDK, API, and docs, by defining architecture and roadmap alongside your manager, Product, and Design, and make tradeoffs explicit so decisions are easy to understand and revisit Lead large, ambiguous projects that span multiple teams from conception to delivery, such as our application rewrite and upcoming CLI rework, writing RFCs, driving alignment, and managing risk and timelines Design and evolve user-facing features and product APIs for both humans and agents, recognizing that the best interface isnât always a React application. Build them to scale to millions of developers worldwide, with a clear view of reliability, performance, and long-term maintainability. Make thoughtful product and interface decisions on your own with the overall customer experience top of mind Set the bar for engineering practices - testing, documentation, observability, and performance optimization - and lead how the team pragmatically uses AI tools, sharing what works and what doesn't Turn ambiguity into clear plans, guiding both early-stage prototypes and production-ready applications that directly impact user experience and business metrics Mentor and grow engineers through code reviews, design reviews, pairing, and sponsorship, raising the technical level of the whole team Practice proactive async communication and create visibility across projects by documenting your workflows and decision-making clearly Participate in on-call rotations, lead incident follow-up, and drive continuous improvement efforts that reduce technical debt and prevent recurring problems Collaborate with cross-functional teams and e",
-   "tags": [
-    "programming"
-   ],
-   "puntaje": 20,
-   "motivos": [
-    "+3 React",
-    "+2 Remoto"
    ],
    "idioma": "en",
    "estado": ""
@@ -1639,26 +1554,6 @@
    "estado": ""
   },
   {
-   "id": "remoteok:1137857",
-   "fuente": "RemoteOK",
-   "titulo": "Infrastructure Software Engineer",
-   "empresa": "Dropbox",
-   "url": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
-   "ubicacion": "North America",
-   "salario": "",
-   "publicado": "2026-11-19",
-   "descripcion": "Role Description As an Infrastructure Engineer, your role will be crucial in shaping and constructing the robust systems that not only support our current flagship products but also lay the groundwork for the next wave of engineering innovations. From optimizing user experiences across various projects to ensuring seamless scalability and data integrity, you'll be at the forefront of shaping the technological backbone of our platform. Collaborating closely with cross-functional teams, you'll leverage your expertise to tackle audacious challenges and push the boundaries of what's possible. Your contributions will directly impact millions of users, as every line of code you write furthers our mission to revolutionize the way people work and collaborate. Join us in redefining the future, where your passion for building scalable, reliable systems will drive meaningful change on a global scale. Our Engineering Career Framework is viewable by anyone outside the company and describes whatâs expected for our engineers at each of our career levels. Check out our blog post on this topic and more here . Responsibilities Build infrastructure capable of managing metadata for hundreds of billions of files, handling hundreds of petabytes of user data, and facilitating millions of concurrent connections. Assist in expanding Dropbox's role as the data-fabric, linking hundreds of millions of applications, devices, and services worldwide, while spearheading efforts to improve interoperability and adaptability across various ecosystems. M easur e and optimiz e Dropbox's analytics platform to maintain its status as one of the most advanced in the industry for extracting meaningful insights from vast data volumes. Collaborat e with cross-functional teams to innovate and implement solutions that enhance the performance, reliability, and security of Dropbox's infrastructure, ensuring a seamless experience for users worldwide. On-call work may be necessary occasionally to help address bugs, outages, or other operational issues, with the goal of maintaining a stable and high-quality experience for our customers. Requirements BS, MS, or PhD in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent technical experience 5 + years of professional software development experience Demonstrated experience in building and managing large-scale, multi-threaded, and geographically distributed backend systems Proficient in programming and debugging across a range of languages such as Python, Go, C/C++, or Java Experience working with operating system internals, filesystems, databases, networks, and compilers .Â Ability to i ndependently execute tasks at hand Preferred Qualifications Familiarity with Semaphores and MutexesÂ Please mention the word **HALLMARK** and tag RMjAuMTcxLjE5Ni4yNg== when applying to show you read the job post completely (#RMjAuMTcxLjE5Ni4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-   "tags": [
-    "programming"
-   ],
-   "puntaje": 8,
-   "motivos": [
-    "+2 Remoto"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
    "id": "getonboard:senior-engineering-manager-even-remote",
    "fuente": "GetOnBoard",
    "titulo": "Senior Engineering Manager",
@@ -1685,7 +1580,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-11-20",
-   "descripcion": "FP Markets Group of Companies is a well-established multi-regulated broker, founded in Australia, offering traders access to CFD trading on Forex, Indices, Commodities, Stocks and Cryptocurrencies. We are growing and looking to recruit a Full-time Business Development Specialist (MENA region) to join our global team in one of these countries: UAE, Oman, Morocco, Lebanon, Egypt, Algeria. This position is open to energetic, hard-working and ambitious professionals who are keen to explore superb earning potential in a fast-moving and friendly working environment. Responsibilities: Develop the MENA market including but not limited to converting leads into clients and acquiring and establishing business relationships with new partners Actively hunt for trading professionals in all social and professional platforms/forums/blogs/communities with the aim of engaging them as clients/partners Find the most effective/efficient local marketing channels to promote (in the most practical form) the company and its products Assist in the onboarding of trading clients, Affiliates, IBs, Money Managers and other company partners and work closely with customer support to onboard new clients and provide an impeccable user experience to all clients Work closely with marketing and back-office teams to prepare necessary sales/marketing content Build and maintain solid relationships with prospective partners and proactively work to retain and reactivate clients and partners Negotiate the terms of each partnership based on the existing rebate structures Assist in the monitoring of affiliates and partners on a regular basis to optimize their activities and performance and work to ensure the Key Performance Indicators (KPIs) are met Conduct regular market and competitor analysis and provide feedback on the customer journey to management Enforce prudent approach and due diligence to the regulatory framework as per the company policies and ethics Travel to conferences and business meetings where required Candidate profile: FX/CFD and online trading industry experience is a must with the preference towards individuals with working experience or connections in the region Experience in Sales position Fluent Arabic and English languages knowledge is required Client focused with excellent customer service, communication and negotiation skills Ability to influence and persuade a mutually beneficial outcome for the company and the client Dynamic, self-motivated, competitive and strong desire to succeed Ability to work well independently as well as in a team and can-do attitude Our offer: Remote opportunity with occasional business travel Welcoming, young and multicultural team with approachable leadership Ability to contribute to dynamic business at a growth phase High level of autonomy, support of ideas and putting your expertise into the best practices for the company Continuous personal development, training budget, growth with the company and opportunity to learn from industry leaders Competitive remuneration, regular salary reviews and performance-based incentive schemes Vibrant company life: from team activities to global celebrations Visa and work permit support if requiredÂ Fully remote work with provision of a laptop or reimbursement for equipment Journey to FP Markets: Interview with People Function member (30 - 45 min) to assess match to our culture Interview with your future manager (45 min - 1 hour) to assess match to the job and the team and discuss role expectations Join our team and be a part of a professional, rapidly-growing company operating in a multicultural environment! . Please mention the word **LOVER** and tag RMjAuMTcxLjE5Ni4yNg== when applying to show you read the job post completely (#RMjAuMTcxLjE5Ni4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "FP Markets Group of Companies is a well-established multi-regulated broker, founded in Australia, offering traders access to CFD trading on Forex, Indices, Commodities, Stocks and Cryptocurrencies. We are growing and looking to recruit a Full-time Business Development Specialist (MENA region) to join our global team in one of these countries: UAE, Oman, Morocco, Lebanon, Egypt, Algeria. This position is open to energetic, hard-working and ambitious professionals who are keen to explore superb earning potential in a fast-moving and friendly working environment. Responsibilities: Develop the MENA market including but not limited to converting leads into clients and acquiring and establishing business relationships with new partners Actively hunt for trading professionals in all social and professional platforms/forums/blogs/communities with the aim of engaging them as clients/partners Find the most effective/efficient local marketing channels to promote (in the most practical form) the company and its products Assist in the onboarding of trading clients, Affiliates, IBs, Money Managers and other company partners and work closely with customer support to onboard new clients and provide an impeccable user experience to all clients Work closely with marketing and back-office teams to prepare necessary sales/marketing content Build and maintain solid relationships with prospective partners and proactively work to retain and reactivate clients and partners Negotiate the terms of each partnership based on the existing rebate structures Assist in the monitoring of affiliates and partners on a regular basis to optimize their activities and performance and work to ensure the Key Performance Indicators (KPIs) are met Conduct regular market and competitor analysis and provide feedback on the customer journey to management Enforce prudent approach and due diligence to the regulatory framework as per the company policies and ethics Travel to conferences and business meetings where required Candidate profile: FX/CFD and online trading industry experience is a must with the preference towards individuals with working experience or connections in the region Experience in Sales position Fluent Arabic and English languages knowledge is required Client focused with excellent customer service, communication and negotiation skills Ability to influence and persuade a mutually beneficial outcome for the company and the client Dynamic, self-motivated, competitive and strong desire to succeed Ability to work well independently as well as in a team and can-do attitude Our offer: Remote opportunity with occasional business travel Welcoming, young and multicultural team with approachable leadership Ability to contribute to dynamic business at a growth phase High level of autonomy, support of ideas and putting your expertise into the best practices for the company Continuous personal development, training budget, growth with the company and opportunity to learn from industry leaders Competitive remuneration, regular salary reviews and performance-based incentive schemes Vibrant company life: from team activities to global celebrations Visa and work permit support if requiredÂ Fully remote work with provision of a laptop or reimbursement for equipment Journey to FP Markets: Interview with People Function member (30 - 45 min) to assess match to our culture Interview with your future manager (45 min - 1 hour) to assess match to the job and the team and discuss role expectations Join our team and be a part of a professional, rapidly-growing company operating in a multicultural environment! . Please mention the word **LOVER** and tag RMjAuMTYxLjc3LjE5Ng== when applying to show you read the job post completely (#RMjAuMTYxLjc3LjE5Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "crypto",
     "education",
@@ -1697,6 +1592,26 @@
     "bus dev",
     "sales",
     "full time"
+   ],
+   "puntaje": 8,
+   "motivos": [
+    "+2 Remoto"
+   ],
+   "idioma": "en",
+   "estado": ""
+  },
+  {
+   "id": "remoteok:1137919",
+   "fuente": "RemoteOK",
+   "titulo": "Business Development Representative, Financial Services - UKI",
+   "empresa": "GitLab",
+   "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-financial-services-uki-gitlab-1137919",
+   "ubicacion": "EMEA",
+   "salario": "",
+   "publicado": "2026-11-21",
+   "descripcion": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our valuesÂ and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500Â® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. An overview of this role This position is 100% remote and will be based in the UK and Ireland. GitLab is looking for an enthusiastic and strategic Business Development Representative (BDR) to join our growing Sales team. As a BDR at GitLab, you get the opportunity to lead the initial outreach to targeted accounts working in conjunction with the Field and Digital Marketing teams as well as the Sales and Customer Success teams. In this role you'll leverage creative marketing and sales tactics to prospect and engage with multiple buyer personas and roles to introduce GitLab's AI-powered DevSecOps platform. You'll be responsible for generating qualified meetings and pipeline for GitLab's Sales organization. Our BDRs come from a diverse background. Many have worked in closing roles previously or managed teams. We have an extensive onboarding and training program at GitLab and you'll be provided with necessary DevOps and GitLab knowledge to fulfill your role. What youâll do Execute outbound prospecting initiatives to generate qualified meetings and pipeline in your assigned territory. Generate New Logo opportunities and Growth opportunities on existing customer accounts. Conduct high-level discovery conversations with target accounts to understand business needs, qualify opportunities, and create Sales Accepted Opportunities (SAOs). Meet or exceed monthly and quarterly BDR-sourced Sales Accepted Opportunity (SAO) targets (e.g., Stage 1 and Stage 3 opportunities) by consistently converting qualified prospects into opportunities. Research and prioritize target accounts using business and industry knowledge to identify key players, uncover compelling events, and develop tailored outreach strategies. Execute a multi-touch outreach cadence (call, email, social, etc.) to all prospects in your assigned territory using Outreach to maximize engagement and conversion rates. Manage, track, and accurately report all prospecting activities and pipeline in Salesforce to provide clear visibility into performance and forecast. Collaborate with Field, Corporate, and Digital Marketing, Sales, and Customer Success teams to build targeted account lists, campaigns, and call strategies. Attend regional marketing events to engage participants, generate leads, and drive qualified Sales Accepted Opportunities (SAOs). Document and continuously improve Business Development Representative processes in the GitLab handbook in partnership with your Business Development Manager. Mentor new BDR hires to help them ramp quickly and navigate key accounts. What youâll bring Previous tech industry experience in an outbound sales dev",
+   "tags": [
+    "sales"
    ],
    "puntaje": 8,
    "motivos": [
@@ -1742,6 +1657,26 @@
    "estado": ""
   },
   {
+   "id": "remoteok:1137924",
+   "fuente": "RemoteOK",
+   "titulo": "Senior Software Engineer II - Agentic Intelligence",
+   "empresa": "Honeycomb.io",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+   "ubicacion": "Canada Only",
+   "salario": "",
+   "publicado": "2026-11-21",
+   "descripcion": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023!Â Â If you want to see what weâve been up to, please check out these blog posts and Honeycomb.io press releases .Â Â Who We Are We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to liveÂ our values Â every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. Â How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote Little more about the team: AI agents at Honeycomb investigate, reason, and act on real observability data. They live in Canvas: the agentic workspace where engineers go to understand their systems. The Agentic Intelligence team has shipped Canvas, the Honeycomb MCP server, and the Canvas Agent and Canvas Skills surfaces. What we're looking for today is someone who brings deep agent expertise and uses it to expand what the team can build: new agents, new surface area in Canvas, memory, spatial awareness, improved performance on our Bedrock loop. Honeycomb's data store is fast and accepts high cardinality data; that's what makes agents built on top of it different from anything built on a conventional observability backend. This role is about taking advantage of that building agents that can do things no other observability product can do because the underlying data makes it possible. Some of this work will start as a prototype. The expectation is that the code makes it through the full arc, from the rough first version through to something that holds up in production. What you'll do Design and deliver production-grade agents. Build agents that investigate, reason, and act on live observability data inside Canvas. These agents must be trustworthy to engineers in high pressure situations, including mid-incident. Take one from rough first version to something that holds up under production traffic. Own the agent work; support the whole product. Scope, build, ship, and maintain the agents including the evals that tell you whether they got better or are just different. This role is agent-focused and also includes some fullstack development. Build agents only Honeycomb can build. Use a data store that returns high-cardinality queries in seconds to reason over signal a conventional backend can't serve at this fidelity correlating across services, drilling into a single trace, comparing before and after a deploy. Extend the surface, and decide what's next. Ship new capability into Canvas, the MCP server, and Canvas Skills memory, spatial awareness, a faster Bedrock loop and make the case for what comes after with working code. Distinguish hype from signal in a field with plenty of both. Define what \"good\" means for agents here. Set the bar: measurable against real evals, maintainable, and honest about their limits. Example projects Multiple agents collaborating on one shared Canvas investigation each claiming a hypothesis, publishing findings, and narrowing the search space for the others so it resolves faster (blog). Auto-investigation the moment an SLO burn alert fires the agent forms hypotheses and prepares visualizations before a human looks, cutting mean-time-to-insight for on-call (o11ycon 2026). Skills that encode a team's ",
+   "tags": [
+    "programming"
+   ],
+   "puntaje": 8,
+   "motivos": [
+    "+2 Remoto"
+   ],
+   "idioma": "en",
+   "estado": ""
+  },
+  {
    "id": "getonboard:senior-product-engineer-kudert-remote",
    "fuente": "GetOnBoard",
    "titulo": "Senior Product Engineer",
@@ -1778,37 +1713,6 @@
     "+1 Contenedores",
     "-4 Restricción de residencia",
     "-2 Híbrido"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "remoteok:1137839",
-   "fuente": "RemoteOK",
-   "titulo": "Engineer Software Defined Vehicle Simulation and Development",
-   "empresa": "NIKI Digital Engineering",
-   "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
-   "ubicacion": "Remoto",
-   "salario": "",
-   "publicado": "2026-11-19",
-   "descripcion": "NIKI is looking for graduates of Technical University Departments/Schools of Sciences/Engineers, or similar disciplines to support and develop complex system simulation processes of software-defined vehicles. Become a member of NIKI Digital Engineering! If you have completed your studies or doctorate and are looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume. Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress. What to expect Develop and optimize process and simulation methods for complex vehicle development in collaboration with international industry partners and research organizations. Continuously monitor industry trends and advances in simulation technology to improve NIKI's services and drive innovation. Coordinate our interdisciplinary projects in close cooperation with our customers. Task Description Modeling and simulation of complex systems and software functions. Focus on areas such as driving dynamics and autonomous driving. Active cooperation with our customers. Programming of functions and algorithms for modern vehicle functions. Accompanying the process from the first idea to delivery. Forward-looking development processes. Functional and vehicle development using the latest methods and tools, such as graphic modeling languages. Empowering and coaching our clients. Protection of software functions. Efficient implementation of technical security measures and criticality analysis of software functions. Creation of test concepts. Development of automated test cases according to existing customer requirements. Test execution on the test bench or in road tests hedging concepts. Development of new concepts for safeguarding networked systems (MIL/SIL/HIL) and also autonomous driving functions. Development, commissioning, and testing of complex, multifunctional test benches. Collaboration with cross-functional teams to ensure the timely delivery of high-quality technical solutions. Basic Qualifications Knowledge of modeling and numerical simulation of mechanical systems. Familiarization with the application of simulation or design software tools. Good knowledge of at least one of the languages: Python, Matlab or Java. Excellent communication skills. Self-motivated, with the ability to work independently and as part of a team. Strong problem-solving and analytical skills. Spirit of innovation, initiative, and enjoyment of learning and tinkering. Excellent command of English and technical terminology. Preferred Qualifications Experience in the automotive industry, with a focus on vehicle development and simulation. Initial knowledge of semi-formal modeling languages such as UML, SysML or Matlab/Simulink or initial experience in handling measurement technology or test benches, such as Vector, dSPACE, ETAS, or initial experience with control units and software in the embedded area. Interest in interdisciplinary collaborations. Good command of the German language. What we offer Structured learning on the job, professional feedback, and a mentor open to all your questions. Innovative, highly technically demanding industry and research projects, interdisciplinary teams, and highly qualified colleagues. Open doors, and the chance to take over responsibility quickly - participate, shape, and leave your fingerprint. Discover new talents and shape your career path: Become a specialist, project manager, or manager. Simultaneous, collaborative work using modern digital platforms. Workplace flexibility. Flexible working hours thanks to our attractive flextime model - only compatible projects. Enj",
-   "tags": [
-    "dev",
-    "design",
-    "embedded",
-    "sys admin",
-    "infosec",
-    "python",
-    "consulting",
-    "technical",
-    "customer support",
-    "testing",
-    "exec",
-    "java"
-   ],
-   "puntaje": 8,
-   "motivos": [
-    "+2 Remoto"
    ],
    "idioma": "en",
    "estado": ""
