@@ -1,6 +1,6 @@
 {
- "corrida": "2026-11-22T18:19:46Z",
- "total": 79,
+ "corrida": "2026-11-23T22:29:12Z",
+ "total": 81,
  "ofertas": [
   {
    "id": "getonboard:desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -190,6 +190,30 @@
     "+2 Región accesible"
    ],
    "idioma": "en",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:desarrollador-a-full-stack-nestjs-angular-react-witi-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador/a Full-Stack (NestJS + Angular/React)",
+   "empresa": "WiTi",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-nestjs-angular-react-witi-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
+   "publicado": "2026-11-23",
+   "descripcion": "TypeScript en ambos lados: NestJS/Node en backend y Angular o React en frontend, con nivel sólido en los dos. Diseño y consumo de APIs REST, con manejo de estado y de errores. AWS, GitHub y pipelines de CI/CD. Tests, Docker y buenas prácticas de código. Bases de datos SQL y/o NoSQL. Residir en Chile, con disponibilidad para reuniones presenciales en Santiago. Desarrollar funcionalidades completas: interfaz, API y datos. Integrar con servicios internos y de terceros (pagos, facturación, analítica). Construir flujos de gestión con formularios complejos y dashboards. Colaborar con UX y producto para llevar ideas a producción. Mantener y mejorar lo que despliegas. Componentes reutilizables o design systems. Visualización de datos y dashboards. Integraciones de pagos o facturación. Experiencia en e-commerce, marketplace o retail media. Revisión de código y mentoría. Plan de carrera personalizado. Certificaciones. Cursos de idiomas. Trabajo remoto desde Chile, con disponibilidad para reuniones presenciales en Santiago cuando se requiera.",
+   "tags": [],
+   "puntaje": 52,
+   "motivos": [
+    "+3 React",
+    "+2 TypeScript",
+    "+3 Fullstack",
+    "+1 Node",
+    "+1 SQL",
+    "+1 Contenedores",
+    "+2 Remoto"
+   ],
+   "idioma": "es",
    "estado": ""
   },
   {
@@ -573,6 +597,27 @@
    "estado": ""
   },
   {
+   "id": "getonboard:semi-senior-software-engineer-python-23people-remote-f4b6",
+   "fuente": "GetOnBoard",
+   "titulo": "Semi Senior Software Engineer Python",
+   "empresa": "23people",
+   "url": "https://www.getonbrd.com/jobs/semi-senior-software-engineer-python-23people-remote-f4b6",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "2.000 - 2.200",
+   "publicado": "2026-11-23",
+   "descripcion": "Dominio avanzado de Python. Conocimientos sólidos en frameworks de JavaScript / TypeScript (React, Vue o Angular). Manejo fluido de Git y Shell Scripting. Inglés técnico/básico: Capacidad para leer documentación, entender requerimientos y redactar mensajes sencillos. Transformar un motor de IA diseñado para Chile en una plataforma escalable para toda la región, utilizando su dominio de Python para desacoplar la lógica local y crear arquitecturas de respuesta adaptables a los modismos y regulaciones de cada país. IA Generativa: Prompt Engineering, LangChain / LlamaIndex y arquitecturas RAG con bases vectoriales (Pinecone, pgvector). GCP: Vertex AI (Gemini), BigQuery y Cloud Run / GKE. Ingeniería de Software: Docker, microservicios y CI/CD. Otros: Java Spring Boot, Jupyter Notebooks y Gemini CLI Seguro complementario : Seguro de salud, vida y dental, para que estés protegido. Curso de inglés : En nuestro programa de formación en el idioma, ofrecemos dos modalidades para adaptarnos a tus necesidades y objetivos, con profesores nativos. Reembolso de certificaciones internacionales : Apoyamos el crecimiento profesional, por lo que te reembolsamos el costo de un examen de certificación internacional que quieras realizar. Bono de vacaciones : Recibe una compensación económica por cada semana de vacaciones que tomes. Aguinaldos en fiestas patrias y Navidad : Un bono en septiembre y en diciembre, para que la pases bien con tu familia. Día libre de cumpleaños : Puedes tomarlo el día previo, el mismo día, o el posterior a tu cumpleaños. Mejora tu espacio de trabajo: Te reembolsamos parte del costo de equipar tu home office para que trabajes cómodo y a gusto. Betterfly: App de bienestar que premia tus hábitos saludables con telemedicina, psicología y nutrición, sin costo.",
+   "tags": [],
+   "puntaje": 32,
+   "motivos": [
+    "+3 React",
+    "+2 TypeScript",
+    "+1 Contenedores",
+    "+2 Remoto"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
    "id": "getonboard:net-engineer-autoraptor-remote",
    "fuente": "GetOnBoard",
    "titulo": "Senior .NET Engineer",
@@ -635,6 +680,26 @@
     "+2 Remoto"
    ],
    "idioma": "en",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:desarrollador-full-stack-junior-python-django-react-magnet-santiago",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador Full-Stack Junior (Python, Django, React)",
+   "empresa": "Magnet",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-junior-python-django-react-magnet-santiago",
+   "ubicacion": "Chile (no_remote)",
+   "salario": "CLP 1.600 - 1.900",
+   "publicado": "2026-11-23",
+   "descripcion": "Entre 0 y 2 años de experiencia en desarrollo web. También consideramos recién egresados/as con proyectos propios, portafolio sólido o prácticas profesionales relevantes. Formación en Ingeniería Civil Informática, Ingeniería en Ejecución Informática, Analista Programador o carreras afines. Conocimientos de HTML, CSS y JavaScript/TypeScript. Conocimientos de lógica de programación y fundamentos de desarrollo web. Manejo de Git para control de versiones. Experiencia o conocimientos en algún framework de desarrollo web, como Django o NestJS. ¡Estamos en búsqueda de un/a Desarrollador/a Web Fullstack Junior para sumarse al equipo de Innovación y Desarrollo ! Buscamos a alguien con ganas de aprender, experimentar y participar en la construcción de soluciones tecnológicas desde cero. Serás parte de un equipo enfocado en desarrollar aplicaciones web que respondan a necesidades del negocio, trabajando tanto en el frontend como en el backend. Tu rol será desarrollar, probar y mantener aplicaciones web de extremo a extremo, integrando APIs y servicios en la nube, y contribuyendo a la mejora continua de los procesos de desarrollo, siempre con foco en entregar soluciones de valor. Si bien esperamos que siempre tengas una opinión sobre cómo debe ser la solución que implementas, siempre podrás apoyarte en nuestro equipo (y particularmente en devs con más experiencia y seniority) para intercambiar ideas, obtener guía en el aprendizaje y apoyo en el diseño de la arquitectura de la solución. Responsabilidades y habilidades Desarrollar, probar y mantener aplicaciones web, tanto en el frontend como en el backend. Construir e integrar APIs y servicios externos. Colaborar con distintas áreas del negocio para comprender sus necesidades y desarrollar soluciones que aporten valor. Participar en la mejora continua de los procesos de desarrollo, con foco en la calidad y el delivery. Contribuir a la construcción de soluciones tecnológicas desde cero. Back-end: Conocimientos de Python y Django o Django REST Framework. Front-end: Conocimientos de React. Cloud / Infraestructura: Nociones de Google Cloud Platform (GCP) o experiencia realizando despliegues en la nube. Bases de Datos: Manejo de bases de datos SQL (PostgreSQL, MySQL) o NoSQL. Nos esforzamos en crear un ambiente de trabajo y una cultura que potencie a nuestro equipo. Tenemos una organización horizontal en la que hay espacio para el aporte de todos al tomar decisiones. Fomentamos una cultura abierta para tener feedback constante por parte del equipo y así mejorar cuando nos equivocamos. Celebramos los cumpleaños y planificamos actividades de encuentro de equipo durante el año. También el equipo ha creado varios \"clubes secretos\" que organizan actividades por su cuenta (after office, salidas al cine, etc). Además: Seguro complementario de salud, vida, dental y catastrófico. Descuentos en farmacias, clínicas dentales y convenios con instituciones. Espacios de capacitación, con acceso a cursos y material. Inducciones para asumir tus responsabilidades. Soporte práctico y teórico, al cual podrás acudir en cualquier momento. Actividades anuales, como el aniversario, fiestas patrias y el paseíto de fin de año.",
+   "tags": [],
+   "puntaje": 32,
+   "motivos": [
+    "+3 React",
+    "+2 TypeScript",
+    "+3 Fullstack"
+   ],
+   "idioma": "es",
    "estado": ""
   },
   {
@@ -835,6 +900,48 @@
    "estado": ""
   },
   {
+   "id": "getonboard:desarrollador-a-frontend-angular-o-react-typescript-witi-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador/a Front-end (Angular o React · TypeScript)",
+   "empresa": "WiTi",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-a-frontend-angular-o-react-typescript-witi-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
+   "publicado": "2026-11-23",
+   "descripcion": "Dominio de Angular o React con TypeScript estricto. Gestión de estado, formularios complejos y consumo de APIs REST. Testing de componentes. GitHub y pipelines de CI/CD. Buenas prácticas de código, accesibilidad y rendimiento web. Residir en Santiago (Chile) o poder asistir por cuenta propia a reuniones presenciales ocasionales en Santiago, que son parte del cargo. Desarrollar interfaces de gestión y visualización de datos. Consumir APIs y manejar estados y errores de forma robusta. Construir componentes reutilizables junto a UX/UI. Cuidar rendimiento y accesibilidad. Proponer mejoras de experiencia basadas en cómo usa la herramienta el usuario. Design systems y librerías de componentes. Dashboards y visualización de datos. Micro-frontends. Conocimientos básicos de AWS (S3/CloudFront). Experiencia en e-commerce, marketplace o retail media. Experiencia definiendo arquitectura frontend, mentoría y revisión de código. Plan de carrera personalizado. Certificaciones. Cursos de idiomas. Trabajo remoto desde Chile.",
+   "tags": [],
+   "puntaje": 28,
+   "motivos": [
+    "+3 React",
+    "+2 TypeScript",
+    "+2 Remoto"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:desarrollador-a-backend-nestjs-typescript-witi-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador/a Back-end (NestJS / TypeScript)",
+   "empresa": "WiTi",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-nestjs-typescript-witi-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
+   "publicado": "2026-11-23",
+   "descripcion": "TypeScript sólido y NestJS/Node. APIs REST bien diseñadas (versionado, validación, idempotencia, manejo de errores). AWS (ECS/EKS/Fargate, S3, SQS/SNS, RDS/DynamoDB o equivalentes). GitHub y pipelines de CI/CD (PRs con revisión, despliegue automatizado). Tests unitarios y de integración, Docker y observabilidad (logs, métricas, trazas). Modelado de datos en SQL y/o NoSQL. Residir en Chile, con disponibilidad para reuniones presenciales en Santiago. Diseñar y desarrollar APIs y servicios backend de la plataforma. Integrar sistemas internos y de terceros (pagos, facturación, datos), cuidando contratos, errores y reintentos. Participar en decisiones de diseño técnico y documentarlas. Operar lo que construyes en producción: monitoreo, incidentes y mejora continua. Trabajar con producto para entender el problema del usuario antes de programar. Mensajería, eventos y colas. Integraciones de pagos, facturación o ERP. Experiencia en e-commerce, marketplace, retail media o ad-tech. Infraestructura como código (Terraform/CloudFormation). Criterio de arquitectura, mentoría y revisión de código. Plan de carrera personalizado. Certificaciones. Cursos de idiomas. Trabajo remoto desde Chile, con disponibilidad para reuniones presenciales en Santiago cuando se requiera.",
+   "tags": [],
+   "puntaje": 28,
+   "motivos": [
+    "+2 TypeScript",
+    "+1 Node",
+    "+1 SQL",
+    "+1 Contenedores",
+    "+2 Remoto"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
    "id": "remoteok:1137865",
    "fuente": "RemoteOK",
    "titulo": "Senior Product Engineer",
@@ -1011,25 +1118,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:frontend-developer-arkho-remote",
-   "fuente": "GetOnBoard",
-   "titulo": "Front-end Developer",
-   "empresa": "ARKHO",
-   "url": "https://www.getonbrd.com/jobs/frontend-developer-arkho-remote",
-   "ubicacion": "Remote (fully_remote)",
-   "salario": "2.000 - 2.900",
-   "publicado": "2026-11-18",
-   "descripcion": "Título profesional en Ingeniería (Computación, Informática, Sistemas), Programación o carrera afín. Desde 4 años de experiencia en desarrollo frontend. Experiencia desarrollando aplicaciones web con React. Dominio de JavaScript moderno (ES2020 o superior) y JSX. Experiencia en diseño e implementación de arquitecturas de microfrontends. Experiencia en gestión de estado con Redux o herramientas equivalentes. Experiencia en implementación de rutas y navegación con React Router o alternativas equivalentes. Experiencia consumiendo APIs REST y gestionando errores y estados de carga. Experiencia en pruebas automatizadas con Vitest, Jest o herramientas similares, y Testing Library. Experiencia implementando mecanismos de autenticación basados en JWT. Manejo de Git y flujos de trabajo colaborativos. Buscamos a alguien que se caracterice por: Tener pensamiento analítico y criterio técnico para resolver desafíos de desarrollo. Ser una persona autónoma, organizada y orientada al cumplimiento de objetivos. Tener iniciativa y disposición para aprender nuevas tecnologías y adaptarse a los cambios. Disfrutar del trabajo colaborativo y compartir conocimientos y experiencias con otras personas. Comunicarse de manera clara y efectiva con distintos equipos. Tener orientación a la calidad y mejora continua. Diseñar, desarrollar y mantener aplicaciones web utilizando JavaScript y React. Diseñar e implementar arquitecturas de microfrontends, considerando modularidad, integración y escalabilidad. Desarrollar componentes reutilizables e implementar mecanismos de gestión de estado y navegación. Integrar aplicaciones frontend con servicios backend y APIs REST, gestionando errores y estados de carga. Implementar mecanismos de autenticación basados en JWT. Desarrollar pruebas automatizadas y aplicar buenas prácticas que aseguren la calidad y mantenibilidad del código. Optimizar el rendimiento y la experiencia de usuario de las aplicaciones. Colaborar con equipos de backend, cloud y UX/UI en el desarrollo de soluciones tecnológicas. Participar en definiciones técnicas y estimaciones, compartiendo conocimientos y buenas prácticas con el equipo. Buscamos a una persona con criterio técnico, autonomía y buenas prácticas de desarrollo, que contribuya a la construcción de soluciones de calidad. Valoramos especialmente la disposición para compartir conocimientos, aprender constantemente y colaborar en el crecimiento del equipo. Experiencia desarrollando interfaces con Material UI. Experiencia en entornos cloud, especialmente AWS, y despliegue de aplicaciones web. Conocimiento de metodologías ágiles y trabajo en equipos multidisciplinarios. En ARKHO fomentamos una cultura de aprendizaje continuo, impulsamos la innovación tecnológica y promovemos un entorno de trabajo flexible, inclusivo y respetuoso, que valora tanto el desarrollo profesional como el bienestar personal. 📆 Día administrativo semestral hasta los 12 meses 🏖️ Week off: 5 días de vacaciones extra 🎉 ¡Celebra tu cumpleaños! 📚 Path de entrenamiento ☁️ Certificaciones AWS 💍 Regalo por casamiento + 5 días hábiles libres 👶 Regalo por nacimiento de hijos ✏️ Kit escolar 🤱 Beneficio paternidad ❤️ Bonda (plataforma de descuentos y bienestar) 💰 Aguinaldos 🧘♀️ ARKHO Open Doors",
-   "tags": [],
-   "puntaje": 20,
-   "motivos": [
-    "+3 React",
-    "+2 Remoto"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
    "id": "getonboard:desarrollador-a-full-stack-frontend-datos-bc-tecnologia-remote",
    "fuente": "GetOnBoard",
    "titulo": "Desarrollador/a Full-Stack – Front-end & Datos",
@@ -1111,9 +1199,9 @@
   {
    "id": "remotive:2091135",
    "fuente": "Remotive",
-   "titulo": "Senior Back-end Developer",
+   "titulo": "Senior Back-end Developerusa",
    "empresa": "Lemon.io",
-   "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
    "ubicacion": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
    "salario": "",
    "publicado": "2026-10-27",
@@ -1157,25 +1245,6 @@
     "+2 Remoto"
    ],
    "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "getonboard:ingeniero-full-stack-laravel-vue-poderjudicialvirtual-com-remote",
-   "fuente": "GetOnBoard",
-   "titulo": "Ingeniero Full-Stack Laravel/Vue",
-   "empresa": "PoderJudicialVirtual.com",
-   "url": "https://www.getonbrd.com/jobs/ingeniero-full-stack-laravel-vue-poderjudicialvirtual-com-remote",
-   "ubicacion": "Remote (fully_remote)",
-   "salario": "2.000 - 3.000",
-   "publicado": "2026-10-20",
-   "descripcion": "Requisitos: • 5 años o más de experiencia profesional con PHP, idealmente Laravel. • Capacidad real de leer, entender y mantener código existente con años de historia, no solo arrancar proyectos desde cero. • MySQL a escala: has trabajado con tablas de millones de registros y sabes de índices y paginación eficiente. • Vue.js sólido para trabajo full-stack. • Diseño y consumo de APIs REST que escalan. • Ownership: tomas un producto y lo llevas a producción. Detectas tus errores antes de entregar. • Git con flujo profesional: manejo de branches, pull requests y participación activa en code reviews. • Entorno de desarrollo Linux: configuración autónoma de stack local en Ubuntu (Apache, PHP, MySQL) sin dependencia de soporte externo. Sobre el uso de IA Usamos IA todos los días y esperamos que tú también. La regla es simple: la IA amplifica tu criterio, no lo sustituye. Debes entender cada línea que mandas a producción. Durante el proceso vas a defender tu código en vivo, sin asistentes: explicar tus decisiones, encontrar errores en código ajeno y modificar comportamiento en tiempo real. Soft skills (competencias clave que valoramos): • Criterio técnico en revisión de código. Capacidad para identificar vulnerabilidades, cuellos de botella y errores de lógica, tanto en código propio como en el generado por IA. • Ownership del resultado. Asumir plena responsabilidad sobre el código entregado. La IA es una herramienta; las decisiones y sus consecuencias son del desarrollador. • Autonomía operativa. Capacidad para tomar un proyecto, definir el camino y ejecutarlo de principio a fin. Esperamos consultas estratégicas, no acompañamiento constante. • Documentación de decisiones. Más allá del código, registrar el razonamiento detrás de las decisiones de arquitectura: el \"por qué\" que da contexto a futuras iteraciones del equipo. Buscamos al ingeniero que se sumará al equipo que va a construir el próximo producto de PoderJudicialVirtual de punta a punta y llevarlo a producción. Es un rol de constructor dentro de un equipo de desarrollo: entre todos toman la especificación, diseñan el backend en Laravel, construyen el frontend en Vue, integran los pagos con Stripe y lo lanzan a miles de usuarios reales. Con ownership real de tu parte del producto, sin capas intermedias y sin nadie revisándote el hombro. No es un asiento más en una fábrica de software. Estamos ejecutando nuestro plan 2030: pasar de 2 productos en producción a 11 y expandirnos a Sudamérica. Tú construyes el primero de esa nueva ola, y quien construye bien aquí se convierte en pieza central de todo lo que sigue. El crecimiento se gana construyendo, no por antigüedad. Te integrarás a un equipo de desarrollo en México, de la mano de un líder técnico fuerte, dueño de la arquitectura y la infraestructura, y de un Product Manager Senior que te entrega specs claras con Definition of Ready y Definition of Done. Tú eres dueño del código: de que escale, de que cobre bien y de que llegue a producción sin sorpresas. Vas a trabajar sobre un dominio complejo (la infraestructura judicial mexicana) que tarda meses en dominarse. No esperamos que llegues sabiéndolo. Sí esperamos que en pocos meses tomes decisiones técnicas independientes y que tu código hable por ti. • MongoDB, 2 años o más. • Automatización web: experiencia con Playwright, Puppeteer y gestión de proxies. • Cloud: familiaridad con servicios de AWS. • Inglés de lectura técnica: entender documentación, errores y recursos de desarrollo en inglés. No se requiere hablarlo. • Experiencia integrando pasarelas de pago; Stripe en particular. 100% remoto. Sueldo entre $45,000 y $60,000 brutos, acordes a tu experiencia (posibiliad de modalidad contractor). Bono por objetivos ligado a que tu producto llegue a producción y cobre. Impacto directo: lo que construyes lo usan miles de abogados y empresas desde el día uno. Un plan 2030 real, con productos definidos y financiamiento propio, del que tu trabajo es pieza central.",
-   "tags": [],
-   "puntaje": 20,
-   "motivos": [
-    "+3 Fullstack",
-    "+2 Remoto"
-   ],
-   "idioma": "es",
    "estado": ""
   },
   {
@@ -1237,21 +1306,22 @@
    "estado": ""
   },
   {
-   "id": "getonboard:java-backend-developer-arkho-remote",
+   "id": "getonboard:desarrollador-full-stack-senior-42labs-santiago",
    "fuente": "GetOnBoard",
-   "titulo": "Java Back-end Developer",
-   "empresa": "ARKHO",
-   "url": "https://www.getonbrd.com/jobs/java-backend-developer-arkho-remote",
-   "ubicacion": "Remote (fully_remote)",
+   "titulo": "Full-Stack Sr (Java, Spring Boot, Angular, Apigee)",
+   "empresa": "42Labs",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-senior-42labs-santiago",
+   "ubicacion": "Chile (hybrid)",
    "salario": "",
-   "publicado": "2026-11-18",
-   "descripcion": "Profesional, tecnólogo o técnico en Ingeniería de Sistemas, Ingeniería Informática, Desarrollo de Software, Ciencias de la Computación o carreras afines, con experiencia en desarrollo de software y especialización práctica en tecnologías Backend. Buscamos personas con capacidad analítica, orientación a resultados y experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas, APIs, servicios e integraciones entre sistemas. Se valoran perfiles con buenas prácticas de programación, capacidad para resolver problemas técnicos, autonomía, trabajo colaborativo y orientación a la calidad y mantenibilidad del software. Requisitos Experiencia y conocimientos técnicos Experiencia en desarrollo de software utilizando lenguajes de programación Backend como Java, Node.js, Python o tecnologías equivalentes. Conocimientos y aplicación de principios Clean Code, buenas prácticas de programación, patrones de diseño y mantenibilidad del software. Experiencia en diseño, desarrollo e implementación de APIs y servicios REST JSON. Experiencia en integración e interoperabilidad entre sistemas y plataformas. Conocimientos en desarrollo e implementación de pruebas unitarias y pruebas de integración. Experiencia utilizando sistemas de control de versiones, especialmente Git. Conocimientos o experiencia en herramientas de integración y despliegue continuo (CI/CD). Manejo de bases de datos relacionales y no relacionales. Conocimientos de PostgreSQL, SQL Server, DynamoDB u otras tecnologías equivalentes. Experiencia o conocimientos en arquitecturas de microservicios, servicios serverless y contenedores. Conocimientos en plataformas cloud como AWS o GCP. Experiencia en procesamiento, integración y transformación de datos. Buscamos Desarrolladores Backend responsables del diseño, desarrollo, implementación y mantenimiento de soluciones de software, mediante la construcción de servicios, APIs e integraciones entre sistemas. La persona será responsable de desarrollar componentes tecnológicos eficientes, escalables y mantenibles, aplicando buenas prácticas de programación, principios de código limpio (Clean Code), patrones de diseño y metodologías de desarrollo de software. Participará en la construcción de soluciones digitales utilizando diferentes lenguajes de programación, frameworks, bases de datos y tecnologías cloud, contribuyendo a la calidad, estabilidad y evolución de las plataformas tecnológicas. Se valorará experiencia con React, Angular, Spring Boot, Azure DevOps y otras herramientas y tecnologías utilizadas en el desarrollo e implementación de soluciones digitales. En ARKHO fomentamos una cultura de aprendizaje continuo, impulsamos la innovación tecnológica y promovemos un entorno de trabajo flexible, inclusivo y respetuoso, que valora tanto el desarrollo profesional como el bienestar personal. 📆 Día administrativo semestral hasta los 12 meses 🏖️ Week off: 5 días de vacaciones extra 🎉 ¡Celebra tu cumpleaños! 📚 Path de entrenamiento ☁️ Certificaciones AWS 💍 Regalo por casamiento + 5 días hábiles libres 👶 Regalo por nacimiento de hijos ✏️ Kit escolar 🤱 Beneficio paternidad ❤️ Bonda (plataforma de descuentos y bienestar) 💰 Aguinaldos 🧘♀️ ARKHO Open Doors",
+   "publicado": "2026-11-17",
+   "descripcion": "Para este cargo necesitamos un perfil con experiencia comprobable en desarrollo Full Stack en aplicaciones empresariales . Deberás dominar la construcción y consumo de APIs REST y saber cómo documentarlas correctamente con Swagger/OpenAPI . Requisitos técnicos: Mínimo 4 años de experiencia comprobable utilizando las tecnologías requeridas. Experiencia desarrollando soluciones con Angular 20 y buenas prácticas en TypeScript/JavaScript , HTML5 y CSS3 . Experiencia con Java 17 y Spring Boot para construir servicios backend. Competencia en autenticación y autorización usando OAuth 2.0 , JWT y Bearer Token . Habilidad en integración con sistemas/servicios externos, gestionando consumo, compatibilidades y consideraciones de seguridad. Experiencia trabajando con SQL (principalmente Oracle ) para consultas y modelado orientado a negocio. Manejo de formatos JSON y YAML para intercambio/configuración. Experiencia en Git y uso de CI/CD en pipelines. Experiencias anteriores en el rubro financiero. Estilo de trabajo y habilidades blandas: Alta colaboración y comunicación: nos importa que puedas traducir requerimientos a soluciones claras y alinearte con el equipo. Responsabilidad y orientación a la calidad: propones mejoras y cuidas la mantenibilidad. Autonomía y criterio técnico: sabes resolver con foco en resultados y seguridad. Mentalidad de aprendizaje continuo: disfrutas retroalimentar y recibir feedback. Si te motiva trabajar en un entorno donde la transparencia y la colaboración son la base, este desafío es para ti. Buscamos un/a Desarrollador/a Full Stack Senior para liderar el desarrollo y evolución de aplicaciones empresariales en un entorno colaborativo. Serás responsable del ciclo completo de construcción y consumo de APIs REST, aportando criterio técnico para asegurar seguridad, escalabilidad y buenas prácticas. Desarrollar features full stack utilizando Angular 20 en el frontend y Java 17 + Spring Boot en el backend. Crear y consumir APIs REST , incluyendo documentación y contratos con Swagger/OpenAPI . Implementar seguridad con OAuth 2.0 , JWT y Bearer Token . Integrar sistemas y servicios externos, coordinando requerimientos funcionales y técnicos. Trabajar con TypeScript/JavaScript , HTML5/CSS3 y SQL (Oracle) para construir soluciones robustas orientadas a datos. Gestionar datos y configuraciones con JSON y YAML . Participar en flujos de desarrollo con Git y pipelines CI/CD , contribuyendo a la entrega continua. Además, actuarás como referencia técnica para revisar implementaciones, proponer mejoras y asegurar que el equipo mantenga un estándar alto de calidad. Valoramos especialmente experiencia con tecnologías que suelen aparecer en el despliegue e integración de plataformas: Experiencia con Apigee y/o API Gateway . Conocimiento de OpenShift y/o Kubernetes para orquestación y operación. Experiencia con Kafka para integración orientada a eventos. No es excluyente, pero suma para asumir con mayor rapidez contextos de infraestructura y flujos de comunicación complejos. Salud y protección integral, con seguros complementarios de salud, dental, de vida y catastrófico 100% financiados por nosotros (con opción de extender a tu familia). Además, estamos integrados a la red de beneficios de Caja Los Andes y la ACHS . Apoyos para tu estilo de vida: bonos mensuales para tu conexión a internet y tus plataformas de ocio favoritas, considerando que tu hogar es tu oficina. Tiempo y flexibilidad: Flexi Days y Party Time (tardes libres), celebraciones como cumpleaños con una tarde libre y tiempo extra para hitos como matrimonio, nacimiento de hijos o exámenes de título. Crecimiento y comunidad: Academia 42Labs , planes de desarrollo personalizados y acceso a Udemy Business . Nos mantenemos conectados en Discord y fortalecemos lazos en PartyTwoLabs (encuentros presenciales). Además, contamos con aguinaldos en Fiestas Patrias y Navidad, y trabajamos en un entorno híbrido con autonomía.",
    "tags": [],
    "puntaje": 16,
    "motivos": [
-    "+1 Node",
+    "+2 TypeScript",
+    "+3 Fullstack",
     "+1 SQL",
-    "+2 Remoto"
+    "-2 Híbrido"
    ],
    "idioma": "es",
    "estado": ""
@@ -1316,6 +1386,27 @@
     "+1 SQL",
     "+1 Contenedores",
     "+2 Remoto"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:ingeniero-a-de-software-full-stack-macal-santiago",
+   "fuente": "GetOnBoard",
+   "titulo": "Ingeniero/a de Software Full-Stack",
+   "empresa": "Macal",
+   "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-software-full-stack-macal-santiago",
+   "ubicacion": "Chile (hybrid)",
+   "salario": "CLP 2.200 - 2.700",
+   "publicado": "2026-11-23",
+   "descripcion": "Buscamos un/a desarrollador/a junior, de 0 a 2 años de experiencia, que quiera crecer rápido en un equipo que desarrolla con IA. Puedes venir recién egresado/a, con práctica profesional, freelance o proyectos propios. También estamos abiertos a estudiantes que quieran hacer su trabajo de título con nosotros. Requisitos: Título, egreso o último año de Ingeniería en Computación, Informática o carrera afín. Manejo de al menos un lenguaje para backend o frontend: Python o TypeScript/JavaScript. Bases de SQL y bases de datos relacionales. Experiencia construyendo o consumiendo APIs REST. Manejo de Git y trabajo con pull requests. Haber construido al menos una aplicación web completa (frontend y backend), aunque sea un proyecto universitario o propio. Experiencia usando herramientas de IA para programar (Claude Code, Cursor, Copilot u otras). Además buscamos: Interés genuino en el impacto que generas. Hambre de aprendizaje e innovación. Vocación de servicio, tanto con clientes externos como con procesos internos. Alto estándar y preocupación por la calidad de lo que construyes. Desarrollar full stack: no nos encasillamos en un solo stack. Buscamos a alguien que se adapte rápido, proponga mejoras y no le asuste saltar entre tecnologías. Participar en todo el ciclo del producto: definición, diseño, implementación y mejora continua, con un alto sentido de accountability. Proponer buenas prácticas junto al resto del equipo de Ingeniería, incluyendo cómo sacarle el máximo partido a la IA en nuestro trabajo. Has trabajado con FastAPI, Postgres, Next.js, React o Vue. Has desplegado algo en la nube (GCP, AWS u otra). Has escrito tests automatizados. Tienes un GitHub o portafolio con proyectos que puedas mostrar. Te interesa el negocio inmobiliario, automotriz o de remates. $1,7 - $2 millones líquidos (según experiencia). Contrato indefinido. Un día libre en el mes de tu cumpleaños. Un día libre semestral para lo que necesites. Cuatro semanas de teletrabajo al año. 50% de financiamiento en tu gasto de estacionamiento. Condiciones laborales Jornada full-time, de 8:30 a 18:30. Modalidad híbrida: remoto lunes y viernes, presencial martes, miércoles y jueves en nuestra oficina de Ciudad Empresarial. Planificamos el trabajo para desconectarnos los viernes a las 15:00 si no hay urgencias.",
+   "tags": [],
+   "puntaje": 16,
+   "motivos": [
+    "+2 TypeScript",
+    "+3 Fullstack",
+    "+1 SQL",
+    "-2 Híbrido"
    ],
    "idioma": "es",
    "estado": ""
@@ -1423,26 +1514,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:junior-integrations-developer-inversiones-vertice-limitada-santiago",
-   "fuente": "GetOnBoard",
-   "titulo": "Junior Integrations Developer",
-   "empresa": "Inversiones Vertice Limitada",
-   "url": "https://www.getonbrd.com/jobs/junior-integrations-developer-inversiones-vertice-limitada-santiago",
-   "ubicacion": "Chile (no_remote)",
-   "salario": "CLP 1.000 - 1.400",
-   "publicado": "2026-10-19",
-   "descripcion": "Se requiere: Al menos una experiencia real integrando el ERP de una empresa con otro sistema o plataforma. Uso habitual de asistentes de código para programar (Claude Code, Codex, Cursor u otro). Experiencia con TypeScript. Inglés avanzado para comunicarse con equipos técnicos en Estados Unidos. La persona se integrará al equipo de IA, trabajando junto a los desarrolladores de la empresa, y en contacto con equipos técnicos de clientes y proveedores en Estados Unidos. Sus principales funciones serán: Integrar agentes de IA con sistemas de gestión (ERP) y plataformas de terceros, mediante APIs y servicios web (REST, SOAP/XML). Automatizar procesos en sistemas que no ofrecen APIs, por ejemplo con automatización de navegador. Asegurar que las integraciones sean confiables: manejo de errores, reintentos, prevención de duplicados y monitoreo. Probar las integraciones junto a los equipos técnicos de los proveedores y documentar cómo operarlas y extenderlas. Se valorará: Experiencia con Vercel AI SDK o con el desarrollo de agentes de IA. Integraciones mediante servicios web SOAP/XML. Automatización de navegador o RPA (Playwright, Selenium u otros). Experiencia con ERP usados en Estados Unidos, como NetSuite, Sage, SAP u otros. Conocimientos en C#/.NET. Formarás parte de un equipo de IA con visión de proyección internacional, trabajando en un rol totalmente presencial y clave para conectar agentes de inteligencia artificial con los sistemas de clientes y proveedores en Estados Unidos. Te integrarás directamente en proyectos de integración de sistemas, automatización de procesos y agentes de IA, con oportunidades reales de aprendizaje y crecimiento profesional dentro del equipo. Este es un puesto ideal para quienes buscan un ambiente de trabajo retador, colaborativo y con enfoque en la innovación tecnológica aplicada.",
-   "tags": [],
-   "puntaje": 12,
-   "motivos": [
-    "+2 TypeScript",
-    "+4 .NET / C#",
-    "-3 Presencial"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
    "id": "getonboard:desarrollador-go-y-node-js-itsmart-santiago",
    "fuente": "GetOnBoard",
    "titulo": "Desarrollador Go y Node.js",
@@ -1491,25 +1562,6 @@
    "puntaje": 12,
    "motivos": [
     "+1 Azure",
-    "+2 Remoto"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "getonboard:technical-lead-backend-hubspot-integrations-migrations-wendt-partners-remote",
-   "fuente": "GetOnBoard",
-   "titulo": "Technical Lead (Back-end Hubspot Integrations & Migrations)",
-   "empresa": "Wendt Partners",
-   "url": "https://www.getonbrd.com/jobs/technical-lead-backend-hubspot-integrations-migrations-wendt-partners-remote",
-   "ubicacion": "Remote (fully_remote)",
-   "salario": "3.000 - 5.000",
-   "publicado": "2026-10-17",
-   "descripcion": "We expect you to bring strong backend engineering skills and proven leadership experience in delivery. You’ll work directly with our team on HubSpot API-driven solutions and take responsibility for end-to-end outcomes—from technical design through tested releases. Years of backend development using Node.js, Python, PHP, or similar technologies. Hands-on HubSpot experience with the API, integrations, or migration projects. Leadership : experience leading developers and managing projects end to end (planning, execution, quality, and delivery). Communication : fluent in English , with the ability to explain technical status in plain language. Collaboration & time zone fit : Daily overlap with US Eastern business hours. Quality mindset : you take testing seriously and ensure releases are safe, documented, and approved. We also value practical ownership and calm execution: you keep teams aligned, make progress visible, and handle technical trade-offs with clarity. We’re looking for a HubSpot Technical Lead who can both lead and build. You’ll guide a small team of developers delivering HubSpot integrations, migrations, and custom builds while also working hands-on on backend services. Lead a small team of developers working on HubSpot integrations, migrations, and custom builds. Plan delivery: define work for each project, assign tasks, and confirm hours weekly. Own scheduling and delivery momentum, keeping work on track and surfacing risks early. Guarantee quality: run QA and ensure nothing goes live until it’s tested and signed off. Write and review backend code, APIs, and data migration logic yourself. Act as the technical point of contact for clients, translating progress into clear, plain-language updates. Coordinate technical decisions across the team to keep implementations consistent and maintainable. Experience with data migration strategies for CRMs (validation, reconciliation, rollback planning, and post-migration checks). Working knowledge of API design, authentication patterns, rate limits, and webhook/event-driven integrations. Familiarity with CI/CD workflows, automated testing, and code review processes in a production environment. Experience partnering with client stakeholders to translate requirements into engineering deliverables. Fully remote. Work from anywhere, with a team spread across several countries. Paid time off. Company holidays and year-end closure. Employee Assistance Program. Confidential financial and mental health support. Real leadership. You lead the development team and own delivery from start to finish, instead of being one developer among many. HubSpot Elite Solutions Partner. You work on enterprise HubSpot projects with complex integrations, migrations and custom builds. International clients in North America, the UK and Europe, and Australia and Asia-Pacific. Continuous learning support. Access to Udemy, plus financial grants for further education where relevant to your role. Room to grow. A lean team where strong delivery is noticed and rewarded.",
-   "tags": [],
-   "puntaje": 12,
-   "motivos": [
-    "+1 Node",
     "+2 Remoto"
    ],
    "idioma": "en",
@@ -1580,7 +1632,7 @@
    "ubicacion": "Remoto",
    "salario": "",
    "publicado": "2026-11-20",
-   "descripcion": "FP Markets Group of Companies is a well-established multi-regulated broker, founded in Australia, offering traders access to CFD trading on Forex, Indices, Commodities, Stocks and Cryptocurrencies. We are growing and looking to recruit a Full-time Business Development Specialist (MENA region) to join our global team in one of these countries: UAE, Oman, Morocco, Lebanon, Egypt, Algeria. This position is open to energetic, hard-working and ambitious professionals who are keen to explore superb earning potential in a fast-moving and friendly working environment. Responsibilities: Develop the MENA market including but not limited to converting leads into clients and acquiring and establishing business relationships with new partners Actively hunt for trading professionals in all social and professional platforms/forums/blogs/communities with the aim of engaging them as clients/partners Find the most effective/efficient local marketing channels to promote (in the most practical form) the company and its products Assist in the onboarding of trading clients, Affiliates, IBs, Money Managers and other company partners and work closely with customer support to onboard new clients and provide an impeccable user experience to all clients Work closely with marketing and back-office teams to prepare necessary sales/marketing content Build and maintain solid relationships with prospective partners and proactively work to retain and reactivate clients and partners Negotiate the terms of each partnership based on the existing rebate structures Assist in the monitoring of affiliates and partners on a regular basis to optimize their activities and performance and work to ensure the Key Performance Indicators (KPIs) are met Conduct regular market and competitor analysis and provide feedback on the customer journey to management Enforce prudent approach and due diligence to the regulatory framework as per the company policies and ethics Travel to conferences and business meetings where required Candidate profile: FX/CFD and online trading industry experience is a must with the preference towards individuals with working experience or connections in the region Experience in Sales position Fluent Arabic and English languages knowledge is required Client focused with excellent customer service, communication and negotiation skills Ability to influence and persuade a mutually beneficial outcome for the company and the client Dynamic, self-motivated, competitive and strong desire to succeed Ability to work well independently as well as in a team and can-do attitude Our offer: Remote opportunity with occasional business travel Welcoming, young and multicultural team with approachable leadership Ability to contribute to dynamic business at a growth phase High level of autonomy, support of ideas and putting your expertise into the best practices for the company Continuous personal development, training budget, growth with the company and opportunity to learn from industry leaders Competitive remuneration, regular salary reviews and performance-based incentive schemes Vibrant company life: from team activities to global celebrations Visa and work permit support if requiredÂ Fully remote work with provision of a laptop or reimbursement for equipment Journey to FP Markets: Interview with People Function member (30 - 45 min) to assess match to our culture Interview with your future manager (45 min - 1 hour) to assess match to the job and the team and discuss role expectations Join our team and be a part of a professional, rapidly-growing company operating in a multicultural environment! . Please mention the word **LOVER** and tag RMjAuMTYxLjc3LjE5Ng== when applying to show you read the job post completely (#RMjAuMTYxLjc3LjE5Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "descripcion": "FP Markets Group of Companies is a well-established multi-regulated broker, founded in Australia, offering traders access to CFD trading on Forex, Indices, Commodities, Stocks and Cryptocurrencies. We are growing and looking to recruit a Full-time Business Development Specialist (MENA region) to join our global team in one of these countries: UAE, Oman, Morocco, Lebanon, Egypt, Algeria. This position is open to energetic, hard-working and ambitious professionals who are keen to explore superb earning potential in a fast-moving and friendly working environment. Responsibilities: Develop the MENA market including but not limited to converting leads into clients and acquiring and establishing business relationships with new partners Actively hunt for trading professionals in all social and professional platforms/forums/blogs/communities with the aim of engaging them as clients/partners Find the most effective/efficient local marketing channels to promote (in the most practical form) the company and its products Assist in the onboarding of trading clients, Affiliates, IBs, Money Managers and other company partners and work closely with customer support to onboard new clients and provide an impeccable user experience to all clients Work closely with marketing and back-office teams to prepare necessary sales/marketing content Build and maintain solid relationships with prospective partners and proactively work to retain and reactivate clients and partners Negotiate the terms of each partnership based on the existing rebate structures Assist in the monitoring of affiliates and partners on a regular basis to optimize their activities and performance and work to ensure the Key Performance Indicators (KPIs) are met Conduct regular market and competitor analysis and provide feedback on the customer journey to management Enforce prudent approach and due diligence to the regulatory framework as per the company policies and ethics Travel to conferences and business meetings where required Candidate profile: FX/CFD and online trading industry experience is a must with the preference towards individuals with working experience or connections in the region Experience in Sales position Fluent Arabic and English languages knowledge is required Client focused with excellent customer service, communication and negotiation skills Ability to influence and persuade a mutually beneficial outcome for the company and the client Dynamic, self-motivated, competitive and strong desire to succeed Ability to work well independently as well as in a team and can-do attitude Our offer: Remote opportunity with occasional business travel Welcoming, young and multicultural team with approachable leadership Ability to contribute to dynamic business at a growth phase High level of autonomy, support of ideas and putting your expertise into the best practices for the company Continuous personal development, training budget, growth with the company and opportunity to learn from industry leaders Competitive remuneration, regular salary reviews and performance-based incentive schemes Vibrant company life: from team activities to global celebrations Visa and work permit support if requiredÂ Fully remote work with provision of a laptop or reimbursement for equipment Journey to FP Markets: Interview with People Function member (30 - 45 min) to assess match to our culture Interview with your future manager (45 min - 1 hour) to assess match to the job and the team and discuss role expectations Join our team and be a part of a professional, rapidly-growing company operating in a multicultural environment! . Please mention the word **LOVER** and tag RMTI4LjI0LjE2My42OQ== when applying to show you read the job post completely (#RMTI4LjI0LjE2My42OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "tags": [
     "crypto",
     "education",
