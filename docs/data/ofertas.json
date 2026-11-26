@@ -1,5 +1,5 @@
 {
- "corrida": "2026-11-25T20:24:17Z",
+ "corrida": "2026-11-26T20:01:43Z",
  "total": 73,
  "ofertas": [
   {
@@ -603,7 +603,7 @@
    "url": "https://www.getonbrd.com/jobs/semi-senior-software-engineer-python-23people-remote-f4b6",
    "ubicacion": "Remote (remote_local)",
    "salario": "2.000 - 2.200",
-   "publicado": "2026-11-25",
+   "publicado": "2026-11-26",
    "descripcion": "Dominio avanzado de Python. Conocimientos sólidos en frameworks de JavaScript / TypeScript (React, Vue o Angular). Manejo fluido de Git y Shell Scripting. Inglés técnico/básico: Capacidad para leer documentación, entender requerimientos y redactar mensajes sencillos. Transformar un motor de IA diseñado para Chile en una plataforma escalable para toda la región, utilizando su dominio de Python para desacoplar la lógica local y crear arquitecturas de respuesta adaptables a los modismos y regulaciones de cada país. IA Generativa: Prompt Engineering, LangChain / LlamaIndex y arquitecturas RAG con bases vectoriales (Pinecone, pgvector). GCP: Vertex AI (Gemini), BigQuery y Cloud Run / GKE. Ingeniería de Software: Docker, microservicios y CI/CD. Otros: Java Spring Boot, Jupyter Notebooks y Gemini CLI Seguro complementario : Seguro de salud, vida y dental, para que estés protegido. Curso de inglés : En nuestro programa de formación en el idioma, ofrecemos dos modalidades para adaptarnos a tus necesidades y objetivos, con profesores nativos. Reembolso de certificaciones internacionales : Apoyamos el crecimiento profesional, por lo que te reembolsamos el costo de un examen de certificación internacional que quieras realizar. Bono de vacaciones : Recibe una compensación económica por cada semana de vacaciones que tomes. Aguinaldos en fiestas patrias y Navidad : Un bono en septiembre y en diciembre, para que la pases bien con tu familia. Día libre de cumpleaños : Puedes tomarlo el día previo, el mismo día, o el posterior a tu cumpleaños. Mejora tu espacio de trabajo: Te reembolsamos parte del costo de equipar tu home office para que trabajes cómodo y a gusto. Betterfly: App de bienestar que premia tus hábitos saludables con telemedicina, psicología y nutrición, sin costo.",
    "tags": [],
    "puntaje": 32,
@@ -645,7 +645,7 @@
    "url": "https://www.getonbrd.com/jobs/full-stack-seniornode-js-typescript-y-react-con-ia-bc-tecnologia-santiago",
    "ubicacion": "Chile (hybrid)",
    "salario": "",
-   "publicado": "2026-11-12",
+   "publicado": "2026-11-26",
    "descripcion": "Formación en Ingeniería Informática, Desarrollo de Software o carrera afín. Desde 3 a 5 años de experiencia en desarrollo de software, idealmente en roles Full Stack. Experiencia práctica y comprobable trabajando con Inteligencia Artificial, mediante integración de modelos de IA, APIs de IA, herramientas de desarrollo asistido por IA, automatizaciones inteligentes o soluciones basadas en LLMs. Experiencia sólida en Node.js, TypeScript y React. Experiencia en desarrollo e integración de APIs REST. Manejo de bases de datos SQL. Conocimientos de buenas prácticas de desarrollo: SOLID, Clean Code, testing y control de versiones. Experiencia trabajando con equipos ágiles. Conocimientos de autenticación y seguridad: OAuth2, JWT, API Keys y buenas prácticas OWASP. Buscamos un profesional con sólida experiencia en desarrollo de software, autonomía, criterio técnico y capacidad para construir soluciones modernas, integrando herramientas y servicios de IA en el ciclo de desarrollo y/o en productos digitales. Desarrollar y mantener funcionalidades frontend y backend, asegurando calidad, escalabilidad y seguridad. Implementar e integrar soluciones basadas en Inteligencia Artificial dentro de productos y procesos de desarrollo. Utilizar herramientas de IA para optimizar el desarrollo, automatizar tareas y mejorar la productividad. Participar en decisiones de arquitectura, diseño técnico y mejora continua. Desarrollar APIs REST e integraciones con SDKs, Webhooks y servicios Cloud. Realizar revisiones de código, pruebas unitarias, refactorización y análisis estático. Resolver incidentes, bugs y deuda técnica. Colaborar con el equipo bajo metodologías ágiles, compartiendo conocimientos y buenas prácticas. .NET Core / C#. NestJS. Experiencia con agentes de IA, RAG, LangChain o frameworks similares. Arquitectura hexagonal, BFF y microservicios. Kubernetes y API Gateway. Servicios Cloud, CI/CD y arquitectura basada en eventos. Integraciones complejas con proveedores externos.",
    "tags": [],
    "puntaje": 32,
@@ -1001,26 +1001,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:desarrollador-full-stack-mediastream-remote-971f",
-   "fuente": "GetOnBoard",
-   "titulo": "Desarrollador Full-Stack (USA)",
-   "empresa": "Mediastream",
-   "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-mediastream-remote-971f",
-   "ubicacion": "Remote (remote_local)",
-   "salario": "4.000 - 5.000",
-   "publicado": "2026-10-21",
-   "descripcion": "Título universitario en Ciencias de la Computación, Ingeniería en Computación o afines. Debes vivir en cualquier estado de USA (excluyente) Español Mínimo 4 años de experiencia comprobada como desarrollador, con historial de proyectos exitosos y entrega de soluciones de calidad. Dominio avanzado en desarrollo con Node.js, JavaScript y ReactJS, así como tecnologías relacionadas, asegurando actualización constante con herramientas modernas. Profundo conocimiento de buenas prácticas de programación y diseño de software para crear soluciones eficientes, escalables y fáciles de mantener. Experiencia en bases de datos tanto relacionales como NoSQL, con capacidad para optimizar el manejo y arquitectura de datos. Sólidas habilidades para utilizar estructuras de datos y algoritmos en la resolución de problemas complejos y optimización de código. Capacidad analítica para interpretar requerimientos técnicos y de negocio, proponiendo soluciones prácticas y fundamentadas que aporten valor real. Precisión en la estimación y planificación de tiempos de desarrollo, facilitando la correcta ejecución de proyectos. Experiencia trabajando en equipos multidisciplinarios y colaborativos, manteniendo un buen ambiente laboral y comunicación efectiva. Conocimiento y aplicación de metodologías ágiles como Scrum o Kanban para promover la adaptabilidad y la entrega continua. Excelentes habilidades comunicativas para compartir conocimiento, orientar al equipo y colaborar de forma clara y eficiente. Compromiso con la satisfacción del cliente, enfocando las acciones en entregar soluciones que superen expectativas. Actitud proactiva orientada a la mejora continua e innovación tecnológica para optimizar procesos y productos. Disponibilidad y flexibilidad para viajar cuando el proyecto lo requiera, mostrando compromiso y adaptabilidad a las necesidades comerciales. Realizar análisis y modelado detallado de soluciones técnicas, asegurando una comprensión profunda de los requisitos y objetivos del proyecto. Participar activamente en la recopilación de requisitos, aportando experiencia para definir soluciones técnicas alineadas a las necesidades específicas de cada cliente. Estimar tiempos de desarrollo con precisión y colaborar en la planificación efectiva para cumplir con los plazos establecidos. Desarrollar software de alta calidad utilizando tecnologías modernas como Node.js, JavaScript y ReactJS, aplicando las mejores prácticas para garantizar eficiencia, mantenibilidad y robustez. Mantener y mejorar el software existente mediante correcciones y optimizaciones, trabajando en conjunto con el equipo técnico. Realizar pruebas exhaustivas para validar el rendimiento y calidad de las soluciones antes de su entrega al equipo de control de calidad. Seguir metodologías, herramientas y estándares definidos por la empresa para asegurar coherencia y eficiencia en el desarrollo. Colaborar en la formación y mentoría del equipo de desarrollo, compartiendo conocimientos y promoviendo el crecimiento profesional colectivo. Participar en revisiones de código para garantizar calidad, promover buenas prácticas y fomentar la mejora continua. Mantener un enfoque centrado en el cliente, desarrollando soluciones que satisfagan y superen sus expectativas, con alta calidad y excelente servicio. Detectar y proponer oportunidades de mejora en procesos y productos para optimizar resultados y superar deficiencias existentes. Garantizar alineación con la estrategia y cultura organizacional, colaborando para alcanzar los objetivos comunes de la empresa y el equipo. Contar con experiencia adicional en tecnologías complementarias relacionadas con multimedia o infraestructura de streaming será valorado positivamente. También se considerará una ventaja poseer conocimientos en análisis avanzado de datos de consumo audiovisual, habilidades en liderazgo técnico y gestión de equipos, así como familiaridad con entornos de trabajo internacionales y proyectos de alta escalabilidad. Experiencia previa",
-   "tags": [],
-   "puntaje": 24,
-   "motivos": [
-    "+3 Fullstack",
-    "+1 Node",
-    "+2 Remoto"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
    "id": "getonboard:fullstack-developer-tcit-santiago",
    "fuente": "GetOnBoard",
    "titulo": "Full-Stack Developer",
@@ -1258,6 +1238,26 @@
    "estado": ""
   },
   {
+   "id": "getonboard:java-backend-developer-arkho-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Java Back-end Developer",
+   "empresa": "ARKHO",
+   "url": "https://www.getonbrd.com/jobs/java-backend-developer-arkho-remote",
+   "ubicacion": "Remote (fully_remote)",
+   "salario": "",
+   "publicado": "2026-11-18",
+   "descripcion": "Profesional, tecnólogo o técnico en Ingeniería de Sistemas, Ingeniería Informática, Desarrollo de Software, Ciencias de la Computación o carreras afines, con experiencia en desarrollo de software y especialización práctica en tecnologías Backend. Buscamos personas con capacidad analítica, orientación a resultados y experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas, APIs, servicios e integraciones entre sistemas. Se valoran perfiles con buenas prácticas de programación, capacidad para resolver problemas técnicos, autonomía, trabajo colaborativo y orientación a la calidad y mantenibilidad del software. Requisitos Experiencia y conocimientos técnicos Experiencia en desarrollo de software utilizando lenguajes de programación Backend como Java, Node.js, Python o tecnologías equivalentes. Conocimientos y aplicación de principios Clean Code, buenas prácticas de programación, patrones de diseño y mantenibilidad del software. Experiencia en diseño, desarrollo e implementación de APIs y servicios REST JSON. Experiencia en integración e interoperabilidad entre sistemas y plataformas. Conocimientos en desarrollo e implementación de pruebas unitarias y pruebas de integración. Experiencia utilizando sistemas de control de versiones, especialmente Git. Conocimientos o experiencia en herramientas de integración y despliegue continuo (CI/CD). Manejo de bases de datos relacionales y no relacionales. Conocimientos de PostgreSQL, SQL Server, DynamoDB u otras tecnologías equivalentes. Experiencia o conocimientos en arquitecturas de microservicios, servicios serverless y contenedores. Conocimientos en plataformas cloud como AWS o GCP. Experiencia en procesamiento, integración y transformación de datos. Buscamos Desarrolladores Backend responsables del diseño, desarrollo, implementación y mantenimiento de soluciones de software, mediante la construcción de servicios, APIs e integraciones entre sistemas. La persona será responsable de desarrollar componentes tecnológicos eficientes, escalables y mantenibles, aplicando buenas prácticas de programación, principios de código limpio (Clean Code), patrones de diseño y metodologías de desarrollo de software. Participará en la construcción de soluciones digitales utilizando diferentes lenguajes de programación, frameworks, bases de datos y tecnologías cloud, contribuyendo a la calidad, estabilidad y evolución de las plataformas tecnológicas. Se valorará experiencia con React, Angular, Spring Boot, Azure DevOps y otras herramientas y tecnologías utilizadas en el desarrollo e implementación de soluciones digitales. En ARKHO fomentamos una cultura de aprendizaje continuo, impulsamos la innovación tecnológica y promovemos un entorno de trabajo flexible, inclusivo y respetuoso, que valora tanto el desarrollo profesional como el bienestar personal. 📆 Día administrativo semestral hasta los 12 meses 🏖️ Week off: 5 días de vacaciones extra 🎉 ¡Celebra tu cumpleaños! 📚 Path de entrenamiento ☁️ Certificaciones AWS 💍 Regalo por casamiento + 5 días hábiles libres 👶 Regalo por nacimiento de hijos ✏️ Kit escolar 🤱 Beneficio paternidad ❤️ Bonda (plataforma de descuentos y bienestar) 💰 Aguinaldos 🧘♀️ ARKHO Open Doors",
+   "tags": [],
+   "puntaje": 16,
+   "motivos": [
+    "+1 Node",
+    "+1 SQL",
+    "+2 Remoto"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
    "id": "getonboard:desarrollador-backend-bc-tecnologia-santiago-a1eb",
    "fuente": "GetOnBoard",
    "titulo": "Desarrollador Back-end",
@@ -1280,23 +1280,22 @@
    "estado": ""
   },
   {
-   "id": "getonboard:senior-php-developer-laravel-aws-improving-remote",
+   "id": "getonboard:arquitecto-de-software-cl-imagemaker-santiago",
    "fuente": "GetOnBoard",
-   "titulo": "PHP Developer/ Laravel (AWS)",
-   "empresa": "Improving",
-   "url": "https://www.getonbrd.com/jobs/senior-php-developer-laravel-aws-improving-remote",
-   "ubicacion": "Remote (remote_local)",
+   "titulo": "Arquitecto de Software Cl",
+   "empresa": "Imagemaker",
+   "url": "https://www.getonbrd.com/jobs/arquitecto-de-software-cl-imagemaker-santiago",
+   "ubicacion": "Chile (hybrid)",
    "salario": "",
-   "publicado": "2026-10-22",
-   "descripcion": "Experiencia sólida en PHP y Laravel en aplicaciones productivas, idealmente con Laravel como parte importante de tu trabajo reciente. Experiencia en desarrollo de APIs REST y servicios backend escalables. Experiencia práctica con AWS en entornos productivos. Dominio de SQL y bases de datos relacionales, testing automatizado, Git y prácticas modernas de ingeniería de software. Conocimientos de React y JavaScript para contribuir al frontend cuando se requiera. Capacidad para trabajar de forma autónoma y tomar decisiones técnicas a nivel senior o principal. Inglés intermedio-avanzado o avanzado (indispensable para la comunicación diaria con equipos globales). Diseñar, desarrollar y mantener backends y APIs escalables con PHP y Laravel. Construir y mejorar servicios e infraestructura en AWS. Desarrollar integraciones con APIs y plataformas de datos de terceros. Participar en decisiones de arquitectura enfocadas en escalabilidad, rendimiento, confiabilidad y mantenibilidad. Resolver incidentes complejos en producción y mejorar el rendimiento y la seguridad de la aplicación. Escribir código limpio, bien probado, y participar en code reviews y estándares de ingeniería. Traducir requerimientos de negocio en soluciones técnicas junto a producto y otras áreas. Experiencia en plataformas de alto tráfico, datos intensivos o SaaS. Experiencia en media, publicidad, datos de audiencia, marketing tecnológico o plataformas de CRM y engagement. Experiencia con CI/CD, Docker, observabilidad e infraestructura como código. Experiencia mentoreando ingenieros o liderando decisiones de arquitectura. Experiencia con segmentación, analítica o personalización sobre grandes volúmenes de datos. Contrato a largo plazo. 100% Remoto. Vacaciones y PTOs Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple. Plataforma de cursos en linea Budget para compra de libros. Budget para compra de materiales de trabajo mucho mas..",
+   "publicado": "2026-11-26",
+   "descripcion": "Imprescindibles (Must-have): Desarrollo backend y acceso a datos: experiencia avanzada en .NET 10, Entity Framework Core y Dapper, aplicando patrones de diseño y arquitectura en capas. Diseño de arquitecturas modernas: dominio en el diseño y evolución de arquitecturas headless basadas en BFF (Backend for Frontend), capacidades de negocio y APIs, documentadas mediante C4 Model, RFC y ADRs. Integración con sistemas legacy y bases de datos: experiencia comprobada integrando entornos legacy con arquitecturas modernas de APIs, además de conocimiento en Oracle 11g y creación de servicios ACLs (Anti-Corruption Layers). Ecosistema Google Cloud Platform (GCP): dominio de servicios como Cloud Storage (buckets), Pub/Sub, Cloud SQL (PostgreSQL), Apigee X, protocolos OAuth2/OIDC y observabilidad con OpenTelemetry. Contenedores y control de versiones: gestión de contenedores con Docker y aplicación de metodologías Gitflow para el ciclo de vida del software. Articulación técnica y colaboración: capacidad para traducir desafíos de negocio en arquitectura técnica, articulando soluciones de forma transparente con áreas de producto, datos y células tecnológicas. Deseables (Nice-to-have): Gestión avanzada de APIs: experiencia específica utilizando Apigee (o herramientas afines) para la exposición y gobierno de APIs en entornos híbridos. Diseño de hoja de ruta y arquitectura (Estratégica): Serás responsable de diseñar la hoja de ruta técnica y liderar la evolución de arquitecturas headless basadas en BFF, capacidades de negocio y APIs utilizando C4 Model, RFC y ADRs. Integración legacy y modernización (Estratégica): Serás responsable de diseñar estrategias eficientes para integrar aplicaciones legacy (incluyendo Oracle 11g y creación de servicios ACLs) con arquitecturas modernas de servicios sin afectar la continuidad operacional. Estándares de desarrollo y calidad (Gobernanza): Serás responsable de definir y asegurar los estándares de desarrollo en .NET 10, Dapper y EF Core, estableciendo flujos de trabajo bajo Gitflow para garantizar soluciones de alta performance y calidad. Arquitectura Cloud y seguridad (Operativa): Serás responsable de implementar y estructurar soluciones sobre Google Cloud Platform (buckets, Pub/Sub, Cloud SQL PostgreSQL, Apigee X, OAuth2/OIDC y OpenTelemetry) asegurando plataformas escalables, confiables y seguras. Alineación transversal y mejora continua (Gobernanza): Serás responsable de colaborar con las áreas de producto, datos y células tecnológicas para impulsar iniciativas que mejoren continuamente la calidad, performance, seguridad y prácticas de ingeniería. 🏖️ Don’t worry, be happy: 3 días libres al año adicionales a tus vacaciones. ✨ Permiso sin goce de sueldo para cumplir tus sueños. ⚖️ Programa de bienestar enfocado a equilibrar el trabajo y la vida personal. 🏥 Seguro Complementario 100% gratuito para Makers. 🤓 ¡Programas de formación, clases de inglés y mucho más! 🎂 Día libre para tu cumpleaños y medio día para los cumpleaños de tus hijos. 💰 Bonificaciones que dan respiros: Fiestas patrias, navidad, matrimonio/AUC, nacimiento/adopción de hijos, etc. 💳 Convenios y precios preferenciales con bancos. 👶🏻 3 Días adicionales para padres por nacimiento o adopción de hijo/a. 🐶 Convenio de seguro para tus mascotas! 🌿 Nuestra cultura es horizontal, de innovación, desafiante y sobre todo, se respira mucha buena onda! En el marco de nuestro compromiso con la inclusión laboral, esta vacante está abierta a personas acogidas a la Ley 21.015. ¡Te invitamos a postular!",
    "tags": [],
    "puntaje": 16,
    "motivos": [
-    "+3 React",
+    "+4 .NET / C#",
     "+1 SQL",
     "+1 Contenedores",
-    "+2 Remoto",
-    "-3 Seniority muy alto"
+    "-2 Híbrido"
    ],
    "idioma": "es",
    "estado": ""
@@ -1359,6 +1358,25 @@
     "+1 SQL",
     "+1 Contenedores",
     "-2 Híbrido"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:backend-developer-apside-remote-85f0",
+   "fuente": "GetOnBoard",
+   "titulo": "Back-end Developer",
+   "empresa": "Apside",
+   "url": "https://www.getonbrd.com/jobs/backend-developer-apside-remote-85f0",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "900 - 1.200",
+   "publicado": "2026-11-25",
+   "descripcion": "2 años o más de experiencia en cargos similares, desarrollando en Java . Experiencia en análisis, diseño y desarrollo de software. Experiencia con Java 17 y microservicios con Quarkus y/o Spring Boot . Conocimiento de AWS Cloud . Experiencia con contenedores y orquestación ( Kubernetes ). Diseño y desarrollo de APIs RESTful y GraphQL . Control de versiones con GitLab y/o GitHub . Conocimiento de arquitecturas de software y patrones de diseño . Conocimiento de JavaScript . Experiencia con metodologías ágiles (Scrum, Kanban u otros). Uso de herramientas Atlassian (Jira y Confluence) . Capacidad para trabajar en equipos multidisciplinarios, orientación a objetivos y proactividad. Buscamos un/a Developer Backend que forme parte de un equipo de producto. Trabajarás con perfiles de producto, comercial y tecnología para crear, desarrollar y mejorar sistemas que cumplan los objetivos del negocio. Aquí no solo vas a programar. También vas a proponer, refinar y estimar las funcionalidades, y tu opinión técnica va a influir en cómo evoluciona el producto. Desarrollar y mantener aplicaciones web escalables y seguras. Diseñar e implementar microservicios y APIs (RESTful y GraphQL). Implementar y mantener prácticas DevOps (CI/CD, automatización, despliegues en la nube). Trabajar con los equipos comercial y de producto para definir soluciones y requisitos técnicos. Participar en el refinamiento y la estimación de funcionalidades dentro de un marco ágil. Hacer pruebas, revisiones y análisis de código para asegurar la calidad. Mantenerte al día con nuevas tecnologías y proponer mejoras al stack y a los procesos. Experiencia en la industria financiera y/o de seguros . Certificaciones AWS (ej.: Cloud Practitioner, Developer Associate, Solutions Architect). Experiencia en automatización de servicios y procesos.",
+   "tags": [],
+   "puntaje": 12,
+   "motivos": [
+    "+1 Contenedores",
+    "+2 Remoto"
    ],
    "idioma": "es",
    "estado": ""
@@ -1535,26 +1553,6 @@
    "estado": ""
   },
   {
-   "id": "remoteok:1137924",
-   "fuente": "RemoteOK",
-   "titulo": "Senior Software Engineer II - Agentic Intelligence",
-   "empresa": "Honeycomb.io",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
-   "ubicacion": "Canada Only",
-   "salario": "",
-   "publicado": "2026-11-21",
-   "descripcion": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023!Â Â If you want to see what weâve been up to, please check out these blog posts and Honeycomb.io press releases .Â Â Who We Are We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to liveÂ our values Â every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. Â How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote Little more about the team: AI agents at Honeycomb investigate, reason, and act on real observability data. They live in Canvas: the agentic workspace where engineers go to understand their systems. The Agentic Intelligence team has shipped Canvas, the Honeycomb MCP server, and the Canvas Agent and Canvas Skills surfaces. What we're looking for today is someone who brings deep agent expertise and uses it to expand what the team can build: new agents, new surface area in Canvas, memory, spatial awareness, improved performance on our Bedrock loop. Honeycomb's data store is fast and accepts high cardinality data; that's what makes agents built on top of it different from anything built on a conventional observability backend. This role is about taking advantage of that building agents that can do things no other observability product can do because the underlying data makes it possible. Some of this work will start as a prototype. The expectation is that the code makes it through the full arc, from the rough first version through to something that holds up in production. What you'll do Design and deliver production-grade agents. Build agents that investigate, reason, and act on live observability data inside Canvas. These agents must be trustworthy to engineers in high pressure situations, including mid-incident. Take one from rough first version to something that holds up under production traffic. Own the agent work; support the whole product. Scope, build, ship, and maintain the agents including the evals that tell you whether they got better or are just different. This role is agent-focused and also includes some fullstack development. Build agents only Honeycomb can build. Use a data store that returns high-cardinality queries in seconds to reason over signal a conventional backend can't serve at this fidelity correlating across services, drilling into a single trace, comparing before and after a deploy. Extend the surface, and decide what's next. Ship new capability into Canvas, the MCP server, and Canvas Skills memory, spatial awareness, a faster Bedrock loop and make the case for what comes after with working code. Distinguish hype from signal in a field with plenty of both. Define what \"good\" means for agents here. Set the bar: measurable against real evals, maintainable, and honest about their limits. Example projects Multiple agents collaborating on one shared Canvas investigation each claiming a hypothesis, publishing findings, and narrowing the search space for the others so it resolves faster (blog). Auto-investigation the moment an SLO burn alert fires the agent forms hypotheses and prepares visualizations before a human looks, cutting mean-time-to-insight for on-call (o11ycon 2026). Skills that encode a team's ",
-   "tags": [
-    "programming"
-   ],
-   "puntaje": 8,
-   "motivos": [
-    "+2 Remoto"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
    "id": "getonboard:senior-product-engineer-kudert-remote",
    "fuente": "GetOnBoard",
    "titulo": "Senior Product Engineer",
@@ -1614,18 +1612,16 @@
    "estado": ""
   },
   {
-   "id": "remoteok:1137900",
-   "fuente": "RemoteOK",
-   "titulo": "Senior Product Architect",
-   "empresa": "Storyblok",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-product-architect-storyblok-1137900",
-   "ubicacion": "Worldwide",
-   "salario": "",
-   "publicado": "2026-11-20",
-   "descripcion": "Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact. Â WHAT IS IN IT FOR YOU You will be joining a growing company where you can contribute to many âfirstsâ. Plus these benefits: Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitorâ¦) Home office equipment upgrade (furniture, ear plugs â¦) or membership to a local co-working space after your onboarding Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays Personal development fund for courses, books, conferences, and material The annual international team-building trip, quarterly and monthly online get-togethers As a fully remote company, with work-life balance at its core, youâll enjoy flexible schedules An international team that loves to have fun at work and works hard together to accomplish shared goals JOB SUMMARY You will own the overall technical architecture, platform vision, and system scalability behind Storyblok's product offerings, ensuring high performance, security, and developer joy across all systems. You will partner closely with product managers, engineering leads, and platform teams to design scalable cloud-native architectures, establish guardrails, and guide technical direction for enterprise-grade features. Â ESSENTIAL JOB FUNCTIONS Define and drive the long-term technical product architecture, system design, and platform scalability strategies across cloud infrastructure and microservices. Establish architectural guardrails, design patterns, and standards to empower engineering teams to build safe, high-performing, and resilient features. Lead architectural reviews for major product features, ensuring compliance with security, reliability, latency, and cost-efficiency requirements. Collaborate with Product, Security, DevOps, and Data teams to align product capabilities with platform performance and business goals. Â EDUCATION AND EXPERIENCE Bachelor's or Master's degree in Computer Science, Software Engineering, or equivalent practical experience. 7+ years of experience in software architecture, principal engineering, or system design roles for large-scale distributed cloud applications. Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking Â PROFESSIONAL COMPETENCIES Deep expertise in cloud-native architectures (AWS preferred), API design, distributed systems, and multi-tenant SaaS platforms. Strong fluency in modern programming backend/frontend ecosystems and microservice communication patterns. Proven ability to lead technical strategy and communicate complex architectural trade-offs across engineering and executive leadership. Â Â MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS Remote (home) work opportunity or funded by Storyblok co-working space GENERAL TERMS Storyblok has a commitment to diversity and inclusion. We strive to create a hiring environment in which all people feel they are equally respected and valued, irrespective of gender identity or expression, sexual orientation, ethnicity, age, religion, citizenship or any other characteristic. You can find more information about our privacy policy Â here . All communications regarding job opportunities at Storyblok will come from an official Storyblok employee with an email address ending in @storyblok.com. We will never redirect you to another portal or another site that is unrelated to our domain ( storyblok.com ). Here is a sneak peek ofÂ Storyblokâs Visual Editor If you need an accommodation for any part of the application process, please email talent.a",
-   "tags": [
-    "product"
-   ],
+   "id": "getonboard:lead-voip-engineer-asterisk-vicidial-ringvex-llc-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Lead VoIP Engineer (Asterisk, Vicidial)",
+   "empresa": "RingVex LLC",
+   "url": "https://www.getonbrd.com/jobs/lead-voip-engineer-asterisk-vicidial-ringvex-llc-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "5.000 - 7.000",
+   "publicado": "2026-11-26",
+   "descripcion": "5+ years of hands-on Asterisk / VoIP engineering (SIP, dialplan, trunks, NAT/RTP, call-quality debugging) Real VICIdial internals experience — not only clicking the admin UI. You have worked in dialplan, AGI, campaign routing, the hopper, and related MySQL tables Strong PHP and Linux (this codebase is PHP 7.4 on AlmaLinux 9) You have led a small engineering team (hiring, reviewing, or both) Weekday overlap with U.S. Eastern Time Strong English, written and spoken (design docs, code review, and incident calls) Own the reliability, call quality, and engineering roadmap of the hosted dialer Read and change VICIdial internals, Asterisk dialplan, AGI/AMI, and the PHP portal with care for upgrades Design the voicemail-detection path, pacing, number-health, and compliance features above Keep the RingVex layer cleanly separated from the current VICIdial core so a future engine swap is possible Hire, onboard, and lead 1–3 developers; review their work; manage the hiring budget with the owner's approval Write clear designs, tests, and rollback plans; keep work in git Communicate with the owner in English, with weekday Eastern Time overlap Protect customer data: no production secrets in git, no full phone numbers in logs or tickets, no access beyond staging unless the owner explicitly grants it FreeSWITCH Answering-machine detection or other audio / speech machine learning Familiarity with TCPA / DNC constraints as an engineer (we are not asking for legal advice) Experience with carrier SIP (elastic / BYOC-style trunks) MySQL performance work on large call-log tables Full-time remote role USD $5,000–$7,000 per month Latin America preferred, especially Colombia Weekday overlap with U.S. Eastern Time required How employment is structured (for example direct contract or an employer-of-record arrangement) and any benefits are confirmed in the written offer. This posting is not a contract and is not legal advice. Process Intro call — fit, English, and role expectations Technical interview — VICIdial, Asterisk, SIP, and how you would lead a small team Paid short trial on a staging server (sanitized data, limited access, NDA first) If both sides want to continue, a written offer We will not ask you to work on the live production dialer during the trial.",
+   "tags": [],
    "puntaje": 8,
    "motivos": [
     "+2 Remoto"
