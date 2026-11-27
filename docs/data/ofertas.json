@@ -1,6 +1,6 @@
 {
- "corrida": "2026-11-26T20:01:43Z",
- "total": 73,
+ "corrida": "2026-11-27T19:50:14Z",
+ "total": 74,
  "ofertas": [
   {
    "id": "getonboard:full-stack-engineer-typescript-react-dynamic-devs-santiago-d476",
@@ -371,28 +371,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:fullstack-engineer-senior-node-js-react-aws-continuum-remote",
-   "fuente": "GetOnBoard",
-   "titulo": "Full-Stack Engineer Senior (Node.js, React, AWS)",
-   "empresa": "Continuum",
-   "url": "https://www.getonbrd.com/jobs/fullstack-engineer-senior-node-js-react-aws-continuum-remote",
-   "ubicacion": "Remote (fully_remote)",
-   "salario": "3.000 - 3.600",
-   "publicado": "2026-10-26",
-   "descripcion": "Experiencia sólida como desarrollador fullstack senior, con proyectos en producción. Node.js en backend y React en frontend, comprobables en proyectos reales. Experiencia con AWS. Experiencia con arquitecturas distribuidas e integraciones. Uso real de IA en el desarrollo, con criterio de calidad y seguridad. Autonomía y buena comunicación. Disponibilidad para trabajar en horario de Chile. Buscamos a alguien proactivo, que proponga y trabaje bien en equipo. Desarrollar y mantener servicios backend en Node.js e interfaces web en React, sobre AWS. Participar en el diseño de la arquitectura y en la integración con otros servicios. Usar herramientas y agentes de IA en el desarrollo, con buenos estándares de calidad y seguridad. Participar en pruebas, revisión de código y despliegues. TypeScript. Contrato indefinido y jornada completa. 100% remoto, en horario de Chile.",
-   "tags": [],
-   "puntaje": 44,
-   "motivos": [
-    "+3 React",
-    "+2 TypeScript",
-    "+3 Fullstack",
-    "+1 Node",
-    "+2 Remoto"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
    "id": "getonboard:full-stack-python-developer-creativeworks-remote",
    "fuente": "GetOnBoard",
    "titulo": "Full-Stack Python Developer",
@@ -438,6 +416,48 @@
     "-2 Híbrido"
    ],
    "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:lead-frontend-engineer-react-net-niuro-remote",
+   "fuente": "GetOnBoard",
+   "titulo": "Lead Front-end Engineer (React/.NET)",
+   "empresa": "Niuro",
+   "url": "https://www.getonbrd.com/jobs/lead-frontend-engineer-react-net-niuro-remote",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
+   "publicado": "2026-11-27",
+   "descripcion": "Mandatory: demonstrable hands-on professional experience building and maintaining production .NET applications with C# and Entity Framework. Frontend-only experience or theoretical .NET exposure is not sufficient. 5+ years of professional software engineering experience, with at least 3 years of production-level React experience. Proven experience leading engineering teams as a Tech Lead, Team Lead, or Engineering Manager (must be clearly documented in your resume). Deep expertise in modern React, including hooks, functional components, and state management. Strong proficiency in TypeScript, ES6+, RESTful APIs, and asynchronous JavaScript. C1 English level or higher. Hands-on experience with REST APIs, Software Architecture, Technical Leadership. UX experience with a strong understanding of user-centered design principles and the ability to translate UX requirements into effective frontend solutions Deep expertise in .NET and Entity Framework, including hands-on C# development. The platform is backend-driven, so this role works directly in the .NET codebase. Skills React .NET C# Entity Framework TypeScript JavaScript REST APIs State Management Software Architecture Technical Leadership Lead and mentor a team of frontend and cross-functional engineers, setting daily technical direction and code review standards. Architect and build complex React components and feature modules with minimal supervision. Optimize application performance using code splitting, memoization, and efficient state management. Collaborate with backend engineers to design API contracts and contribute directly to .NET backend tasks when necessary. Identify and resolve team bottlenecks, diagnose production issues across browsers, and maintain high standards for testing and documentation. Jest React Testing Library Fintech We provide the opportunity to participate in impactful and technically rigorous industrial data projects that drive innovation and professional growth. Our work environment emphasizes technical excellence, collaboration, and continuous innovation. Niuro supports a 100% remote work model, allowing flexibility in work location globally. We invest in career development through ongoing training programs and leadership opportunities, ensuring continuous growth and success. Upon successful completion of the initial contract, there is potential for long-term collaboration and stable, full-time employment, reflecting our long-term commitment to our team members. Joining Niuro means becoming part of a global community dedicated to technological excellence and benefiting from a strong administrative support infrastructure that enables you to focus on impactful work without distraction.",
+   "tags": [],
+   "puntaje": 44,
+   "motivos": [
+    "+3 React",
+    "+2 TypeScript",
+    "+4 .NET / C#",
+    "+2 Remoto"
+   ],
+   "idioma": "en",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:senior-frontend-engineer-react-niuro-remote-5d17",
+   "fuente": "GetOnBoard",
+   "titulo": "Senior Front-end Engineer (React)",
+   "empresa": "Niuro",
+   "url": "https://www.getonbrd.com/jobs/senior-frontend-engineer-react-niuro-remote-5d17",
+   "ubicacion": "Remote (remote_local)",
+   "salario": "",
+   "publicado": "2026-11-27",
+   "descripcion": "Senior level experience with 5+ years of professional software engineering experience 3+ years of production React experience Deep proficiency in modern React, including hooks, functional components, and state management Strong command of TypeScript and ES6+ Proven track record of optimizing frontend performance, including bundle size, render cycles, and lazy loading Experience with testing frameworks such as Jest and React Testing Library Solid understanding of RESTful APIs and asynchronous JavaScript patterns C1 English level or higher. Deep expertise in .NET and Entity Framework, including hands-on C# development. The platform is backend-driven, so this role works directly in the .NET codebase. Skills React TypeScript JavaScript ES6+ Jest React Testing Library REST APIs State Management Frontend Performance Optimization Architect and build complex React components and feature modules with minimal guidance. Optimize application performance through code splitting, memoization, and efficient state management. Review code and mentor mid-level developers on React best practices. Collaborate with backend engineers to design API contracts and data flows. Diagnose and resolve production issues across various browsers and devices. Maintain high test coverage and documentation standards. We provide the opportunity to participate in impactful and technically rigorous industrial data projects that drive innovation and professional growth. Our work environment emphasizes technical excellence, collaboration, and continuous innovation. Niuro supports a 100% remote work model, allowing flexibility in work location globally. We invest in career development through ongoing training programs and leadership opportunities, ensuring continuous growth and success. Upon successful completion of the initial contract, there is potential for long-term collaboration and stable, full-time employment, reflecting our long-term commitment to our team members. Joining Niuro means becoming part of a global community dedicated to technological excellence and benefiting from a strong administrative support infrastructure that enables you to focus on impactful work without distraction.",
+   "tags": [],
+   "puntaje": 44,
+   "motivos": [
+    "+3 React",
+    "+2 TypeScript",
+    "+4 .NET / C#",
+    "+2 Remoto"
+   ],
+   "idioma": "en",
    "estado": ""
   },
   {
@@ -575,48 +595,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:software-engineer-full-stack-logpilot-santiago-1ad9",
-   "fuente": "GetOnBoard",
-   "titulo": "Software Engineer Full-Stack",
-   "empresa": "Logpilot",
-   "url": "https://www.getonbrd.com/jobs/software-engineer-full-stack-logpilot-santiago-1ad9",
-   "ubicacion": "Chile (no_remote)",
-   "salario": "CLP 2.200 - 3.400",
-   "publicado": "2026-11-13",
-   "descripcion": "Buscamos un/a Software Engineer Full Stack con motivación por resolver problemas complejos y transformar ideas en software que impacta a clientes reales. Requisitos mínimos: +1 año de experiencia como Ingeniero/a de Software (idealmente con Python y TypeScript ; nos encanta Django y React ). +1 año de experiencia trabajando con bases de datosNoSQL y SQL (estamos migrando de MongoDB a PostgreSQL ). Interés genuino por generar ideas para nuevos problemas y mejorar lo existente. Alta motivación por nuevos desafíos: valoramos mucho el deseo de aprender, incluso si aún no dominas todo. Cómo trabajamos (soft skills): Proactividad: que propongas, preguntes y propulses mejoras. Colaboración: que sepas trabajar con el equipo en objetivos comunes. Orientación a calidad: que cuides la experiencia del usuario y la robustez del sistema. Aprendizaje continuo: que te mantengas dispuesto/a a iterar y crecer. Si te entusiasma la idea de construir un SaaS para la logística de importación y te motiva el ritmo de escalar producto y tecnología, te queremos conocer. En este rol tendrás desafíos reales de crecimiento y escalabilidad. Participarás en la evolución de nuestra plataforma SaaS, construyendo y mejorando funcionalidades tanto en el frontend como en el backend. Construir y escalar features para automatización inteligente y experiencia de usuario. Trabajar en arquitectura distribuida y en decisiones técnicas para mejorar performance y confiabilidad. Desarrollar APIs y servicios integrados con sistemas externos para habilitar nuevos flujos de negocio. Colaborar en el diseño e implementación de mejoras de datos, considerando el traspaso de MongoDB a PostgreSQL. Apoyar el ciclo completo de desarrollo: desde ideas y requerimientos hasta despliegue y monitoreo. Contribuir con propuestas para nuevos problemas y oportunidades de producto. Buscamos a alguien que disfrute aprender rápido y que aporte claridad, curiosidad y foco en entregar valor. Conocimiento de CI/CD y buenas prácticas de automatización de despliegues. Experiencia o conocimiento en Integraciones con sistemas externos (APIs, flujos de datos y sincronización). Conocimiento en Monitoring para observar comportamiento en producción, detectar incidentes y mejorar métricas. Experiencia trabajando con arquitecturas orientadas a escalabilidad y performance. Estos puntos no son excluyentes: si hoy estás aprendiendo y te esfuerzas por lograrlo, es totalmente válido. Horario flexible (oficina al lado del Metro Manuel Montt). MacBook Pro (y después de 12 meses, es tuya). Estacionamiento para bicicletas y scooters. Áreas recreativas: Arcade , simulador de carreras, ping pong, consolas y juegos de mesa. Bebidas (red bull + café), snacks y fruta. Seguro complementario de salud . Herramienta de IA para desarrollo: Cursor . Si te interesa construir en serio, aprender rápido y aportar al crecimiento de un SaaS que automatiza la logística de importación, postula.",
-   "tags": [],
-   "puntaje": 36,
-   "motivos": [
-    "+3 React",
-    "+2 TypeScript",
-    "+3 Fullstack",
-    "+1 SQL"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
-   "id": "getonboard:semi-senior-software-engineer-python-23people-remote-f4b6",
-   "fuente": "GetOnBoard",
-   "titulo": "Semi Senior Software Engineer Python",
-   "empresa": "23people",
-   "url": "https://www.getonbrd.com/jobs/semi-senior-software-engineer-python-23people-remote-f4b6",
-   "ubicacion": "Remote (remote_local)",
-   "salario": "2.000 - 2.200",
-   "publicado": "2026-11-26",
-   "descripcion": "Dominio avanzado de Python. Conocimientos sólidos en frameworks de JavaScript / TypeScript (React, Vue o Angular). Manejo fluido de Git y Shell Scripting. Inglés técnico/básico: Capacidad para leer documentación, entender requerimientos y redactar mensajes sencillos. Transformar un motor de IA diseñado para Chile en una plataforma escalable para toda la región, utilizando su dominio de Python para desacoplar la lógica local y crear arquitecturas de respuesta adaptables a los modismos y regulaciones de cada país. IA Generativa: Prompt Engineering, LangChain / LlamaIndex y arquitecturas RAG con bases vectoriales (Pinecone, pgvector). GCP: Vertex AI (Gemini), BigQuery y Cloud Run / GKE. Ingeniería de Software: Docker, microservicios y CI/CD. Otros: Java Spring Boot, Jupyter Notebooks y Gemini CLI Seguro complementario : Seguro de salud, vida y dental, para que estés protegido. Curso de inglés : En nuestro programa de formación en el idioma, ofrecemos dos modalidades para adaptarnos a tus necesidades y objetivos, con profesores nativos. Reembolso de certificaciones internacionales : Apoyamos el crecimiento profesional, por lo que te reembolsamos el costo de un examen de certificación internacional que quieras realizar. Bono de vacaciones : Recibe una compensación económica por cada semana de vacaciones que tomes. Aguinaldos en fiestas patrias y Navidad : Un bono en septiembre y en diciembre, para que la pases bien con tu familia. Día libre de cumpleaños : Puedes tomarlo el día previo, el mismo día, o el posterior a tu cumpleaños. Mejora tu espacio de trabajo: Te reembolsamos parte del costo de equipar tu home office para que trabajes cómodo y a gusto. Betterfly: App de bienestar que premia tus hábitos saludables con telemedicina, psicología y nutrición, sin costo.",
-   "tags": [],
-   "puntaje": 32,
-   "motivos": [
-    "+3 React",
-    "+2 TypeScript",
-    "+1 Contenedores",
-    "+2 Remoto"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
    "id": "getonboard:net-engineer-autoraptor-remote",
    "fuente": "GetOnBoard",
    "titulo": "Senior .NET Engineer",
@@ -733,29 +711,6 @@
     "+1 Contenedores"
    ],
    "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "getonboard:desarrollador-full-stack-web-foco-back-end-witi-santiago",
-   "fuente": "GetOnBoard",
-   "titulo": "Desarrollador Full-Stack (Web/Foco Back-end)",
-   "empresa": "WiTi",
-   "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-back-end-witi-santiago",
-   "ubicacion": "Chile (hybrid)",
-   "salario": "",
-   "publicado": "2026-11-04",
-   "descripcion": "Titulado o egresado de Ingeniería en Ejecución Informática, Técnico en Programación Computacional o carrera afín. Dominio sólido en diseño y construcción de arquitecturas de servidor con Node.js (Express / NestJS) o Python (Django / FastAPI). Manejo avanzado de bases de datos relacionales (PostgreSQL, MySQL) y/o no relacionales (MongoDB): modelado, consultas y optimización. Experiencia en diseño, desarrollo y documentación de servicios RESTful. Experiencia en desarrollo frontend con React.js, Angular o Vue.js junto con HTML5, CSS3/SASS y JavaScript/TypeScript. Conocimiento y manejo de GitHub Actions para flujos de CI/CD. Manejo avanzado de Git. Experiencia trabajando bajo metodologías ágiles (Scrum / Kanban). Diseñar, construir y mantener lógica de negocio robusta en el backend, asegurando disponibilidad, rendimiento y escalabilidad de los servicios. Desarrollar e integrar características web completas de extremo a extremo, desde componentes de interfaz de usuario hasta modelos de datos complejos. Construir código limpio y modular, optimizando consultas a bases de datos para garantizar la velocidad de carga de las aplicaciones. Colaborar estrechamente con ingenieros DevOps, QA y otros desarrolladores para asegurar despliegues exitosos. Participar activamente en revisiones de código con foco en seguridad y rendimiento del lado del servidor. Diseñar y documentar APIs RESTful que soporten el crecimiento y la evolución de los productos digitales. Participar en ceremonias ágiles y contribuir a la mejora continua de los procesos de desarrollo del equipo. Conocimiento en GraphQL. Experiencia en proyectos de retail, ecommerce o plataformas digitales de alto tráfico. Experiencia con arquitecturas de microservicios. Conocimientos en buenas prácticas de seguridad en aplicaciones web. En WiTi promovemos un ambiente colaborativo donde la cultura del aprendizaje es parte fundamental. Entre nuestros beneficios están: Plan de carrera personalizado para el desarrollo profesional. Certificaciones para continuar creciendo en tu carrera. Cursos de idiomas, apoyando el desarrollo personal y profesional.",
-   "tags": [],
-   "puntaje": 32,
-   "motivos": [
-    "+3 React",
-    "+2 TypeScript",
-    "+3 Fullstack",
-    "+1 Node",
-    "+1 SQL",
-    "-2 Híbrido"
-   ],
-   "idioma": "es",
    "estado": ""
   },
   {
@@ -982,47 +937,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:senior-software-engineer-serverless-workflow-hyqoo-remote",
-   "fuente": "GetOnBoard",
-   "titulo": "Senior Software Engineer – Serverless Workflow",
-   "empresa": "Hyqoo",
-   "url": "https://www.getonbrd.com/jobs/senior-software-engineer-serverless-workflow-hyqoo-remote",
-   "ubicacion": "Remote (remote_local)",
-   "salario": "3.000 - 4.500",
-   "publicado": "2026-10-26",
-   "descripcion": "Bachelor’s degree in Computer Science, Engineering, or a related field. Advanced degrees are a plus. 6 to 8 years of professional experience in software development, with a strong focus on .NET technologies. Proven experience in building and managing serverless workflows and cloud-native applications. Accountable use of AI-assisted tools Hands-on experience with AWS services such as Lambda, API Gateway, DynamoDB, and related serverless tools. Proficiency in .NET 8/10 and developing RESTful services using WebAPI. Familiarity with Document Intelligence technologies and their integration into enterprise solutions. Strong problem-solving skills, attention to detail, and the ability to work effectively in a collaborative environment. Design, develop, and maintain scalable serverless workflows using best practices to optimize performance and cost-efficiency. Architect and implement backend services using .NET 8/10 and WebAPI frameworks. Collaborate with cross-functional teams to integrate Document Intelligence solutions that enhance data processing and automation. Develop and deploy cloud-native applications on AWS, ensuring high availability, security, and scalability. Lead code reviews, mentor junior engineers, and contribute to continuous improvement of development processes. Troubleshoot, debug, and optimize existing applications to improve reliability and performance. Stay updated with the latest industry trends and technologies to recommend and implement innovative solutions. Relevant certifications in AWS or .NET technologies are advantageous.",
-   "tags": [],
-   "puntaje": 24,
-   "motivos": [
-    "+4 .NET / C#",
-    "+2 Remoto"
-   ],
-   "idioma": "en",
-   "estado": ""
-  },
-  {
-   "id": "getonboard:fullstack-developer-tcit-santiago",
-   "fuente": "GetOnBoard",
-   "titulo": "Full-Stack Developer",
-   "empresa": "TCIT",
-   "url": "https://www.getonbrd.com/jobs/fullstack-developer-tcit-santiago",
-   "ubicacion": "Chile (hybrid)",
-   "salario": "",
-   "publicado": "2026-10-26",
-   "descripcion": "Ingeniería en Informática, Ingeniería Civil Informática, Ingeniería en Software o carrera afín. Experiencia en desarrollo de software. HTML, CSS, JavaScript. Fundamentos de React y Node.js Bases de datos SQL básicas. Git y control de versiones Conceptos de testing. Metodologías ágiles. Consumo de APIs. Desarrollar y mantener funcionalidades de software de baja y mediana complejidad, contribuyendo al desarrollo de productos tecnológicos mediante la aplicación de buenas prácticas de programación y el aprendizaje continuo. Desarrollar funcionalidades de software de acuerdo con los requerimientos definidos Corregir errores e incidencias identificadas en las aplicaciones. Realizar pruebas unitarias y validaciones básicas de código Participar en revisiones de código y aplicar buenas prácticas de desarrollo. Documentar funcionalidades y desarrollos realizados. Participar activamente en ceremonias ágiles y actividades de equipo. Mantener y actualizar aplicaciones existentes Participar en actividades de aprendizaje y actualización tecnológica. Deseable experiencia en proyectos",
-   "tags": [],
-   "puntaje": 24,
-   "motivos": [
-    "+3 React",
-    "+3 Fullstack",
-    "+1 Node",
-    "+1 SQL",
-    "-2 Híbrido"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
    "id": "getonboard:back-end-software-engineer-nestjs-cloud-native-aws-witi-remote-f21f",
    "fuente": "GetOnBoard",
    "titulo": "Back-end Software Engineer – NestJS | Cloud Native | AWS",
@@ -1173,6 +1087,25 @@
    "estado": ""
   },
   {
+   "id": "getonboard:ingeniero-a-de-software-net-ps-grupo-hunting-santiago-2dea",
+   "fuente": "GetOnBoard",
+   "titulo": "Ingeniero/a de Software .NET",
+   "empresa": "PS GRUPO HUNTING",
+   "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-software-net-ps-grupo-hunting-santiago-2dea",
+   "ubicacion": "Chile (no_remote)",
+   "salario": "CLP 550 - 800",
+   "publicado": "2026-11-27",
+   "descripcion": "Título profesional universitario en Ingeniería Informática, Ingeniería en Computación o carrera afín. Para esta posición se requiere formación universitaria; no se consideran títulos de nivel técnico. En caso de títulos extranjeros, contar con apostilla y validación institucional. Al menos 5 años de experiencia en desarrollo de software. Experiencia comprobable con C#, .NET Framework 4.8, .NET Core 3.1 y .NET 5 o superior. Conocimientos de JavaScript, HTML y CSS. Dominio de SQL Server y modelamiento de bases de datos. Experiencia en integraciones mediante servicios SOAP y REST. Disponibilidad para asistir presencialmente tres días a la semana a Providencia. Capacidad de análisis, autonomía, comunicación efectiva y trabajo en equipo, con orientación al cliente y al cumplimiento de plazos. Diseñar, desarrollar y mantener aplicaciones en C# y tecnologías .NET. Implementar funcionalidades y optimizar soluciones existentes. Desarrollar integraciones entre aplicaciones mediante servicios SOAP y REST. Elaborar consultas y trabajar en el modelamiento de bases de datos SQL Server. Analizar y resolver incidencias, adaptando las soluciones a los requerimientos del negocio. Colaborar en la planificación y estimación de desarrollos, comunicando oportunamente posibles desviaciones. Participar en reuniones de coordinación y seguimiento del equipo. Experiencia en servicios tecnológicos o consultoría, participando en distintos proyectos y con diversos clientes. Patrones de diseño, buenas prácticas de desarrollo, revisiones de código y pruebas unitarias. Metodologías ágiles, idealmente Scrum. Plataformas BPM o ECM. Desarrollo móvil con Xamarin o tecnologías similares. Renta líquida referencial: entre $1.800.000 y $2.000.000 mensuales. Contrato: preferentemente indefinido, con posibilidad de evaluar un contrato inicial a plazo fijo de 3 o 6 meses. Modalidad: híbrida. Ubicación: Providencia, en un sector cercano al metro.",
+   "tags": [],
+   "puntaje": 20,
+   "motivos": [
+    "+4 .NET / C#",
+    "+1 SQL"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
    "id": "remotive:2091179",
    "fuente": "Remotive",
    "titulo": "WordPress Theme & Plugin Developer",
@@ -1280,6 +1213,25 @@
    "estado": ""
   },
   {
+   "id": "getonboard:desarrollador-fullstack-java-angular-2-cl-imagemaker-santiago",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador Full-Stack Java / Angular 2+ Cl",
+   "empresa": "Imagemaker",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-2-cl-imagemaker-santiago",
+   "ubicacion": "Chile (no_remote)",
+   "salario": "",
+   "publicado": "2026-11-27",
+   "descripcion": "Imprescindibles (Must-have): Desarrollar y mantener aplicaciones empresariales utilizando Java 7, Java 8 o versiones posteriores junto con el framework Spring Boot. Construir interfaces de usuario funcionales mediante Angular, Java Web Flow, JavaScript y jQuery. Gestionar la persistencia y consulta de datos relacionales empleando SQL, Hibernate, JPA y JDBC. Desplegar y administrar aplicaciones en servidores WebLogic 12c y contenedores POD en AWS (Amazon Web Services). Ejecutar análisis de causa raíz y gestionar incidentes técnicos en entornos productivos de alta disponibilidad. Controlar versiones de código y gestionar ciclos de entrega utilizando Maven, JIRA, Bitbucket y SVN. Explicar hallazgos técnicos, diagnósticos de incidentes y soluciones de arquitectura a interlocutores técnicos y funcionales del cliente. Deseables (Nice-to-have): Optimizar procedimientos almacenados y consultas complejas mediante programación en PL/SQL sobre bases de datos Oracle. Mantener y desarrollar módulos heredados utilizando PowerBuilder. Construir e implementar interfaces web rápidas mediante la herramienta Scriptcase. Operativas y de Desarrollo: Serás responsable de desarrollar e implementar nuevas funcionalidades tanto en el backend con Java/Spring Boot como en el frontend con Angular. Serás responsable de mantener la estabilidad de los aplicativos desplegados en WebLogic 12c y entornos AWS. Serás responsable de optimizar consultas y modelos de persistencia mediante JPA, Hibernate y SQL para asegurar tiempos de respuesta eficientes. Resolución y Continuidad: Serás responsable de diagnosticar y resolver incidentes productivos mediante análisis de causa raíz para evitar recurrencias en los sistemas críticos del cliente. Serás responsable de ejecutar pruebas técnicas y validaciones de código antes de cada paso a producción. Gobernanza y Control: Serás responsable de asegurar la trazabilidad del código y el cumplimiento de los flujos de entrega utilizando JIRA, Bitbucket y SVN. ✨ Permiso sin goce de sueldo para cumplir tus sueños. 🎂 Día libre para tu cumpleaños En el marco de nuestro compromiso con la inclusión, la siguiente vacante está abierta en el marco de la ley 21.015",
+   "tags": [],
+   "puntaje": 16,
+   "motivos": [
+    "+3 Fullstack",
+    "+1 SQL"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
    "id": "getonboard:arquitecto-de-software-cl-imagemaker-santiago",
    "fuente": "GetOnBoard",
    "titulo": "Arquitecto de Software Cl",
@@ -1301,26 +1253,6 @@
    "estado": ""
   },
   {
-   "id": "getonboard:backend-developer-java-spring-boot-aws-interfell-remote",
-   "fuente": "GetOnBoard",
-   "titulo": "Back-end Developer Java (Spring Boot / AWS)",
-   "empresa": "Interfell",
-   "url": "https://www.getonbrd.com/jobs/backend-developer-java-spring-boot-aws-interfell-remote",
-   "ubicacion": "Remote (remote_local)",
-   "salario": "2.100 - 2.300",
-   "publicado": "2026-11-17",
-   "descripcion": "Mínimo 4 años de experiencia profesional en desarrollo de software, utilizando las tecnologías requeridas. Dominio avanzado de Java 8 o superior y Spring Boot . Experiencia sólida en arquitectura y desarrollo de microservicios y APIs RESTful. Experiencia avanzada con bases de datos SQL y NoSQL, especialmente PostgreSQL y MongoDB. Conocimiento de arquitectura de software, código limpio y principios SOLID. Experiencia práctica con Docker y Kubernetes. Experiencia trabajando con AWS, especialmente API Gateway, Lambda, S3 y SQS. Experiencia profesional en proyectos de Telco, Retail o Fintech. Experiencia comprobable en entornos empresariales; no se consideran proyectos personales ni experiencia freelance para cumplir los años requeridos. Habilidades de comunicación, resolución de problemas y trabajo colaborativo. Residencia actual en Colombia o Venezuela. Diseñar, desarrollar y mantener aplicaciones y servicios backend utilizando Java 8 o superior y Spring Boot. Desarrollar y optimizar microservicios y APIs RESTful, garantizando escalabilidad, rendimiento e integración entre sistemas. Diseñar, implementar y optimizar bases de datos SQL y NoSQL, especialmente PostgreSQL y MongoDB. Aplicar principios SOLID, arquitectura limpia y buenas prácticas de desarrollo para asegurar código mantenible y reutilizable. Implementar y mantener aplicaciones contenerizadas utilizando Docker y Kubernetes. Desplegar y administrar servicios backend en AWS, incluyendo API Gateway, Lambda, S3 y SQS. Identificar y resolver problemas técnicos relacionados con rendimiento, disponibilidad e integración. Colaborar con equipos multidisciplinarios para desarrollar soluciones confiables, escalables y alineadas con las necesidades del negocio. Remuneración mensual de USD 2.100 a USD 2.300. Trabajo 100% remoto desde Colombia o Venezuela. Contratación como prestador de servicios independientes (Contractor) a través de Interfell. Contrato de duración indefinida. 10 días de vacaciones remuneradas al año. Medio día libre por cumpleaños. Días festivos oficiales de Chile. Compensación pagada en dólares estadounidenses. Oportunidad de participar en proyectos de desarrollo backend utilizando Java, Spring Boot, microservicios y AWS.",
-   "tags": [],
-   "puntaje": 16,
-   "motivos": [
-    "+1 SQL",
-    "+1 Contenedores",
-    "+2 Remoto"
-   ],
-   "idioma": "es",
-   "estado": ""
-  },
-  {
    "id": "getonboard:ingeniero-a-de-software-full-stack-macal-santiago",
    "fuente": "GetOnBoard",
    "titulo": "Ingeniero/a de Software Full-Stack",
@@ -1337,6 +1269,25 @@
     "+3 Fullstack",
     "+1 SQL",
     "-2 Híbrido"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "getonboard:desarrollador-a-full-stack-senior-ps-grupo-hunting-santiago",
+   "fuente": "GetOnBoard",
+   "titulo": "Desarrollador/a Full-Stack Senior",
+   "empresa": "PS GRUPO HUNTING",
+   "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-senior-ps-grupo-hunting-santiago",
+   "ubicacion": "Chile (no_remote)",
+   "salario": "CLP 400 - 600",
+   "publicado": "2026-11-27",
+   "descripcion": "Al menos 4 años de experiencia reciente en desarrollo con el stack tecnológico indicado. Experiencia práctica, reciente y comprobable en AngularJS 1.x, específicamente en las versiones 1.3 y/o 1.8. Experiencia en Java 7, Java 8, Spring Boot, Oracle y Git. Experiencia en proyectos del sector bancario, FinTech o instituciones financieras. Experiencia en mantenimiento de aplicaciones existentes y resolución de incidencias técnicas. Residencia en Santiago o alrededores. Competencias que buscamos Proactividad e iniciativa. Capacidad de análisis y resolución de problemas. Trabajo en equipo y comunicación efectiva. Autocrítica y orientación a la mejora continua. Interés por la actualización tecnológica y el aprendizaje constante. Capacidad para identificar y proponer mejoras tecnológicas. Mantener, optimizar y desarrollar funcionalidades en aplicaciones existentes con AngularJS 1.x. Implementar y mantener servicios backend con Java 7, Java 8 y Spring Boot, según el entorno de cada aplicación. Trabajar con bases de datos Oracle, revisando consultas SQL, analizando problemas de datos y ajustando integraciones. Diagnosticar y corregir incidencias de punta a punta, desde la interfaz hasta el backend y la base de datos. Gestionar cambios con Git, participar en revisiones de código y apoyar las pruebas y documentación técnica. Identificar oportunidades de mejora y proponer estrategias de modernización gradual y micromigraciones tecnológicas. Colaborar con desarrolladores, Product Owners y Tech Leaders, aportando soluciones que permitan mejorar las plataformas existentes. Certificación en Java SE, como Oracle Certified Professional (OCP). Certificaciones o formación acreditable en Spring o bases de datos Oracle. Experiencia en integración de APIs REST y pruebas unitarias. Experiencia en modernización gradual o migraciones parciales de aplicaciones Legacy. Conocimientos en versiones modernas de Angular. Ubicación: Santiago, Región Metropolitana. Modalidad: híbrida, con presencialidad de dos días al mes. Renta líquida mensual: $3.000.000.",
+   "tags": [],
+   "puntaje": 16,
+   "motivos": [
+    "+3 Fullstack",
+    "+1 SQL"
    ],
    "idioma": "es",
    "estado": ""
@@ -1403,6 +1354,26 @@
    "estado": ""
   },
   {
+   "id": "getonboard:frontend-engineer-react-typescript-checkr-santiago",
+   "fuente": "GetOnBoard",
+   "titulo": "Front-end Engineer (React + TypeScript)",
+   "empresa": "Checkr",
+   "url": "https://www.getonbrd.com/jobs/frontend-engineer-react-typescript-checkr-santiago",
+   "ubicacion": "Chile (hybrid)",
+   "salario": "CLP 2.800 - 3.600",
+   "publicado": "2026-11-26",
+   "descripcion": "5+ años de experiencia como Frontend Developer o en un rol técnico afín, construyendo interfaces en producción. Dominio sólido de HTML, CSS, TypeScript y React. Comprensión sólida de SEO técnico: HTML semántico, Core Web Vitals (LCP, INP, CLS), optimización de imágenes y cómo el renderizado del lado del cliente afecta el rastreo de los buscadores. Experiencia escribiendo pruebas unitarias y pruebas de integración automatizadas. Capacidad para resolver problemas con autonomía y trabajar con ownership en un entorno de ritmo rápido. Hábito de mantenerte al día con las tendencias y herramientas del ecosistema frontend. Disponibilidad para trabajar en modalidad híbrida en Santiago, 3 días por semana, en nuestras oficinas de Gran Torre Costanera. Nivel de inglés B2 Diseñar, definir la arquitectura, implementar y mantener aplicaciones web en React y TypeScript que mejoren la experiencia de nuestros clientes. Asumir la propiedad de tus entregables de punta a punta, desde la idea hasta producción y su mantenimiento. Escribir y mantener pruebas unitarias y de integración que garanticen entregables de alta calidad. Construir páginas estáticas en HTML + CSS, responsivas y livianas, y email templates atractivos y compatibles con distintos clientes de correo. Aplicar buenas prácticas de SEO técnico: HTML semántico, estructura correcta de encabezados, etiquetas meta y Open Graph, y Core Web Vitals. Identificar de forma proactiva problemas de rendimiento, accesibilidad y experiencia de usuario, y proponer soluciones concretas. Participar en las discusiones y decisiones técnicas del equipo, aportando criterio y compartiendo lo que aprendes. Colaborar con equipos de producto, diseño e ingeniería en Santiago y Estados Unidos. Familiaridad con Redux, React Query, Jest y Cypress. Experiencia práctica con frameworks SSR/SSG (Next.js, Astro, Remix o similares) y estrategias de renderizado orientadas a SEO. Un entorno de colaboración y rápido movimiento Formar parte de una empresa internacional con sede en Estados Unidos Asignación por aprendizaje y desarrollo $3.000 USD al año Remuneración competitiva y oportunidades de promoción profesional y personal Cobertura médica, dental y oftalmológica del 100% para empleados y dependientes Vacaciones adicionales de 5 días y flexibilidad para tomarse tiempo libre En Checkr, creemos que un entorno de trabajo híbrido fortalece la colaboración, impulsa la innovación y fomenta la conexión. Nuestras sedes principales son Denver, CO, San Francisco, CA, y Santiago, Chile. Igualdad de oportunidades laborales en Checkr Checkr se compromete a contratar a personas cualificadas y con talento de diversos orígenes para todos sus puestos tecnológicos, no tecnológicos y de liderazgo. Checkr cree que la reunión y celebración de orígenes, cualidades y culturas únicas enriquece el lugar de trabajo.",
+   "tags": [],
+   "puntaje": 12,
+   "motivos": [
+    "+3 React",
+    "+2 TypeScript",
+    "-2 Híbrido"
+   ],
+   "idioma": "es",
+   "estado": ""
+  },
+  {
    "id": "getonboard:software-engineer-grupo-lagos-santiago-543b",
    "fuente": "GetOnBoard",
    "titulo": "Software Engineer (6 Meses)",
@@ -1443,25 +1414,27 @@
    "estado": ""
   },
   {
-   "id": "getonboard:desarrollador-go-y-node-js-itsmart-santiago",
-   "fuente": "GetOnBoard",
-   "titulo": "Desarrollador Go y Node.js",
-   "empresa": "ITSMART",
-   "url": "https://www.getonbrd.com/jobs/desarrollador-go-y-node-js-itsmart-santiago",
-   "ubicacion": "Chile (hybrid)",
-   "salario": "CLP 1.800 - 2.200",
-   "publicado": "2026-10-23",
-   "descripcion": "Contar con dominio práctico de Go y Node.js (ideal TypeScript; NestJS suma). Experiencia construyendo microservicios y APIs REST en entornos productivos. Uso de Swagger/OpenAPI para diseño y documentación de contratos de API. Manejo de Git y prácticas de colaboración: branches, PRs y code review. Integración con bases de datos: Postgres/MySQL, incluyendo modelado y queries básicos. Uso de Redis para cache/colas/locks según necesidad. Experiencia trabajando con Docker y Kubernetes. Capacidad de diagnosticar y optimizar latencia/rendimiento y apoyar en troubleshooting en Linux/Unix-like. Habilidades colaborativas y responsabilidad en el ciclo de vida del producto (comunicación clara, organización y enfoque en calidad mediante testing). Apoyar en el diseño de soluciones. Desarrollar y mantener microservicios y APIs REST en Go y Node.js (ideal TypeScript; NestJS suma), asegurando documentación con Swagger/OpenAPI. Integrar persistencia en Postgres/MySQL y utilizar Redis (cache, colas y/o locks según necesidad). Implementar testing (unit/integration) con enfoque TDD y asegurar cobertura adecuada. Incorporar mensajería con Kafka o RabbitMQ cuando aplique. Conocer cómo operan los servicios en Docker y Kubernetes. Diagnosticar y optimizar latencia y rendimiento, y apoyar en troubleshooting en ambientes Linux/Unix-like. Experiencia adicional en mensajería con Kafka o RabbitMQ. Mayor profundidad en observabilidad y troubleshooting (identificación de cuellos de botella de rendimiento y latencia, y seguimiento de métricas/trazas). Experiencia más sólida en TypeScript y frameworks como NestJS. Contribución proactiva al diseño de soluciones y mejora continua de la calidad (TDD, cobertura de pruebas y revisión de arquitectura). Seguro Complementario de Salud Reembolso de gastos médicos asociados al copago no cubierto por ISAPRE o FONASA Coberturas sujetas a la póliza vigente Seguro Catastrófico Cobertura para gastos asociados a enfermedades que excedan los límites del seguro complementario, según póliza vigente. Seguro de Vida Beneficio otorgado por la empresa sujeto a las condiciones de la póliza vigente. Licencias Médicas Apoyo conforme a la política interna vigente para licencias de corta duración y casos aplicables. Permisos con Goce de Sueldo Otorgamiento de permisos legales por matrimonio, acuerdo de unión civil, fallecimiento u otras situaciones contempladas por la normativa vigente",
-   "tags": [],
+   "id": "remoteok:1138182",
+   "fuente": "RemoteOK",
+   "titulo": "Sr Dynamics 365 App Developer (remote)",
+   "empresa": "Protective Life",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-dynamics-365-app-developer-remote-protective-life-1138182",
+   "ubicacion": "US Only",
+   "salario": "USD 84.000 - 125.000/año",
+   "publicado": "2026-11-26",
+   "descripcion": "The work we do has an impact on millions of lives, and you can be a part of it. WeÂ help protect our customers against lifeâs uncertainties.Â Regardless ofÂ where you work within theÂ company, youâll beÂ helping provide protection and peace of mind when our customers need it most. Job Summary and Objective of the Position The Application Developer will work as part of the Enterprise Delivery team under the direction of the Director of Dynamics Application Development. The position relies on experience and judgment to build, enhance, and support Dynamics 365 solutions for multiple areas of the business, requiring a broad degree of independence, knowledge, and problem-solving skills. The Application Developer will be responsible for designing and developing new Enterprise web components in Dynamics 365 using C#, SQL, .Net, JavaScript, CRM Plugins, Azure Functions, Power Automate, Power Apps, as well as extending and supporting existing applications. Additional responsibilities include designing and developing new applications and automations as well as extending and supporting existing solutions using the Power Platform including any of the following: Power Apps, Power Automate, Power Virtual Agents, Dataverse, Power FX, Azure Logic Apps, Azure Functions, Azure API Management Gateway, PCF Controls, and SQL Server. The ideal candidate will be a strong communicator, and self-starter working in an agile environment. They will require a high level of experience understanding business problems and coding technically sound solutions following industry best practices while exhibiting the ability to communicate in both a technical and non-technical or business manner, depending on the audience. Â They will be pivotal in adhering to standards for application development and implementation. A familiarity with other serverless microservices, automation, and low code platforms is a plus. This candidate will have the ability to simultaneously address, manage, and deliver multiple units of work within a given timeframe ensuring the timeline is adhered to, quality requirements are documented and followed, and acceptance criteria is met against deadlines.Â The candidate will possess strong institutional knowledge of the insurance and IT industries to craft the most effective and efficient solutions for the business. LOMA Certifications or other insurance industry knowledge preferred. Primary Job Functions: Work with business, digital agents, and IT partners to evaluate and propose solutions Collaborate with business and IT leadership to develop and communicate long term vision and comprehensive strategic plans for solution architecture and delivery Work with product owners, business users, and technical leads to define requirements, assess business value, and develop specifications for enterprise solutions Use Agile best practice to design, develop, and maintain solutions built in enterprise applications platforms Document and monitor application interfaces and architecture Develop and document architecture for enterprise applications and related integrations Drive standards for development and design techniques used by enterprise application teams Monitor emerging trends in enterprise application platforms and determine relevance and impactÂ Design and develop integrated business solutions that interact between multiple enterprise platforms within the cloud (Azure).Â Work Experience, Education, Certification / Training Required: Bachelorâs degree or equivalent certifications / experience required in Computer Science, Engineering, or related subject preferred 3+ years IT development experience required. Â Operational and/or Incident management experience a plus 1+ years of hands-on experience with Microsoft Dynamics 365 or equivalent experience Strong experience and understanding of Microsoft Power Platform with Azure Development (such as Logic Apps, Azure Functions, APIM) Strong experience with Dataverse (common data service) and Data mo",
+   "tags": [
+    "programming"
+   ],
    "puntaje": 12,
    "motivos": [
-    "+2 TypeScript",
-    "+1 Node",
+    "+4 .NET / C#",
     "+1 SQL",
-    "+1 Contenedores",
-    "-2 Híbrido"
+    "+1 Azure",
+    "+2 Remoto",
+    "-5 Solo EE.UU."
    ],
-   "idioma": "es",
+   "idioma": "en",
    "estado": ""
   },
   {
@@ -1491,6 +1464,26 @@
    "puntaje": 12,
    "motivos": [
     "+1 Azure",
+    "+2 Remoto"
+   ],
+   "idioma": "en",
+   "estado": ""
+  },
+  {
+   "id": "remoteok:1138176",
+   "fuente": "RemoteOK",
+   "titulo": "Android Developer",
+   "empresa": "Airalo",
+   "url": "https://remoteOK.com/remote-jobs/remote-android-developer-airalo-1138176",
+   "ubicacion": "UK Only",
+   "salario": "USD 74.800 - 112.200/año",
+   "publicado": "2026-11-26",
+   "descripcion": "Help Us Build The Future of Travel At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world. Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy. We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone. Your Next Destination Location: Remote, anywhere in Spain or the UK. Contract: Spain: Full-time, permanent contrato indefinido via Deel (our employer of record in Spain) UK: Full-time, permanent Benefits: Learn more about our benefits here in this link - https://airalo-public.notion.site/Benefits-25396a97ffca81fb9bc1f0be479f1be3?pvs=74 Â Languages: English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async. Curious what it's actually like to work at Airalo? We've put together a guide for each of the hubs we hire from most, covering our benefits, remote culture, employment setup, and what our team values most: Life at Airalo Â· EspaÃ±a : https://airalo-public.notion.site/life-at-airalo-espana Life at Airalo Â· United Kingdom : https://airalo-public.notion.site/life-at-airalo-united-kingdom You are someone who cares deeply about the quality of your work, the people who use it, and the team you build it with. You take ownership of what you ship, from understanding why it matters to how it behaves once it's in people's hands, and you care whether it made a difference. You enjoy working closely with product managers, designers, QA and backend engineers: you ask questions early, share your ideas, and keep people in the loop so no one has to wonder where things stand. You learn quickly, welcome feedback, and share what you learn with others. You use AI-assisted development with judgment, checking what it produces before you rely on it. Â We are looking for an Android engineer to join the team building the Airalo app. You'll own features from idea to production with your product team, and grow your craft alongside the engineers in our Mobile guild. What You'll Do: Own features end to end: shape them with Product and Design, build, test and release them, and follow how they perform with users Own the quality of your work in production: monitor stability and performance, investigate crashes and ANRs, and fix root causes Contribute to architecture discussions and build within the team's agreed patterns, proposing improvements when you see a better way Keep quality high through meaningful tests and thoughtful code reviews Plan and estimate your work, share progress proactively, and flag early when plans change Take part in product experiments and use what they show to improve the app What You'll Bring: 4+ years of Android development in Kotlin, with production experience in Jetpack Compose Solid engineering fundamentals: clean, readable code, data structures and algorithms, design principles and testing Solid Android fundamentals: app lifecycle, concurrency, memory, performance and debugging Experience shipping and evolving apps at product companies, in cross-functional teams Ownership of your work: you organise it, get yourself unblocked through research, your team or the guild, and deliver what you commit to Hands-on AI-assisted development on real work: you validate what AI produces and understand the code you ship Clear written and spoken communication in English Nice to have: Experience improving app stability and startup performance, including ANRs Experience with in-app payments or checkout flows Experience making apps reliable on poor or unstable connections Experience with Compose UI testing Experience building localized ",
+   "tags": [
+    "programming"
+   ],
+   "puntaje": 8,
+   "motivos": [
     "+2 Remoto"
    ],
    "idioma": "en",
@@ -1568,6 +1561,26 @@
     "+2 Remoto"
    ],
    "idioma": "es",
+   "estado": ""
+  },
+  {
+   "id": "remoteok:1138187",
+   "fuente": "RemoteOK",
+   "titulo": "Senior Frontend Engineer",
+   "empresa": "LastPass",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-lastpass-1138187",
+   "ubicacion": "Europe",
+   "salario": "",
+   "publicado": "2026-11-26",
+   "descripcion": "About LastPass LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across the business, LastPass delivers on its mission to give everyone seamless access to everything they need to work, move fast, and stay protected as their environments evolve. Curious about our products? Visit our websiteÂ and try it free! Â We welcome new ideas, support your growth, and recognize your value, if this aligns with what you are looking for in your next career move, Join Us! LastPass is looking for a Senior Frontend Engineer:Â In this role, you will evolve the LastPass browser extension. As a senior individual contributor, you will shape reliable in-browser experiences for millions of users â helping us deliver on our mission to give everyone seamless access to everything they need to work, move fast, and stay protected. About the team: You will join the Extension team within the Web Cluster at LastPass, a group of experienced and motivated engineers building the core web experiences for consumer users, including the browser extension. The team thrives on collaboration with cross-functional experts and product leaders to deliver impactful, user-centered solutions to customers every day. If you are passionate about complex problem solving and motivated by scale, then this is the role for you! Who will you work with? You will work alongside engineers with diverse skills and a broad focus, whose impact reaches across the engineering organization. You will frequently partner with Product Managers and Product Owners to align on product requirements, and with cross-functional experts and leaders. Your Engineering Manager will support your onboarding, day-to-day activities, and career development. What are some of the exciting challenges you will be working on? Shape the product by designing and shipping new features that solve customer and engineering needs Define the initiatives that drive the technological evolution of the application Evolve the browser extension across Chrome, Edge, Firefox, Safari, and Opera on the modern extension platform (Manifest V3, service workers, content scripts), keeping pace with changing browser capabilities Creating new features for the extension, including security-related capabilities Troubleshoot and debug internal and customer issues to resolve them quickly Influence and shape the engineering culture, creating an environment that is fulfilling to work in and successful in meeting customer needs Mentor and coach engineers in the team and organization to raise engineering capability What does it take to work at LastPass? Proven experience with JavaScript, TypeScript, and React, with solid HTML and CSS fundamental A track record of implementing unit and E2E tests, debugging, and integrating complex code Familiarity with OOP best practices, SOLID principles, Clean Code, and software design patterns Demonstrated ability to design, build, deliver, and maintain quality solutions on time, using version control, build, and bug tracking systems such as Git, GitLab CI, and Jira Experience with secure coding and building highly secure applications Hands-on experience with AI-assisted software development Recognised for excellent problem-solving skills and good written and verbal communication skills in English Known for attention to detail and strong organizational skills It's great, but not required : Experience with PHP Why LastPass? The leader in secure access High-growth, collaborative environment with inclusive teams Remote-first culture Competitive compensation Flexible Paid Time Off policies , including but not limited to: Quarterly Self-Care Days (4 extra paid days off an",
+   "tags": [
+    "programming"
+   ],
+   "puntaje": 8,
+   "motivos": [
+    "+2 Remoto"
+   ],
+   "idioma": "en",
    "estado": ""
   },
   {
